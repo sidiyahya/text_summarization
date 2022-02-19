@@ -1,8 +1,8 @@
 name: text_summarization
 channels:
   - pytorch
-  - anaconda
   - conda-forge
+  - anaconda
   - defaults
 dependencies:
   - _libgcc_mutex=0.1=main
@@ -200,18 +200,18 @@ dependencies:
   - zstd=1.4.9=ha95c52a_0
   - pip:
     - bert-extractive-summarizer==0.10.1
-    - en-core-web-md==3.2.0
     - en-core-web-sm==3.2.0
     - filelock==3.4.2
     - fpdf==1.7.2
     - huggingface-hub==0.4.0
-    - neuralcoref==4.0
     - pypdf2==1.26.0
     - pyyaml==6.0
     - reportlab==3.6.6
     - sacremoses==0.0.47
     - scikit-learn==1.0.2
     - scipy==1.7.3
+    - sentencepiece==0.1.96
     - threadpoolctl==3.1.0
     - tokenizers==0.11.4
     - transformers==4.16.2
+    - wordcloud==1.8.1
