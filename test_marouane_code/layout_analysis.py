@@ -12,6 +12,7 @@ def layout_analysis(path):
     # Create a PDF page aggregator object.
     device = PDFPageAggregator(rsrcmgr, laparams=laparams)
     interpreter = PDFPageInterpreter(rsrcmgr, device)
+    pages_content = []
     for page in PDFPage.get_pages(path):
         interpreter.process_page(page)
         # receive the LTPage object for the page.
@@ -19,12 +20,60 @@ def layout_analysis(path):
         text_elements = []
         for element in layout:
             if isinstance(element, LTTextBoxHorizontal):
-                text_elements.append(element.get_text())
+                text_elements.append(element)
 
         text_elements_ordered = order_pdfminer_text_page(text_elements)
+        pages_content.append("".join(text_elements_ordered))
+
+    return pages_content
 
 
-def order_pdfminer_text_page(page_text):
+def order_pdfminer_text_page(page_text_elements):
     max_column_number = ""
-    thresh = 0
-    page_text_ordered =
+    x_thresh = 50
+    page_text_ordered = 0
+    xs = []
+    found = False
+    for i in range(len(page_text_elements)):
+        element = page_text_elements[i]
+        l_x = element.x0
+        l_y = element.y0
+        found = False
+        if(len(xs)!=0):
+            for column_xs_i in range(len(xs)):
+                 column_xs = xs[column_xs_i]
+                 for x_existant_i in range(len(column_xs)):
+                     x_existant = column_xs[x_existant_i]
+                     if(abs(x_existant[0]-l_x)<x_thresh):
+                         xs[column_xs_i]+=[[l_x, l_y, i]]
+                         found=True
+                         break
+                 if(found):
+                     break
+
+            if(not found):
+                xs += [[[l_x, l_y, i]]]
+
+        else:
+            xs += [[[l_x, l_y, i]]]
+
+
+    columns_to_sort = [xs[i][0] + [i] for i in range(len(xs))]
+    columns_sorted = sorted(columns_to_sort, key=lambda x: x[:][0], reverse=False)
+    elements_sorted_by_column = [xs[i[3]] for i in columns_sorted]
+    #sort by Y
+    text = []
+    for column in elements_sorted_by_column:
+        for element in column:
+            text.append(page_text_elements[element[2]].get_text())
+
+    return text
+
+'''
+    #xs_sorted = sorted(xs, key=lambda x: x[:][0], reverse=True)
+    ys_sorted = sorted(xs, key=lambda y: y[:][1], reverse=True)
+        columns_to_sort = [ys_sorted[i][0]+[i] for i in range(len(ys_sorted))]
+            all_sorted = [ys_sorted[i[2]] for i in columns_sorted]
+
+
+'''
