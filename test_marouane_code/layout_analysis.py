@@ -25,7 +25,8 @@ def layout_analysis(path):
         text_elements_ordered = order_pdfminer_text_page(text_elements)
         pages_content.append("".join(text_elements_ordered))
 
-    return pages_content
+    return "".join(pages_content)
+
 
 
 def order_pdfminer_text_page(page_text_elements):

@@ -1,0 +1,1532 @@
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+HHS Public Access
+Author manuscript
+J Affect Disord. Author manuscript; available in PMC 2021 September 01.
+Published in final edited form as:
+J Affect Disord. 2020 September 01; 274: 199–204. doi:10.1016/j.jad.2020.05.134.
+Social Cognitive Interventions for Adolescents with Autism 
+Spectrum Disorders: A Systematic Review
+Angela Tseng1, Bruno Biagianti2,3,*, Sunday M. Francis1, Christine A. Conelea1, Suma 
+Jacob1
+1.Department of Psychiatry and Behavioral Sciences, University of Minnesota, Minneapolis, MN, 
+USA
+2.Department of R&D, Posit Science Corporation, San Francisco, CA, USA
+3.Department of Department of Pathophysiology and Transplantation, University of Milan, Milan, 
+Italy
+Abstract
+Introduction—Autism spectrum disorder (ASD), a heterogeneous neurodevelopmental disorder, 
+impacts social experience and functioning throughout the lifespan. Although the postnatal phase of 
+neuroplasticity has been a focus for early interventions in ASD, a second critical period in 
+adolescence has emerged as a promising target for experience-dependent remediation. 
+Interventions addressing the multidimensional construct of social cognition have also shown 
+potential as a therapeutic approach. Yet, to date, evidence-based social cognitive interventions 
+(SCIs) designed for adolescents with ASD are still lacking. In this review, we aim to survey and 
+synthesize the extant literature on SCIs for adolescents with ASD in order to inform next steps for 
+treatment research.
+Methods—Using the PRISMA guidelines, we limited our queries to peer-reviewed, English-
+language journal articles describing SCI trials for adolescents with ASD using a randomized 
+controlled design.
+Results—Eighteen articles in total met our inclusion/exclusion criteria. We present and discuss 
+these trials using the non-exclusive categories of group-based social skills interventions, 
+experiential-based interventions, and computer-assisted interventions.
+*corresponding author.
+Contributors
+Angela Tseng: Conceptualization, Writing - Original Draft, Formal Analysis, Investigation, Methodology, Writing - Review & 
+Editing; Bruno Biagianti: Investigation, Methodology, Writing - Review & Editing; Sunday Francis: Investigation, Writing - Review 
+& Editing; Christine Conelea: Investigation, Methodology, Writing - Review & Editing; Suma Jacob: Conceptualization, 
+Investigation, Methodology, Writing - Review & Editing
+Conflict of Interest
+BB is Senior Scientist at Posit Science, a company that produces cognitive training and assessment software. CC is a site principal 
+investigator for a Small Business and Innovation Research grant awarded to Posit Science that tests the effects of a cognitive 
+behavioral digital intervention for adolescents with social anxiety. SJ, AT, and SF report no conflict of interest to the therapeutic 
+modalities and topic of this review.
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our 
+customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of 
+the resulting proof before it is published in its final form. Please note that during the production process errors may be discovered 
+which could affect the content, and all legal disclaimers that apply to the journal pertain.
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+Tseng et al.
+Limitations—To ensure a focus on adolescence, we excluded trials with teen-age participants if 
+mean subject age was not between 12–18 years. Also, given the variability across studies in 
+outcome measures, study designs, samples, and effect sizes, findings were incommensurable.
+Conclusions—Several reviewed SCIs reported post-treatment improvements in varied domains 
+but findings were inconsistent. Further investigations of existing and novel interventions are 
+warranted; attention to assessing and improving long-term skill transfer is essential. Technology-
+assisted augmentations may improve treatment efficacy and ecological validity of therapeutic 
+gains.
+1. 
+Introduction
+Autism spectrum disorder (ASD) is a heterogeneous neurodevelopmental disorder (NDD) 
+with diagnostic criteria specifying persistent deficits in social communication, social 
+interaction, and restricted, repetitive patterns of behavior, interests, or activities (American 
+Psychiatric Association, 2013). The prevalence of ASD in the U.S. has been on the rise, 
+reaching a recent estimate of 1-in-54, with most diagnoses occurring during the preschool 
+years (Maenner et al., 2020). Boys are more than four times as likely to be identified with 
+ASD than girls, and amongst children with IQ scores available, one-third also have 
+intellectual disability (ID). In addition to core symptoms, individuals with ASD often 
+present with a variety of co-occurring medical, developmental, behavioral, or psychiatric 
+conditions that further impact daily functioning and quality of life (Kuhlthau et al., 2017), 
+with many comorbid conditions persisting across the lifespan (Lai et al., 2014).
+Treatment approaches for ASD may include intensive behavioral therapy, medication, 
+educational programming, and ancillary services such as speech/language, occupational, and 
+physical therapy. Timing plays a significant role in therapeutic efficacy, and early 
+intervention has been strongly emphasized so as to coincide with postnatal time-limited 
+epochs of stimulus-driven neuroplasticity. Yet, a second key target for remediation occurs 
+later in development during the mutable stage of adolescence (Ismail et al., 2017); this 
+incipient area of intervention research holds great promise. The onset of puberty creates a 
+cascade of hormonal changes that stimulate numerous structural and functional changes in 
+the brain (Juraska and Willing, 2017). As such, adolescence is a period of heightened socio-
+affective experience-dependent learning and neural plasticity (Cohen Kadosh et al., 2013, 
+Fuhrmann et al., 2015) that manifest as heightened regulation of emotional reactivity and 
+increased social understanding. During this period, neural circuitry sensitive to social 
+cognitive processes undergo adaptive change and maturation; these networks include regions 
+involved in thinking about mental states (dorsal medial prefrontal cortex (PFC), 
+temporoparietal junction), observing faces and biological motion (posterior superior 
+temporal sulcus), applying social knowledge (anterior temporal cortex), and understanding 
+the actions and emotions of others (inferior frontal gyrus) (Blakemore, 2008, Vetter et al., 
+2013).
+For typically-developing (TD) individuals, the onset of novel, adolescent-specific challenges 
+(e.g., forming caring and supportive relationships with peers, making independent decisions, 
+acquiring autonomy from parents) and their success in accomplishing these tasks is 
+J Affect Disord. Author manuscript; available in PMC 2021 September 01.
+Page 2
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+Tseng et al.
+2.  Methods
+Search Strategy
+Eligibility Criteria and Study Selection
+predictive of adaptive functioning in adulthood (e.g., work competence, romantic 
+competence) (Roisman et al., 2004). For individuals with ASD, social impairments in 
+childhood may become more pronounced during adolescence when increasingly complex 
+social demands exceed their competencies. Indeed, an estimated 30% of children with ASD 
+experience functional setbacks when undergoing pubertal changes (Picci and Scherf, 2014). 
+Adverse exposure to interpersonal situations and peer networks may preclude the experience 
+of meaningful social interactions and the development of important social skills. Indubitably, 
+further investigation at this juncture of potentially heightened susceptibility in adolescence is 
+vital to the establishment of efficacious interventions for ASD.
+Several areas of struggle for individuals with ASD are subsumed by the multidimensional 
+construct of social cognition outlined as four partially-overlapping critical domains - 
+emotion processing, social perception, theory of mind/mental state attribution, and 
+attributional style/bias (Pinkham et al., 2014). Impairment in or across these domains while 
+navigating a complex social world can have a substantial impact on individual functioning 
+and long-term quality of life for persons with ASD. Accordingly, interest in interventions 
+that address these domains of social cognition has been on the rise. Consistent with the 
+trajectory of research in ASD, the development of social cognitive interventions (SCIs) for 
+adolescents with ASD has lagged behind treatments designed for younger children and 
+adults. Although some studies have included participants within the adolescent age range, 
+those programs were rarely designed specifically for teenagers. Hence, the goals of this 
+review are to survey and synthesize the extant literature on SCIs for adolescents with ASD 
+in order to inform next steps for treatment research.
+We conducted this review in accordance with the Preferred Reporting Items for Systematic 
+Reviews and Meta-Analyses (PRISMA) Statement (Moher et al., 2009). Our overarching 
+search strategy involved querying electronic databases (Embase, Elsevier; PsycINFO, APA; 
+PubMed, APA) with customized search strings, followed by manual filtering of query results 
+using predefined inclusion and exclusion criteria (See Figure 1). In an effort to capture 
+social-cognition-based interventions whether or not they were labeled as such, we included 
+key domain terms as well as terms analogous to “interventions” and variations of “autism” 
+in our queries. We used Boolean operators (AND, OR) to delineate our results.
+We first identified studies by restricting our search to peer-reviewed, English-language 
+journal articles; non-human, review, and meta-analytic reports were excluded. We also 
+included the MeSH term “adolescence” as an age group limiter which returned studies with 
+any participants between 13–17 years of age. Ultimately, studies were included if they: (1) 
+reported findings from randomized controlled trials (RCTs); (2) recruited and reported data 
+for individuals with ASD diagnoses; (3) recruited and reported data for participant groups 
+within the adolescent age-range; and (4) reported findings from an SCI. Studies were 
+excluded if they (1) focused on adults or younger children; (2) did not include social 
+J Affect Disord. Author manuscript; available in PMC 2021 September 01.
+Page 3
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+Tseng et al.
+3.  Results
+Group-Based Social Skills Interventions (GSSI)
+cognitive constructs as an independent variable; or (3) included secondary analyses only. In 
+order to reduce biological confounds due to the heterogeneity of study design and samples, 
+we also excluded studies wherein the independent variables were primarily physiological, 
+e.g., drugs (e.g., Oxytocin, Risperidone, d-Cycloserine), devices (tDCS, rTMS), 
+neuroimaging (EEG, fMRI), physical therapy, or biofeedback.
+Finally, all authors reviewed the remaining articles in-depth. Several investigations identified 
+by our initial query included teen-age participants even though full study samples largely 
+comprise adults or younger children. Thus, in order to better circumscribe the adolescent age 
+group, we agreed to limit our review to studies in which the mean age of participants with 
+ASD was between 12–18 years. Consensus for inclusion was reached after discussion with 
+all authors involved.
+We conducted full database queries in February 2020. Our search strategy returned 117 
+unique results after duplicates were removed. After initial screening by the lead author (AT) 
+and group review of titles and abstracts, 84 articles were excluded. We ruled out 14 
+additional reports because mean age of participants was not between 12–18 years, and 1 
+report was not reviewed because the full-text was inaccessible. Eighteen articles in total 
+were included in the final review. Study design and key findings are presented and discussed 
+below under the broad, non-exclusive categories of group-based social skills interventions, 
+experiential-based interventions, and computer-assisted intervention; key details about study 
+methods are presented in supplementary material.
+Over the last decade, group-based social skills interventions have grown in availability and 
+popularity as a means to address social cognitive deficits in individuals with ASD. GSSIs 
+vary considerably in their content, teaching strategy, mode of delivery, and intensity. 
+However, often, GSSIs are informed by a cognitive behavioral therapy (CBT) framework 
+and utilize behavioral modeling of a specific social skill, role play activities to practice 
+skills, and individualized feedback on performance. Teaching strategies may employ 
+structured lessons or in vivo skills-practice with differing levels and combinations of 
+therapist, parent, peer, or teacher involvement. Whereas several systematic reviews have 
+evaluated GSSIs for use in ASD (e.g., Gates et al., 2017, Wolstencroft et al., 2018), to our 
+knowledge, none have assessed RCTs for the adolescent age-range specifically.
+We identified 12 RCTs that used a GSSI approach and met our inclusion criteria. All of 
+these trials included ASD participants with Verbal IQs > 70 or the equivalent; this is not 
+surprising given that GSSIs are generally designed for high-functioning individuals. Six 
+reports described implementations of PEERS (Program for the Education and Enrichment of 
+Relationship Skills), one of the few evidence-based social skills programs available for 
+adolescents with ASD. Five trials applied the following manualized, group-based, in-person 
+programs: Multimodal Anxiety and Social Skills Intervention (MASSI), Social Skills Group 
+Training (SSGT; “KONTAKT”), and SOSTA-FRA (Social Skills Training Autism-
+Frankfurt). One additional study used a multi-family group psychoeducation approach 
+J Affect Disord. Author manuscript; available in PMC 2021 September 01.
+Page 4
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+Tseng et al.
+(Transitioning Together) designed for families of individuals with ASD during the transition 
+to adulthood.
+PEERS (Program for the Education and Enrichment of Relationship Skills) utilizes 
+principles of CBT to teach skills for solving real-life social dilemmas, appraising affect and 
+social contexts, and initiating and maintaining conversations while receiving feedback from 
+peers and clinicians. Structured practice interactions during socialization activities (e.g., 
+playing sports, games) are integrated into the curricula. Concurrently, parents attend separate 
+sessions and are taught how to assist teens in making and keeping friends by providing 
+feedback during weekly socialization homework assignments. In the initial RCT testing 
+PEERS, Laugeson and colleagues (2011) reported gains in social skills and responsiveness 
+that were largely maintained at a 14-week follow-up assessment. Subsequently, Schohl et al. 
+(2013) completed an independent replication and extension of PEERS with additional 
+measures of social anxiety and problem behaviors. This treatment group also demonstrated 
+social skills improvement along with a reduction in social anxiety, core ASD symptoms, and 
+problem behaviors. Overall, findings contributed to knowledge of treatment efficacy and 
+support the application of PEERS as an intervention. However, one potential caveat is the 
+use of TASSK (Test of Adolescent Social Skills Knowledge), a self-report measure created 
+by the developers of PEERS (Laugeson et al., 2009), to assess PEERS outcomes. TASSK 
+tests knowledge of specific, key social skills that are taught during the intervention. Ideally 
+an outcome measure would also gauge real-world skills application and generalizability to 
+novel situations. In a recent trial, Matthews and colleagues (2018) contrasted a novel, peer-
+mediated PEERS (PwP) against the traditional PEERS curriculum and a delayed treatment 
+control group. Findings suggest that PwP is feasible and may have a modest advantage in 
+improving social skills knowledge and social functioning relative to traditional PEERS. 
+RCTs of adaptations of PEERS to Hebrew, Chinese, and Korean (Rabin et al., 2018, Shum 
+et al., 2018, Yoo et al., 2014) have also reported significant social skills improvements for 
+their treatment groups along with cross-cultural validation of the translated/adapted versions.
+MASSI (Multimodal Anxiety and Social Skills Intervention) was developed in response to 
+the high co-occurrence of social anxiety disorder with ASD and evidence that social 
+disability in ASD may be driven in part by social anxiety (White et al., 2012). MASSI uses 
+CBT strategies to target concurrent anxiety (e.g., exposure, cognitive restructuring, 
+psychoeducation) and social skills deficits (e.g., modeling, feedback, role-play practice) with 
+specific, individualized content selected by the therapist. All group sessions include one 
+unaffected peer tutor volunteer. White and colleagues conducted a feasibility trial of MASSI 
+in 30 adolescents with ASD and anxiety symptoms of moderate or greater severity. Their 
+data suggest the possibility that this intervention may have more specific effects on core 
+ASD-related social deficits than on anxiety symptoms, such that participants improved 
+significantly on the Social Responsiveness Scale (SRS) but not on anxiety measures. 
+Subsequently, Ireri et al. (2019) adapted MASSI for a special educational setting in Kenya; 
+parents, teachers, and 40 children with ASD were randomized by school to either MASSI or 
+treatment as usual (1 active and 1 control school). This version of MASSI applied a higher 
+treatment dose by including a second phase of 20 more sessions focused on skills practice. 
+Results from this trial demonstrated significant improvements in both ASD-related social 
+impairment and anxiety, suggesting that adding teacher-mediated skills practice and 
+J Affect Disord. Author manuscript; available in PMC 2021 September 01.
+Page 5
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+Tseng et al.
+additional training sessions may improve outcomes. These findings support the cross-
+cultural expansion of MASSI to a school-based implementation model. It should be noted, 
+however, that no measure of cognitive function was reported and concurrent interventions 
+were not tracked in this trial.
+SOSTA-FRA (Social Skills Training Autism-Frankfurt), a highly structured, CBT-based 
+GSSI developed in Germany, combines computer-assisted and social learning methods of 
+teaching and practicing social skills. Freitag et al. (2016) conducted a multicenter RCT 
+comparing SOSTA-FRA to treatment as usual that featured a rigorous design, including 
+sample characterization using ADOS and IQ testing, large sample size, follow-up through 3 
+months, and a naturalistic inclusion criterion that allowed concurrent pharmacotherapy and 
+psychosocial interventions.. Attrition was low and therapy quality was rated positively by 
+participants. Pre-treatment parent-rated (p)SRS and IQ were positively associated with 
+stronger improvement at follow-up. The authors also report a descriptive observation that 
+female participants improved more than males on the pSRS. However, due to the high 
+male:female ratio common to ASD studies, power was too low to compare effect sizes. 
+These findings underscore the importance of assessing the relationship between IQ, sex, and 
+SCI outcomes in future trials.
+KONTAKT or SSGT (Social Skills Group Training), a Swedish CBT-based GSSI for youth 
+with ASD, includes exercises in social skills as well as discussions of social cognition, social 
+interaction, self-reflection, and descriptions of self and others. The program is conducted in 
+cooperation with both parents and teachers and can be delivered in a brief (12 sessions) or 
+long (24 sessions) format. Each therapy group consists of 4–8 youth (child or adolescent 
+sub-groups) with two group leaders. Similar to SOSTA-FRA, KONTAKT trials featured a 
+rigorous design including multiple sites, large N, follow-up through 3 months, ADOS 
+characterization, and IQ assessment, while affording a pragmatic implementation (natural 
+clinical setting, common comorbidities allowed, delivered by regular clinic staff). Choque-
+Olsson and colleagues (2017) compared KONTAKT to treatment as usual and reported that 
+significant treatment effects on primary outcome measures were limited to pSRS-2 for the 
+adolescent and female subgroups, suggesting that age and gender may moderate the effects 
+of GSSIs for ASD. While findings were moderate and inconsistent, this trial demonstrated 
+the feasibility of delivering KONTAKT in real-world mental health service settings. 
+Subsequently, Jonsson and colleagues (2018) conducted the long form (24 sessions) of 
+KONTAKT with a comparatively smaller group of youth with ASD (N=50). Scores on the 
+pSRS-2 revealed large effects post-treatment which were maintained at follow-up, indicating 
+that dosing and duration of treatment play key roles in SCI efficacy.
+Transitioning Together is a multi-family group psychoeducation intervention designed to 
+reduce family distress and improve social functioning for adolescents with ASD. In a 
+preliminary evaluation, DaWalt et al. (2017) found significant improvements in social 
+interactions following treatment for the intervention group, but not for controls. Also, 
+parental depressive symptoms decreased and problem-solving improved for parents in the 
+intervention condition. Notably, IQ was significantly higher in the intervention group despite 
+random assignment; this may have influenced outcomes and future studies should consider 
+the role of cognitive ability as a moderating variable.
+J Affect Disord. Author manuscript; available in PMC 2021 September 01.
+Page 6
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+Tseng et al.
+Experiential-Based Interventions
+Many existing SCIs rely on systematic instructional methods to address social cognition 
+deficits associated with ASD. However, embedded opportunities for practice in real-world 
+situations are limited; while structured interventional context may confer a therapeutic 
+effect, the predominantly didactic approaches do not address ecological barriers to 
+application. For example, an individual with ASD may not be able to practice a newly 
+acquired social skill with peers who reject or ignore them. Interventions that take these 
+obstacles into consideration may improve transfer of skills to novel, everyday interactions.
+The START (Social Tools And Rules for Teen) program (Vernon et al., 2017) is an 
+immersive socialization intervention that focuses on improving social motivation, insight, 
+and skills by incorporating a club-like environment that emphasizes learning through 
+experiential and interactive lessons. Adolescent participants, college-aged social facilitators, 
+high school peers, and parents (only at end of session) attended each group. Significant 
+improvements between pre- and post-intervention assessments were reported for multiple 
+social cognitive outcome measures, suggesting that experience-based SCIs can help improve 
+social readiness in adolescents with ASD. One selection bias concern is that, despite random 
+assignment, the treatment group endorsed significantly lower adolescent-reported SSIS 
+scores at pre-intervention and this may have skewed results.
+Strickland et al. (2013) evaluated JobTIPS, an internet-accessed tool designed to teach job 
+interview skills to nearing transition-age individuals. Treatment included multimedia 
+educational content with ToM-based guidance, video models, and visual supports for 1 week 
+and virtual reality practice session with avatars led remotely by an experienced clinician. 
+Training was associated with significant improvements in the verbal content of responses to 
+job interview questions along with a trend toward improving the delivery (e.g., posture, eye 
+contact, facial expression) of those responses. This trial is one of the few to assess and 
+demonstrate generalization, such that JobTIPS afforded skill-transfer to face-to-face mock 
+interviews that simulate real-world situations.
+CONTACT (Conflict Orientation and Negotiation Training Among Children and Teens), a 
+computerized video modeling and video self-modeling application, was developed to 
+improve conflict negotiation strategies in adolescents with ASD who may be inclined toward 
+avoidance of social conflict (Hochhauser et al., 2017). Negative socialization experiences 
+often lead to poor quality peer friendships or isolation. Video modeling interventions 
+typically involve watching video demonstrations of an adaptive behavior before imitation; 
+video self-modeling involves watching and learning from one's own positive behavior. 
+CONTACT was designed for pairs of participants, matched on similarities in their social and 
+cognitive abilities, to engage in training with mediation (e.g., prompts, guided questions, and 
+explanations) by an experienced moderator. One advantage to this experiential approach is 
+that it enables participants to practice their adaptive responses to socially-relevant stimuli in 
+simulated conflict situations that may be less threatening than real-world interactions. 
+Hochhauser and colleagues reported significant improvements for the treatment group in 
+their self-reported negotiation attitudes and behaviors, specifically in their self-confidence, 
+communication factors, and willingness to engage in cooperative negotiation.
+J Affect Disord. Author manuscript; available in PMC 2021 September 01.
+Page 7
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+Tseng et al.
+Computer-Assisted Interventions
+The Referential Communication Training Program (Olivar-Parra et al., 2011) addressed 
+participants’ ability to select and organize information for a communicative exchange. 
+Training sessions included pairs of verbal-mental-age and sex-matched ASD and TD 
+participants as speakers and listeners with an adult to guide and facilitate learning. Notably, 
+this trial is one of the few that did not exclude participants for ID. Although introducing a 
+wide range of verbal ages and cognitive levels amongst participants impacts interpretation of 
+results from a small sample (N=20 pairs), the inclusion of varying levels of cognitive ability 
+is more reflective of the heterogeneous presentation of ASD. Further, speakers in the trained 
+and untrained groups did not differ in chronological age, level of receptive language, IQ, or 
+number of ASD symptoms. Finding showed significant increases in the complexity of 
+emitted messages in the treatment group; however, these improvements were not maintained 
+at the follow-up generalization stage.
+Rapid progress in the fields of technology offer tremendous possibilities for innovation in 
+treatment for individuals with ASD. In recent years, computer-assisted and other 
+technology-aided approaches to supplement existing therapies or as the primary delivery 
+modality have been proliferating, with varying levels of efficacy and generalizability. 
+Computer-based technologies may be particularly beneficial to individuals with ASD 
+because of their capacity to limit distractions from extraneous sensory stimuli, to provide 
+consistent and predictable responses, and to offer clearly defined tasks. Surprisingly, in 
+addition to the CONTACT program described earlier, only two RCTs fit our criteria, in large 
+part because we excluded programs where the mean age of participants was not within the 
+adolescent age-range.
+The earliest trial meeting our criteria (Silver and Oakes, 2001) used The Emotion Trainer, an 
+interactive multimedia computer program with corrective feedback; significant 
+improvements were reported on emotion recognition in cartoon but not human faces for the 
+experimental group. Although these gains did correlate significantly with the number of 
+times each participant used the computer program, it was unclear whether these skills would 
+be transferred to real-world situations.
+More recently, Fage and colleagues (2018) tested a tablet-based intervention using a set of 
+mobile applications, School+, to support school inclusion of children with ASD in 
+mainstream classrooms. Assistive and rehabilitation applications were used for three months 
+by 33 youth (ASD: 14, ID: 19 ) from special-education classrooms during their first 
+inclusion in mainstream classrooms in secondary schools. Fifteen children with ASD, who 
+were not equipped with School+, participated as a comparative group. Both tablet-equipped 
+groups exhibited significant improvements on socio-cognitive functioning measures. Tablet-
+ASD participants, but not Tablet-ID participants, exhibited improvements on socio-adaptive 
+behaviors and social response. It is difficult to draw conclusions about the use of School+ in 
+individuals with ID as a non-equipped ID comparative group was not included in the study. 
+However, in contrast to the equipped-ASD group, the non-equipped ASD group 
+demonstrated no significant changes across time. These findings provide support for the 
+efficacy of using the School+ program with individuals with ASD.
+J Affect Disord. Author manuscript; available in PMC 2021 September 01.
+Page 8
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+Tseng et al.
+4.  Discussion
+Summary of findings
+Limitations
+5.  Conclusions & Future Directions
+For this systematic review, we aimed to ascertain the current state of knowledge in the 
+development of social cognitive interventions for adolescents with ASD. Altogether, 
+eighteen studies met our inclusion criteria. Two-thirds of the publications used CBT-
+informed group-based social skills interventions; half of those applied versions of PEERS. A 
+small number of programs integrated experiential-based learning paradigms to augment 
+CBT approaches by enabling real-world practice and reflection. Technological 
+advancements such as virtual reality platforms have emerged as a means to include remote 
+interactions between participants and clinician or teacher facilitators (e.g., Strickland et al., 
+2013). Immersive technology that affords opportunities for practice in a simulated but 
+realistic environments may improve ecological validity of programs. Further, the use of 
+computer-assisted modalities to enhance existing interventions may increase their versatility 
+and overall appeal, enabling individualized mediation and facilitation by trained 
+professionals (Khan et al., 2019).
+Several shortcomings exist in the field across all ages. For example, most GSSIs are time 
+and resource intensive so sample sizes tend to be small, thus limiting power. In-person 
+treatments may be geographically inaccessible to families who live in remote areas. While 
+technology-assisted interventions may offset some of these constraints, they may also 
+require a means to connect to internet. Further, most SCIs have been designed for and tested 
+in individuals without ID (IQ >70), effectively neglecting one-third of individuals with ASD. 
+Moreover, given the prevalence ratio of about 4 males for every 1 female diagnosed with 
+ASD, it is not surprising that SCIs have been evaluated with more males than females. 
+However, research suggests that IQ and sex may moderate SCI outcomes for ASD (Choque-
+Olsson et al., 2017, Freitag et al., 2016), necessitating further investigation with these under-
+sampled individuals.
+The present systematic review has limitations. In order to restrict our results to SCIs for 
+adolescents with ASD, we did not include several trials that included teen-age participants 
+but did not focus on the adolescent age group. The majority of therapeutic advances in the 
+field have been developed for younger children or adults; often adolescent trials are 
+essentially extensions of child- or adult-directed programs. However, as noted, the period 
+during and after puberty is a unique developmental stage and considering adolescent-specific 
+variables in treatment design and outcomes is warranted. In addition, given the diversity of 
+social, cognitive, and clinical assessments used across investigations, as well as the 
+heterogeneity of study designs, samples, and effect sizes, outcome findings were 
+incommensurable.
+Findings from our review highlight the paucity of social cognitive interventions designed 
+specifically for adolescents with ASD. Although much attention is given to ASD in early 
+J Affect Disord. Author manuscript; available in PMC 2021 September 01.
+Page 9
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+Tseng et al.
+Supplementary Material
+Acknowledgments
+References
+childhood (Wolff et al., 2018), the interval of neuroplasticity between puberty and the 
+transition to adulthood affords an opportunity to capitalize on the dynamic structural and 
+functional reorganization of neurons susceptible to developmental and experiential demands 
+(Blakemore, 2010). In particular, for individuals with NDDs, neuroplasticity may subserve 
+the compensatory mechanisms modulating symptom severity (Dow-Edwards et al., 2019). 
+Notably, PFC, the nucleus of higher-level cognitive functions, undergoes the most protracted 
+development; synaptic spines within PFC exhibit overproduction during childhood with 
+remodeling and pruning of spines continuing beyond adolescence and throughout the third 
+decade of life (Petanjek et al., 2011). Hence, interventions directed at this sensitive phase of 
+neurodevelopment may result in more significant impact on long-term outcomes.
+Potential areas for advancement in the development of SCIs for adolescents with ASD are 
+substantial. We have identified several promising areas that warrant further investigation. For 
+example, a primary concern in the application of treatment programs is whether skills 
+acquired during therapy transfer to real-world settings over time. Extended follow-up of 
+participants would help evaluate the longevity and generalizability of therapeutic gains. SCIs 
+that incorporate simulated or real-world practice of skills have shown favor; technology-
+based augmentations of existing evidence-based strategies may not only enhance treatment 
+uptake but also enable remote delivery of efficacious interventions.
+Refer to Web version on PubMed Central for supplementary material.
+Role of the Funding source
+This study was supported by the National Institute of Mental Health under Award Numbers R43 1 R43 
+MH121209-01 (BB, CC) and R01MH115046-02 (SJ). The content is solely the responsibility of the authors and 
+does not necessarily represent the official views of the funding agencies.
+American Psychiatric Association, A. (2013). Diagnostic and Statistical Manual of Mental Disorders.
+Blakemore SJ (2010). The Developing Social Brain: Implications for Education. Neuron, 65(6), 744–
+747. [PubMed: 20346751] 
+Blakemore SJ (2008). The social brain in adolescence. Nat Rev Neurosci, 9(4), 267–277. [PubMed: 
+18354399] 
+Choque-Olsson N, Flygare O, Coco C, Görling A, Råde A, Chen Q, … Bölte S (2017). Social Skills 
+Training for Children and Adolescents With Autism Spectrum Disorder: A Randomized Controlled 
+Trial. Journal of the American Academy of Child & Adolescent Psychiatry, 56(7), 585–592.
+Cohen Kadosh K, Linden DE, & Lau JY (2013). Plasticity during childhood and adolescence: 
+innovative approaches to investigating neurocognitive development. Dev Sci, 16(4), 574–583. 
+[PubMed: 23786475] 
+DaWalt LS, Greenberg JS, & Mailick MR (2017). Transitioning Together: A Multi-family Group 
+Psychoeducation Program for Adolescents with ASD and Their Parents. Journal of Autism and 
+Developmental Disorders, 48(1), 251–263.
+Dow-Edwards D, MacMaster FP, Peterson BS, Niesink R, Andersen S, & Braams BR (2019). 
+Experience during adolescence shapes brain development: From synapses and networks to normal 
+and pathological behavior. Neurotoxicology and Teratology, 76. [PubMed: 30954542] 
+J Affect Disord. Author manuscript; available in PMC 2021 September 01.
+Page 10
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+Tseng et al.
+Fage C, Consel CY, Balland E, Etchegoyhen K, Amestoy A, Bouvard M, & Sauzéon H (2018). Tablet 
+Apps to Support First School Inclusion of Children With Autism Spectrum Disorders (ASD) in 
+Mainstream Classrooms: A Pilot Study. Frontiers in Psychology, 9.
+Freitag CM, Jensen K, Elsuni L, Sachse M, Herpertz-Dahlmann B, Schulte-Rüther M, … Cholemkery 
+H (2016). Group-based cognitive behavioural psychotherapy for children and adolescents with 
+ASD: the randomized, multicentre, controlled SOSTA - net trial. Journal of Child Psychology and 
+Psychiatry, 57(5), 596–605. [PubMed: 26715086] 
+Fuhrmann D, Knoll LJ, & Blakemore S-J (2015). Adolescence as a Sensitive Period of Brain 
+Development. Trends in Cognitive Sciences, 19(10), 558–566. [PubMed: 26419496] 
+Gates JA, Kang E, & Lerner MD (2017). Efficacy of group social skills interventions for youth with 
+autism spectrum disorder: A systematic review and meta-analysis. Clinical Psychology Review, 
+52, 164–181. [PubMed: 28130983] 
+Hochhauser M, Weiss PL, & Gal E (2017). Enhancing conflict negotiation strategies of adolescents 
+with autism spectrum disorder using video modeling. Assistive Technology, 30(3), 107–118. 
+[PubMed: 28001493] 
+Ireri NW, White SW, & Mbwayo AW (2019). Treating Anxiety and Social Deficits in Children with 
+Autism Spectrum Disorder in Two Schools in Nairobi, Kenya. Journal of Autism and 
+Developmental Disorders, 49(8), 3309–3315. [PubMed: 31093801] 
+Ismail FY, Fatemi A, & Johnston MV (2017). Cerebral plasticity: Windows of opportunity in the 
+developing brain. European Journal of Paediatric Neurology, 21(1), 23–48. [PubMed: 27567276] 
+Jonsson U, Olsson NC, Coco C, Görling A, Flygare O, Råde A, … Bölte S (2018). Long term social 
+skills group training for children and adolescents with autism spectrum disorder: a randomized 
+controlled trial. European Child & Adolescent Psychiatry, 28(2), 189–201. [PubMed: 29748736] 
+Juraska JM, & Willing J (2017). Pubertal onset as a critical transition for neural development and 
+cognition. Brain Res, 1654(Pt B), 87–94. [PubMed: 27060769] 
+Khan K, Hall CL, Davies EB, Hollis C, & Glazebrook C (2019). The Effectiveness of Web-Based 
+Interventions Delivered to Children and Young People With Neurodevelopmental Disorders: 
+Systematic Review and Meta-Analysis. Journal of Medical Internet Research, 21(11).
+Kuhlthau KA, McDonnell E, Coury DL, Payakachat N, & Macklin E (2017). Associations of quality 
+of life with health-related characteristics among children with autism. Autism, 22(7), 804–813. 
+[PubMed: 28691502] 
+Lai M-C, Lombardo MV, & Baron-Cohen S (2014). Autism. The Lancet, 383(9920), 896–910.
+Laugeson EA, Frankel F, Gantman A, Dillon AR, & Mogil C (2011). Evidence-Based Social Skills 
+Training for Adolescents with Autism Spectrum Disorders: The UCLA PEERS Program. Journal 
+of Autism and Developmental Disorders, 42(6), 1025–1036.
+Laugeson EA, Frankel F, Mogil C, & Dillon AR (2009). Parent-assisted social skills training to 
+improve friendships in teens with autism spectrum disorders. J Autism Dev Disord, 39(4), 596–
+606. [PubMed: 19015968] 
+Maenner MJ, Shaw KA, Baio J, EdS, Washington A, Patrick M., … Dietz PM (2020). Prevalence of 
+Autism Spectrum Disorder Among Children Aged 8 Years - Autism and Developmental 
+Disabilities Monitoring Network, 11 Sites, United States, 2016 MMWR Surveill Summ, 69(4), 1–
+12.
+Matthews NL, Orr BC, Warriner K, DeCarlo M, Sorensen M, Laflin J, & Smith CJ (2018). Exploring 
+the Effectiveness of a Peer-Mediated Model of the PEERS Curriculum: A Pilot Randomized 
+Control Trial. Journal of Autism and Developmental Disorders, 48(7), 2458–2475. [PubMed: 
+29453708] 
+Moher D, Liberati A, Tetzlaff J, & Altman DG (2009). Preferred reporting items for systematic 
+reviews and meta-analyses: the PRISMA statement. Bmj, 339(721 1), b2535–b2535. [PubMed: 
+19622551] 
+Olivar-Parra J-S, De-La-Iglesia-Gutiérrez M, & Forns M (2011). Training Referential Communicative 
+Skills to Individuals with Autism Spectrum Disorder: A Pilot Study. Psychological Reports, 
+109(3), 921–939. [PubMed: 22420121] 
+J Affect Disord. Author manuscript; available in PMC 2021 September 01.
+Page 11
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+Tseng et al.
+Petanjek Z, Judaš M, Šimic G, Rašin MR, Uylings HBM, Rakic P, & Kostovic I (2011). Extraordinary 
+neoteny of synaptic spines in the human prefrontal cortex. Proceedings of the National Academy 
+of Sciences, 108(32), 13281–13286.
+Picci G, & Scherf KS (2014). A Two-Hit Model of Autism. Clinical Psychological Science, 3(3), 349–
+371. [PubMed: 26609500] 
+Pinkham AE, Penn DL, Green MF, Buck B, Healey K, & Harvey PD (2014). The social cognition 
+psychometric evaluation study: results of the expert survey and RAND panel. Schizophr Bull, 
+40(4), 813–823. [PubMed: 23728248] 
+Rabin SJ, Israel-Yaacov S, Laugeson EA, Mor-Snir I, & Golan O (2018). A randomized controlled 
+trial evaluating the Hebrew adaptation of the PEERS® intervention: Behavioral and questionnaire-
+based outcomes. Autism Research, 11(8), 1187–1200. [PubMed: 30095232] 
+Roisman GI, Masten AS, Coatsworth JD, & Tellegen A (2004). Salient and Emerging Developmental 
+Tasks in the Transition to Adulthood. Child Development, 75(1), 123–133. [PubMed: 15015679] 
+Schohl KA, Van Hecke AV, Carson AM, Dolan B, Karst J, & Stevens S (2013). A Replication and 
+Extension of the PEERS Intervention: Examining Effects on Social Skills and Social Anxiety in 
+Adolescents with Autism Spectrum Disorders. Journal of Autism and Developmental Disorders, 
+44(3), 532–545.
+Shum KK-M, Cho WK, Lam LMO, Laugeson EA, Wong WS, & Law LSK (2018). Learning How to 
+Make Friends for Chinese Adolescents with Autism Spectrum Disorder: A Randomized 
+Controlled Trial of the Hong Kong Chinese Version of the PEERS® Intervention. Journal of 
+Autism and Developmental Disorders, 49(2), 527–541.
+Silver M, & Oakes P (2001). Evaluation of a new computer intervention to teach people with autism or 
+Asperger syndrome to recognize and predict emotions in others. Autism, 5(3), 299–316. [PubMed: 
+11708589] 
+Strickland DC, Coles CD, & Southern LB (2013). JobTIPS: A Transition to Employment Program for 
+Individuals with Autism Spectrum Disorders. Journal of Autism and Developmental Disorders, 
+43(10), 2472–2483. [PubMed: 23494559] 
+Vernon TW, Miller AR, Ko JA, Barrett AC, & McGarry ES (2017). A Randomized Controlled Trial of 
+the Social Tools And Rules for Teens (START) Program: An Immersive Socialization Intervention 
+for Adolescents with Autism Spectrum Disorder. Journal of Autism and Developmental Disorders, 
+48(3), 892–904.
+Vetter NC, Leipold K, Kliegel M, Phillips LH, & Altgassen M (2013). Ongoing development of social 
+cognition in adolescence. Child Neuropsychol, 19(6), 615–629. [PubMed: 22934659] 
+White SW, Ollendick T, Albano AM, Oswald D, Johnson C, Southam-Gerow MA, … Scahill L 
+(2012). Randomized Controlled Trial: Multimodal Anxiety and Social Skill Intervention for 
+Adolescents with Autism Spectrum Disorder. Journal of Autism and Developmental Disorders, 
+43(2), 382–394.
+Wolff JJ, Jacob S, & Elison JT (2018). The journey to autism: Insights from neuroimaging studies of 
+infants and toddlers. Dev Psychopathol, 30(2), 479–495. [PubMed: 28631578] 
+Wolstencroft J, Robinson L, Srinivasan R, Kerry E, Mandy W, & Skuse D (2018). A Systematic 
+Review of Group Social Skills Interventions, and Meta-analysis of Outcomes, for Children with 
+High Functioning ASD. Journal of Autism and Developmental Disorders, 48(7), 2293–2307. 
+[PubMed: 29423608] 
+Yoo H-J, Bahn G, Cho I-H, Kim E-K, Kim J-H, Min J-W, … Laugeson EA (2014). A Randomized 
+Controlled Trial of the Korean Version of the PEERS®Parent-Assisted Social Skills Training 
+Program for Teens With ASD. Autism Research, 7(1), 145–161. [PubMed: 24408892] 
+J Affect Disord. Author manuscript; available in PMC 2021 September 01.
+Page 12
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+Tseng et al.
+•
+•
+•
+•
+A second window of neuroplasticity that occurs in adolescence has emerged 
+as a promising target for experience-dependent remediation in autism 
+spectrum disorder (ASD)
+Evidence-based, social cognitive interventions (SCIs) for ASD that target the 
+critical period between puberty and the transition to adulthood are lacking
+Extant treatments that address the multidimensional construct of social 
+cognition in adolescents with ASD include group-based social skills 
+interventions, experiential-based interventions, and computer-assisted 
+interventions
+Some programs demonstrated post-treatment improvement but findings are 
+inconsistent; further research is needed to assess and improve long-term 
+transfer of skills and to develop technology-assisted tools that augment 
+efficacy and ecological validity of treatments
+J Affect Disord. Author manuscript; available in PMC 2021 September 01.
+HIGHLIGHTS
+Page 13
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+ 
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+Tseng et al.
+Figure 1. 
+PRISMA Flow Diagram.
+J Affect Disord. Author manuscript; available in PMC 2021 September 01.
+Page 14
