@@ -2,6 +2,9 @@ import string
 import re
 
 # remove punctuation
+from t.specific_cleaning_standard import clean_standard_articles
+
+
 def remove_punctuation(text):
     translator = str.maketrans('', '', string.punctuation)
     return text.translate(translator)
@@ -23,7 +26,7 @@ def remove_outliers(text):
     text_without_references = remove_references(text_without_ponctuation)
     text_without_wrong_digits = remove_wrong_digits(wrong_digits, text_without_references)
     text_without_single_chars = re.sub(single_chars, '', text_without_wrong_digits)
-    text_processed = text_without_single_chars
+    text_processed = clean_standard_articles(text_without_single_chars)
 
     return text_processed
 

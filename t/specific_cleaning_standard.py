@@ -5,7 +5,7 @@ def clean_standard_articles(text_per_page):
 
 
 def clean_specific_text_at_position(text_per_page, per_page):
-    per_page_ = find_last(text_per_page, per_page)
+    per_page_ = per_page[:1] + find_last(text_per_page, per_page[1:])
     cleaned_text = [text_per_page[0]] if(per_page_[0]==1) else []
     for i in range(per_page_[0], len(text_per_page) - 1):
         text = text_per_page[i]
