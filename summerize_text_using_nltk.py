@@ -102,7 +102,7 @@ def generate_summary(file_data, sent_word_length, top_n):
     return summarized_text
 
 if __name__ == '__main__':
-    with open('text_articles/test_algo.txt', 'r') as f:
+    with open('files/text_articles/test_algo.txt', 'r') as f:
         file_data = f.read()
     summary = generate_summary(file_data, 30, 3)
     for i in summary:

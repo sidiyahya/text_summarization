@@ -60,7 +60,7 @@ def summerize_text_spacy_light(text):
 
 
 if __name__ == '__main__':
-    with open("text_articles/test_algo.txt", "r", encoding="utf-8") as f:
+    with open("files/text_articles/test_algo.txt", "r", encoding="utf-8") as f:
         text = " ".join(f.readlines())
 
     summary = summerize_text_spacy_light(text)

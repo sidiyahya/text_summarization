@@ -107,7 +107,7 @@ def summerize_text_using_nltk(word_count, sentences):
     return best_sentences
 
 if __name__ == "__main__":
-    with open('../text_articles/mahfoudh article.txt', 'r') as f:
+    with open('../files/text_articles/mahfoudh article.txt', 'r') as f:
         file_data = f.read()
 
     word_count, sentences = summerize_text_nltk(file_data)

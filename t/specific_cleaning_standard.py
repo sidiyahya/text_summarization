@@ -1,4 +1,4 @@
-#pattern [from, [index, length, regex]
+#pattern [from, [index, length, regex]*n]
 def clean_standard_articles(text_per_page):
     per_page_standard = [1, [0], ["last", 20]]
     return clean_specific_text_at_position(text_per_page, per_page_standard)
