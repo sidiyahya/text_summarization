@@ -1,7 +1,6 @@
-from read_files import read_text_file
-from sortie_pdf import run_pdf
+from pdf_processing.read_files import read_text_file
 from sortie_wordcloud import run_wordcloud
-from text_summerization_orchestre import run_algorithms
+from summary_algorithms.text_summerization_orchestre import run_algorithms
 
 
 def sortis_orchestre(text):

@@ -30,7 +30,7 @@ def summerize_text_using_bert(text):
     return summerize_text
 
 if __name__ == '__main__':
-    with open('files/text_articles/test_algo.txt', 'r') as f:
+    with open('../files/text_articles/test_algo.txt', 'r') as f:
         file_data = f.read()
 
     summary = summerize_text_using_bert(file_data)

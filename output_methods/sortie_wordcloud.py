@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 
-from read_files import read_text_file
+from pdf_processing.read_files import read_text_file
 
 def run_wordcloud(text):
     wc = WordCloud()

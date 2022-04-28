@@ -1,7 +1,6 @@
 import os.path
 
-from export_text_as_pdf import export_text_as_pdf
-from summerize_text_using_bert import summerize_text_using_bert, summerize_text_using_bert_heavy
+from summerize_text_using_bert import summerize_text_using_bert_heavy
 from summerize_text_using_nltk import generate_summary
 from summerize_text_using_spacy_light import summerize_text_spacy_light
 from tools.text_operations import save_text
@@ -27,7 +26,7 @@ def run_algorithms(text):
 
 if __name__ == '__main__':
     repertoire = input("Entrez le repertoire des fichiers: ")
-    dossier_path = os.path.join(os.path.dirname("."), repertoire)
+    dossier_path = os.path.join(os.path.dirname(".."), repertoire)
     export_repertoire = "summerized_text"
     for file_path in os.listdir(dossier_path):
         if(file_path.endswith(".txt")):
