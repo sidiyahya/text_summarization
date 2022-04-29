@@ -2,7 +2,7 @@ import string
 import re
 
 # remove punctuation
-from t.specific_cleaning_standard import clean_standard_articles
+from pdf_processing.cleaning_pdfs.specific_cleaning_standard import clean_standard_articles
 
 
 def remove_punctuation(text):
@@ -11,8 +11,10 @@ def remove_punctuation(text):
 
 wrong_digits = r'([a-z]+)(\d+)\s'
 
-references = r'References\:?\n?\s?\d+\.?'
-fig = r'(?:Fig\.|Figure)\s?\d+\s?(?:.*\n?)+?\n\n'
+#references = r'References(?:\:?\n?\s?\d+\.?|\n)'
+references = r'References\:?'
+#fig = r'(?:Fig\.|Figure)\s?\d+\s?(?:.*\n?)+?\n'
+fig = r'(?:Fig\.|Figure)\s?\d+\s?.*\n'
 urls = r'(http|ftp|https):\/\/([\w_-]+(?:(?:\.[\w_-]+)+))([\w.,@?^=%&:\/~+#-]*[\w@?^=%&\/~+#-])'
 parenthesis = r'(?:\(.*?\)|\[.*?\])'
 single_chars = r'\n\w\n'
@@ -23,10 +25,10 @@ def remove_outliers(text):
     text_cleaned_from_parenthesis = re.sub(parenthesis, '', text_cleaned_from_urls)
     #single_chars = re.sub(parenthesis, '', text_cleaned_from_parenthesis)
     text_without_ponctuation = remove_punctuation(text_cleaned_from_parenthesis)
-    text_without_references = remove_references(text_without_ponctuation)
+    text_without_references = remove_references(text_without_ponctuation, sep="\n")
     text_without_wrong_digits = remove_wrong_digits(wrong_digits, text_without_references)
     text_without_single_chars = re.sub(single_chars, '', text_without_wrong_digits)
-    text_processed = clean_standard_articles(text_without_single_chars)
+    text_processed = text_without_single_chars
 
     return text_processed
 

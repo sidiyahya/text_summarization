@@ -4,7 +4,7 @@ from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.pdfpage import PDFPage
 from pdfminer.layout import LTTextBoxHorizontal
 
-def layout_analysis(path):
+def layout_analysis(path, as_object=False, as_list=False):
     #Create resource manager
     rsrcmgr = PDFResourceManager()
     # Set parameters for analysis.
@@ -13,6 +13,7 @@ def layout_analysis(path):
     device = PDFPageAggregator(rsrcmgr, laparams=laparams)
     interpreter = PDFPageInterpreter(rsrcmgr, device)
     pages_content = []
+    pages_content_as_lines = []
     for page in PDFPage.get_pages(path):
         interpreter.process_page(page)
         # receive the LTPage object for the page.
@@ -22,14 +23,17 @@ def layout_analysis(path):
             if isinstance(element, LTTextBoxHorizontal):
                 text_elements.append(element)
 
-        text_elements_ordered = order_pdfminer_text_page(text_elements)
-        pages_content.append("".join(text_elements_ordered))
+        text_elements_ordered = order_pdfminer_text_page(text_elements, as_object=as_object)
+        if(not as_list and not as_object):
+            pages_content.append("".join(text_elements_ordered))
+        else:
+            pages_content_as_lines.append(text_elements_ordered)
 
-    return "".join(pages_content)
+    return "".join(pages_content) if(not as_list and not as_object) else pages_content_as_lines
 
 
 
-def order_pdfminer_text_page(page_text_elements):
+def order_pdfminer_text_page(page_text_elements, as_object=False):
     max_column_number = ""
     x_thresh = 50
     page_text_ordered = 0
@@ -66,7 +70,7 @@ def order_pdfminer_text_page(page_text_elements):
     text = []
     for column in elements_sorted_by_column:
         for element in column:
-            text.append(page_text_elements[element[2]].get_text())
+            text.append(page_text_elements[element[2]].get_text() if(not as_object) else page_text_elements[element[2]])
 
     return text
 

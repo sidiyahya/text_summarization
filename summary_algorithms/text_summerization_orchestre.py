@@ -29,7 +29,7 @@ if __name__ == '__main__':
     dossier_path = os.path.join(os.path.dirname(".."), repertoire)
     export_repertoire = "summerized_text"
     for file_path in os.listdir(dossier_path):
-        if(file_path.endswith(".txt")):
+        if(file_path.endswith("_cleaned.txt")):
             with open(os.path.join(dossier_path, file_path), 'r') as f:
                 text = f.read()
         summary_nltk, summary_spacy, summary_bert = run_algorithms(text)
