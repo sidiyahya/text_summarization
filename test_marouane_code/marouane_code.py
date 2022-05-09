@@ -21,7 +21,7 @@ nltk.download('stopwords')
 nltk.download('wordnet')
 
 lien='' # On définie le dossier où se trouve les articles
-mylist = [f for f in glob.glob(lien+"Articles/*.pdf")] # On detecte tous les fichiers en .pdf
+mylist = [f for f in glob.glob(lien+"marouane_pdfs/*.pdf")] # On detecte tous les fichiers en .pdf
 
 ####################
 # Extraction du texte
