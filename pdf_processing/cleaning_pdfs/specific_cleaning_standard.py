@@ -1,4 +1,4 @@
-#pattern [from, [index, length, regex]*n]
+#pattern [from index, [index, max length, regex]*n]
 
 #['form', 'bold', regex]
 #['startwith, 'text', list]

@@ -5,6 +5,7 @@ from pdfminer.pdfpage import PDFPage
 from pdfminer.layout import LTTextBoxHorizontal
 
 def layout_analysis(path, as_object=False, as_list=False):
+    ### 1.a) convert text from pdf (using pdfminer)
     #Create resource manager
     rsrcmgr = PDFResourceManager()
     # Set parameters for analysis.
@@ -23,6 +24,7 @@ def layout_analysis(path, as_object=False, as_list=False):
             if isinstance(element, LTTextBoxHorizontal):
                 text_elements.append(element)
 
+        ### 1.b) text reconstruction
         text_elements_ordered = order_pdfminer_text_page(text_elements, as_object=as_object)
         if(not as_list and not as_object):
             pages_content.append("".join(text_elements_ordered))

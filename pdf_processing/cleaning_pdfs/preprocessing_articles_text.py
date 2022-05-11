@@ -18,14 +18,22 @@ fig = r'(?:Fig\.|Figure)\s?\d+\s?.*\n'
 urls = r'(http|ftp|https):\/\/([\w_-]+(?:(?:\.[\w_-]+)+))([\w.,@?^=%&:\/~+#-]*[\w@?^=%&\/~+#-])'
 parenthesis = r'(?:\(.*?\)|\[.*?\])'
 single_chars = r'\n\w\n'
-
+single_words = r'^\w+$\n'
+#chaines de caracteres : cdc
 def remove_outliers(text):
+    #Enlever les cdc des figures
     text_cleaned_from_figures = re.sub(fig, '', text)
+    #Enlever les urls
     text_cleaned_from_urls = re.sub(urls, '', text_cleaned_from_figures)
+    #Enlever les cdc entre les ()
     text_cleaned_from_parenthesis = re.sub(parenthesis, '', text_cleaned_from_urls)
-    #single_chars = re.sub(parenthesis, '', text_cleaned_from_parenthesis)
-    text_without_ponctuation = remove_punctuation(text_cleaned_from_parenthesis)
+    #Enlever les mots seul
+    text_cleaned_from_single_words = re.sub(single_words, '', text_cleaned_from_parenthesis)
+    #Enlever les ponctuations
+    text_without_ponctuation = remove_punctuation(text_cleaned_from_single_words)
+    #Enlever les references
     text_without_references = remove_references(text_without_ponctuation, sep="\n")
+    #Enlever
     text_without_wrong_digits = remove_wrong_digits(wrong_digits, text_without_references)
     text_without_single_chars = re.sub(single_chars, '', text_without_wrong_digits)
     text_processed = text_without_single_chars
