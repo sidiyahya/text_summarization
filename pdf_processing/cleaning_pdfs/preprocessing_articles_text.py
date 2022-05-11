@@ -33,9 +33,11 @@ def remove_outliers(text):
     text_without_ponctuation = remove_punctuation(text_cleaned_from_single_words)
     #Enlever les references
     text_without_references = remove_references(text_without_ponctuation, sep="\n")
-    #Enlever
+    #Enlever les chiffres erronés
     text_without_wrong_digits = remove_wrong_digits(wrong_digits, text_without_references)
+    #Enlever les caracteres unique
     text_without_single_chars = re.sub(single_chars, '', text_without_wrong_digits)
+
     text_processed = text_without_single_chars
 
     return text_processed

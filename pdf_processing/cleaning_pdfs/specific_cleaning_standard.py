@@ -3,6 +3,7 @@
 #['form', 'bold', regex]
 #['startwith, 'text', list]
 import copy
+#Format d'entre de la methode : [["line1", "line2"], ["line1", "line2"]]
 def clean_standard_articles(text_per_pages, config_per_page):
     text_per_pages = text_per_pages[config_per_page[0]:]
     config_per_page = config_per_page[1:]

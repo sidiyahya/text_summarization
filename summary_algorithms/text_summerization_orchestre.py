@@ -1,8 +1,8 @@
 import os.path
 
-from summerize_text_using_bert import summerize_text_using_bert_heavy
-from summerize_text_using_nltk import generate_summary
-from summerize_text_using_spacy_light import summerize_text_spacy_light
+from summary_algorithms.summerize_text_using_bert import summerize_text_using_bert_heavy
+from summary_algorithms.summerize_text_using_nltk import generate_summary
+from summary_algorithms.summerize_text_using_spacy_light import summerize_text_spacy_light
 from tools.text_operations import save_text
 
 

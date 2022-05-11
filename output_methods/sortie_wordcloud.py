@@ -30,4 +30,4 @@ def nuage(text):
     plt.imshow(wordcloud)
     plt.axis("off")
 
-    plt.savefig(os.path.join(os.path.dirname("."), 'output_images/nuagearticles.png'), dpi=1500)  # Extraction du nuage de mot
+    plt.savefig(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'output_images/nuagearticles.png'), dpi=1500)  # Extraction du nuage de mot

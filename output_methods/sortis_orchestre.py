@@ -1,9 +1,7 @@
 import os
 
 from output_methods.sortie_graph import create_graph
-from pdf_processing.read_files import read_text_file
 from sortie_wordcloud import nuage
-from summary_algorithms.text_summerization_orchestre import run_algorithms
 
 
 def sortis_orchestre(text):
