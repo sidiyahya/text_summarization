@@ -1,21 +1,14 @@
+import os
+
 import matplotlib.pyplot as plt
+import nltk
+from nltk import WordNetLemmatizer
+from nltk.corpus import stopwords
 from wordcloud import WordCloud
 
-from pdf_processing.read_files import read_text_file
-
-def run_wordcloud(text):
-    wc = WordCloud()
-    wc.generate(text)
-
-    wc.to_file('output.png')
-    plt.imshow(wc, interpolation='bilinear')
-    plt.axis('off')
-    plt.show()
-
-
 ### Création du nuage de mot
-def nuage():
-    words = nltk.word_tokenize(tf)  # On tokenise tous les mots
+def nuage(text):
+    words = nltk.word_tokenize(text)  # On tokenise tous les mots
     stops = set(stopwords.words('english'))  # On enlève les stopwords
     wordsFiltered = []
 
@@ -36,10 +29,5 @@ def nuage():
         text)
     plt.imshow(wordcloud)
     plt.axis("off")
-    plt.savefig(str(lien + 'nuagearticles.png'), dpi=1500)  # Extraction du nuage de mot
 
-if __name__ == '__main__':
-    file = input("Entrez le chemin de votre fichier: ")
-    text = read_text_file(file)
-    run_wordcloud(text)
-
+    plt.savefig(os.path.join(os.path.dirname("."), 'output_images/nuagearticles.png'), dpi=1500)  # Extraction du nuage de mot
