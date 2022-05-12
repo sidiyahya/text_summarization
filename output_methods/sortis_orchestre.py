@@ -8,7 +8,7 @@ def sortis_orchestre(text):
     ### Création du nuage de mot
     nuage(text)
     ####################
-    # Création du graph neural
+    ### Création du graph neural
     ####################
     create_graph(text.split("\n"))
 
