@@ -1,0 +1,100 @@
+{
+  "n_cites": 1,
+  "journals": [
+    "PLoS One",
+    "Viruses",
+    "PLoS Pathog"
+  ],
+  "elm_list": [
+    {
+      "data": {
+        "id": "12",
+        "label": "12",
+        "title": "cleavage of a neuroinvasive human respiratory virus spike glycoprotein by proprotein convertases modulates neurovirulence and virus spread within the central nervous system",
+        "journal": "PLoS Pathog",
+        "pub_date": "2015-11-06",
+        "authors": "Le Coupanec, Alain; Desforges, Marc; Meessen-Pinard, Mathieu; Dub\u00e9, Mathieu; Day, Robert; Seidah, Nabil G.; Talbot, Pierre J.",
+        "cited_by": "1455,1646,1766,2429",
+        "n_cites": 4,
+        "node_size": 22
+      },
+      "position": {
+        "x": -173,
+        "y": -468
+      },
+      "classes": "8",
+      "selectable": true,
+      "grabbable": false
+    },
+    {
+      "data": {
+        "id": "14",
+        "label": "14",
+        "title": "seroconversion to hcov-nl63 in rhesus macaques",
+        "journal": "Viruses",
+        "pub_date": "2009-10-30",
+        "authors": "Dijkman, Ronald; Mulder, H. Lie; Rumping, Lynne; Kraaijvanger, Ilse; Deijs, Martin; Jebbink, Maarten F.; Verschoor, Ernst J.; van der Hoek, Lia",
+        "cited_by": "493,1012",
+        "n_cites": 2,
+        "node_size": 17
+      },
+      "position": {
+        "x": 536,
+        "y": 193
+      },
+      "classes": "8",
+      "selectable": true,
+      "grabbable": false
+    },
+    {
+      "data": {
+        "id": "21",
+        "label": "21",
+        "title": "an analogue of the antibiotic teicoplanin prevents flavivirus entry in vitro",
+        "journal": "PLoS One",
+        "pub_date": "2012-05-18",
+        "authors": "De Burghgraeve, Tine; Kaptein, Suzanne J. F.; Ayala-Nunez, Nilda V.; Mondotte, Juan A.; Pastorino, Boris; Printsevskaya, Svetlana S.; de Lamballerie, Xavier; Jacobs, Michael; Preobrazhenskaya, Maria; Gamarnik, Andrea V.; Smit, Jolanda M.; Neyts, Johan",
+        "cited_by": "4309",
+        "n_cites": 1,
+        "node_size": 14
+      },
+      "position": {
+        "x": -559,
+        "y": -374
+      },
+      "classes": "10",
+      "selectable": true,
+      "grabbable": false
+    },
+    {
+      "data": {
+        "source": "12",
+        "target": "14"
+      },
+      "classes": "1",
+      "tgt_topic": "1",
+      "src_topic": "10",
+      "locked": true
+    },
+    {
+      "data": {
+        "source": "12",
+        "target": "21"
+      },
+      "classes": "1",
+      "tgt_topic": "1",
+      "src_topic": "1",
+      "locked": true
+    },
+    {
+      "data": {
+        "source": "14",
+        "target": "21"
+      },
+      "classes": "10",
+      "tgt_topic": "10",
+      "src_topic": "6",
+      "locked": true
+    }
+  ]
+}
