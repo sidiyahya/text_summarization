@@ -3,12 +3,17 @@
 ####################
 import nltk
 import pandas as pd
+from spacy.lang.fr.stop_words import STOP_WORDS as fr_stop
+from spacy.lang.en.stop_words import STOP_WORDS as en_stop
 
 
 def preprocessing(corpus):
     ## On prépare le texte pour la matrice de cooccurrence
     clean_text = []
+    final_stopwords_list = list(fr_stop) + list(en_stop)
     for row in corpus:
+        if(row in final_stopwords_list):
+            continue
         # on tokenise le texte
         tokens = nltk.tokenize.word_tokenize(row)
         # on le transforme en miniscule

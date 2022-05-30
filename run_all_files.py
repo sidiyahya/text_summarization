@@ -29,6 +29,7 @@
 
 import os
 
+from output_methods.dash_cytoscape.prepare_dash_graph import prepare_dash_graph
 from output_methods.sortie_graph import create_graph
 from output_methods.sortie_wordcloud import nuage
 from pdf_processing.cleaning_pdfs.preprocessing_articles_text import remove_outliers
@@ -72,3 +73,6 @@ if __name__ == '__main__':
             # Création du graph neural
             ####################
             create_graph(summerized_text.split("\n"))
+
+    df = prepare_dash_graph(summary_spacy.split())
+    df.to_csv('outputs/network_df.csv', encoding='utf-8', index=False)
