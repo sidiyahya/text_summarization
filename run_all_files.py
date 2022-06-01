@@ -37,6 +37,7 @@ from pdf_processing.cleaning_pdfs.specific_cleaning_standard import clean_standa
 from pdf_processing.layout_analysis import layout_analysis
 from summary_algorithms.text_summerization_orchestre import run_algorithms
 from tools.get_doi import get_doi_from_text
+from tools.json_operations import save_json
 
 if __name__ == '__main__':
     repertoire = input("Entrez le repertoire des fichiers: ")
@@ -77,3 +78,4 @@ if __name__ == '__main__':
     df, metadatas = prepare_dash_graph(summerized_text_per_article, metadatas)
     df.to_csv('dash_cyto/outputs/network_df.csv', encoding='utf-8', index=False)
     #save_json
+    save_json('dash_cyto/outputs/metadatas.csv', metadatas)
