@@ -21,8 +21,6 @@ import dash_html_components as html
 import dash_bootstrap_components as dbc
 import dash_core_components as dcc
 from dash.dependencies import Input, Output
-from sklearn.manifold import TSNE
-import umap
 import json
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
@@ -37,6 +35,9 @@ network_df = pd.read_csv("outputs/network_df.csv")  # ~4700 nodes
 # Prep data / fill NAs
 #network_df["citations"] = network_df["citations"].fillna("")
 network_df["cited_by"] = network_df["cited_by"].fillna("")
+network_df['topic_id'].replace('', np.nan, inplace=True)
+network_df.dropna(subset=['topic_id'], inplace=True)
+network_df["topic_id"] = network_df["topic_id"].astype(int)
 network_df["topic_id"] = network_df["topic_id"].astype(str)
 network_df['title'].replace('', np.nan, inplace=True)
 network_df.dropna(subset=['title'], inplace=True)
@@ -44,7 +45,7 @@ topic_ids = [str(i) for i in range(len(network_df["topic_id"].unique()))]
 # lda_val_arr = network_df[topic_ids].values
 with open("outputs/metadatas.json", "r") as f:
     metadatas = json.load(f)
-topics_txt = [i['title'] for i in metadatas]
+topics_txt = [i['title'].replace("title", "").strip() for i in metadatas]
 
 #journal_ser = network_df.groupby("journal")["0"].count().sort_values(ascending=False)
 
@@ -58,7 +59,7 @@ def get_node_list(in_df):  # Convert DF data to node list for cytoscape
         {
             "data": {
                 "id": str(i),
-                "label": str(i),
+                "label": row["source"],
                 "article_title": row["title"],
                 "cited_by_other_articles": row["cited_by_other_articles"],
                 "word": row["source"],
@@ -78,59 +79,9 @@ def get_node_list(in_df):  # Convert DF data to node list for cytoscape
     ]
 
 
-def get_node_locs(in_df, dim_red_algo="tsne", tsne_perp=40):
-    logger.info(
-        f"Starting dimensionality reduction on {len(in_df)} nodes, with {dim_red_algo}"
-    )
-
-    if dim_red_algo == "tsne":
-        node_locs = TSNE(
-            n_components=2,
-            perplexity=tsne_perp,
-            n_iter=300,
-            n_iter_without_progress=100,
-            learning_rate=150,
-            random_state=23,
-        ).fit_transform(in_df[topic_ids].values)
-    elif dim_red_algo == "umap":
-        reducer = umap.UMAP(n_components=2)
-        node_locs = reducer.fit_transform(in_df[topic_ids].values)
-    else:
-        logger.error(
-            f"Dimensionality reduction algorithm {dim_red_algo} is not a valid choice! Something went wrong"
-        )
-        node_locs = np.zeros([len(in_df), 2])
-
-    logger.info("Finished dimensionality reduction")
-
-    x_list = node_locs[:, 0]
-    y_list = node_locs[:, 1]
-
-    return x_list, y_list
-
 
 default_tsne = 40
 
-
-def update_node_data(dim_red_algo, tsne_perp, in_df):
-    (x_list, y_list) = get_node_locs(in_df, dim_red_algo, tsne_perp=tsne_perp)
-
-    x_range = max(x_list) - min(x_list)
-    y_range = max(y_list) - min(y_list)
-    # print("Ranges: ", x_range, y_range)
-
-    scale_factor = int(4000 / (x_range + y_range))
-    in_df["x"] = x_list
-    in_df["y"] = y_list
-
-    tmp_node_list = get_node_list(in_df)
-    for i in range(
-        len(in_df)
-    ):  # Re-scaling to ensure proper canvas scaling vs node sizes
-        tmp_node_list[i]["position"]["x"] = tsne_to_cyto(x_list[i], scale_factor)
-        tmp_node_list[i]["position"]["y"] = tsne_to_cyto(y_list[i], scale_factor)
-
-    return tmp_node_list
 
 
 def draw_edges(in_df=network_df):
@@ -222,7 +173,7 @@ navbar = dbc.NavbarSimple(
             )
         ),
     ],
-    brand="Plotly dash-cytoscape demo - CORD-19 LDA analysis output",
+    brand="Plotly dash-cytoscape ASD articles text analysis",
     brand_href="#",
     color="dark",
     dark=True,
@@ -244,14 +195,13 @@ body_layout = dbc.Container(
                     [
                         dcc.Markdown(
                             f"""
-                -----
+               -----
                 ##### Data:
                 -----
-                For this demonstration, {len(network_df)} papers from the CORD-19 dataset* were categorised into
-                {len(network_df.topic_id.unique())} topics using
-                [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation) analysis.
+                For this demonstration, {len(network_df)} words from articles retrieved from pubmed using a search equation, categorised into
+                {len(network_df.topic_id.unique())} articles.
 
-                Each topic is shown in different color on the citation map, as shown on the right.
+                Each Article is shown in different color on the citation map, as shown on the right.
                 """
                         )
                     ],
@@ -278,26 +228,6 @@ body_layout = dbc.Container(
                     ],
                     sm=12,
                     md=8,
-                ),
-            ]
-        ),
-        dbc.Row(
-            [
-                dcc.Markdown(
-                    """
-            -----
-            ##### Filter / Explore node data
-            Node size indicates number of citations from this collection, and color indicates its
-            main topic group.
-
-            Use these filters to highlight papers with:
-            * certain numbers of citations from this collection, and
-            * by journal title
-
-            Try showing or hiding citation connections with the toggle button, and explore different visualisation options.
-
-            -----
-            """
                 ),
             ]
         ),
@@ -330,100 +260,6 @@ body_layout = dbc.Container(
                     sm=12,
                     md=8,
                 ),
-                dbc.Col(
-                    [
-                        dbc.Badge(
-                            "Minimum citation(s):", color="info", className="mr-1"
-                        ),
-                        dbc.FormGroup(
-                            [
-                                dcc.Dropdown(
-                                    id="n_cites_dropdown",
-                                    options=[
-                                        {"label": k, "value": k} for k in range(1, 21)
-                                    ],
-                                    clearable=False,
-                                    value=startup_n_cites,
-                                    style={"width": "50px"},
-                                )
-                            ]
-                        ),
-                        dbc.Badge(
-                            "Journal(s) published:", color="info", className="mr-1"
-                        ),
-                        dbc.Badge("Citation network:", color="info", className="mr-1"),
-                        dbc.FormGroup(
-                            [
-                                dbc.Container(
-                                    [
-                                        dbc.Checkbox(
-                                            id="show_edges_radio",
-                                            className="form-check-input",
-                                            checked=True,
-                                        ),
-                                        dbc.Label(
-                                            "Show citation connections",
-                                            html_for="show_edges_radio",
-                                            className="form-check-label",
-                                            style={
-                                                "color": "DarkSlateGray",
-                                                "fontSize": 12,
-                                            },
-                                        ),
-                                    ]
-                                )
-                            ]
-                        ),
-                        dbc.Badge(
-                            "Dimensionality reduction algorithm",
-                            color="info",
-                            className="mr-1",
-                        ),
-                        dbc.FormGroup(
-                            [
-                                dcc.RadioItems(
-                                    id="dim_red_algo",
-                                    options=[
-                                        {"label": "UMAP", "value": "umap"},
-                                        {"label": "t-SNE", "value": "tsne"},
-                                    ],
-                                    value="tsne",
-                                    labelStyle={
-                                        "display": "inline-block",
-                                        "color": "DarkSlateGray",
-                                        "fontSize": 12,
-                                        "margin-right": "10px",
-                                    },
-                                )
-                            ]
-                        ),
-                        dbc.Badge(
-                            "t-SNE parameters (not applicable to UMAP):",
-                            color="info",
-                            className="mr-1",
-                        ),
-                        dbc.Container(
-                            "Current perplexity: 40 (min: 10, max:100)",
-                            id="tsne_para",
-                            style={"color": "DarkSlateGray", "fontSize": 12},
-                        ),
-                        dbc.FormGroup(
-                            [
-                                dcc.Slider(
-                                    id="tsne_perp",
-                                    min=10,
-                                    max=100,
-                                    step=1,
-                                    marks={10: "10", 100: "100",},
-                                    value=40,
-                                ),
-                                # html.Div(id='slider-output')
-                            ]
-                        ),
-                    ],
-                    sm=12,
-                    md=4,
-                ),
             ]
         ),
         dbc.Row(
@@ -447,53 +283,6 @@ body_layout = dbc.Container(
 
 app.layout = html.Div([navbar, body_layout])
 
-
-@app.callback(
-    dash.dependencies.Output("tsne_para", "children"),
-    [dash.dependencies.Input("tsne_perp", "value")],
-)
-def update_output(value):
-    return f"Current t-SNE perplexity: {value} (min: 10, max:100)"
-
-
-@app.callback(
-    Output("core_19_cytoscape", "elements"),
-    [
-        Input("n_cites_dropdown", "value"),
-        #Input("journals_dropdown", "value"),
-        Input("show_edges_radio", "checked"),
-        Input("dim_red_algo", "value"),
-        Input("tsne_perp", "value"),
-    ],
-)
-def filter_nodes(usr_min_cites, usr_journals_list, show_edges, dim_red_algo, tsne_perp):
-    # print(usr_min_cites, usr_journals_list, show_edges, dim_red_algo, tsne_perp)
-    # Use pre-calculated nodes/edges if default values are used
-    if (
-        usr_min_cites == startup_n_cites
-        and usr_journals_list == startup_journals
-        and show_edges == True
-        and dim_red_algo == "tsne"
-        and tsne_perp == 40
-    ):
-        logger.info("Using the default element list")
-        return startup_elm_list
-
-    else:
-        # Generate node list
-        cur_df = network_df[(network_df.n_cites >= usr_min_cites)]
-        if usr_journals_list is not None and usr_journals_list != []:
-            cur_df = cur_df[(cur_df.journal.isin(usr_journals_list))]
-
-        cur_node_list = update_node_data(dim_red_algo, tsne_perp, in_df=cur_df)
-        conn_list = []
-
-        if show_edges:
-            conn_list = draw_edges(cur_df)
-
-        elm_list = cur_node_list + conn_list
-
-    return elm_list
 
 
 @app.callback(
@@ -541,8 +330,12 @@ def display_nodedata(datalist):
 
 
 def get_cited_by_other_articles(indexes):
-    return indexes
-    a = topics_txt[indexes]
+    cited_by_articles = None
+    if(indexes is not None):
+        cited_by_articles = ""
+        for i in eval(indexes[:-1]):
+            cited_by_articles += topics_txt[i]+", "
+    return cited_by_articles.replace("\\textemdash", "")
 
 if __name__ == "__main__":
     app.run_server(debug=False)
