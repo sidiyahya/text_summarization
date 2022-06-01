@@ -176,7 +176,7 @@ navbar = dbc.NavbarSimple(
             )
         ),
     ],
-    brand="Plotly dash-cytoscape demo - CORD-19 LDA analysis output",
+    brand="Plotly dash-cytoscape ASD articles text analysis",
     brand_href="#",
     color="dark",
     dark=True,
