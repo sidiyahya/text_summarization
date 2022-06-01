@@ -1,7 +1,7 @@
 import numpy as np
 import umap
 
-from dash_cyto.app import logger
+from dash_cyto.dash_app import logger
 
 
 def tsne_to_cyto(tsne_val, scale_factor=40):

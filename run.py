@@ -57,19 +57,20 @@ if __name__ == '__main__':
         text_cleaned = remove_outliers(lines_cleaned_specifically)
 
         # II)Second Step: summary
-        summary_nltk, summary_spacy, summary_bert = run_algorithms(text_cleaned)
-        summary = [summary_nltk, summary_spacy, summary_bert]
+        #summary_nltk, summary_spacy, summary_bert = run_algorithms(text_cleaned)
+        summary_spacy = run_algorithms(text_cleaned)
+        summary = [summary_spacy]
 
         # III) Third Step: Output
         for summerized_text in summary:
             if(len(summerized_text)!=0):
                 ## Wordcloud
                 ### Création du nuage de mot
-                nuage(summerized_text)
+                nuage(text_cleaned)
                 ####################
                 # Création du graph neural
                 ####################
-                create_graph(summerized_text.split("\n"))
+                create_graph(text_cleaned.split("\n"))
 
         ## 3) Dash cytoscape
         create_dash_graph(summary[1].split("\n"))

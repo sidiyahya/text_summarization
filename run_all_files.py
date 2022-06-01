@@ -78,4 +78,4 @@ if __name__ == '__main__':
     df, metadatas = prepare_dash_graph(summerized_text_per_article, metadatas)
     df.to_csv('dash_cyto/outputs/network_df.csv', encoding='utf-8', index=False)
     #save_json
-    save_json('dash_cyto/outputs/metadatas.csv', metadatas)
+    save_json('dash_cyto/outputs/metadatas.json', metadatas)

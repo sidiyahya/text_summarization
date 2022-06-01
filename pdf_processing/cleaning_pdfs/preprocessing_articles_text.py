@@ -18,7 +18,7 @@ fig = r'(?:Fig\.|Figure)\s?\d+\s?.*\n'
 urls = r'(http|ftp|https):\/\/([\w_-]+(?:(?:\.[\w_-]+)+))([\w.,@?^=%&:\/~+#-]*[\w@?^=%&\/~+#-])'
 parenthesis = r'(?:\(.*?\)|\[.*?\])'
 single_chars = r'\n\w\n'
-single_words = r'^\w+$\n'
+single_words = r'(^\w+$\n)'
 #chaines de caracteres : cdc
 def remove_outliers(text):
     #Enlever les cdc des figures
