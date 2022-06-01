@@ -5,6 +5,8 @@ from output_methods.sortie_graph import preprocessing
 
 
 def prepare_dash_graph(list_summerized_text, metadatas):
+    ###First STEP create data set of words relationship
+
     all_text = preprocessing(list_summerized_text)
     all_text = [i for i in all_text if(len(i)>3)]
     # sklearn countvectorizer
@@ -35,6 +37,8 @@ def prepare_dash_graph(list_summerized_text, metadatas):
 
     links_filtered = a.loc[(a['source'] != a['target'])]
     links_filtered = links_filtered[0:300]
+
+    ###Enrich the datasets with other data (article , author , cited_by_other_articles)
     df, metadatas = reconstruct_data(links_filtered, list_summerized_text, metadatas)
     df["n_cites"] = df["n_cites"].astype(int)
 
