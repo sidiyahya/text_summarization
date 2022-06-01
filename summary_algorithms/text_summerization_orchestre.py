@@ -8,17 +8,17 @@ from tools.text_operations import save_text
 
 def run_algorithms(text):
     # print("\n")
-    print("NLTK: ")
+    '''print("NLTK: ")
     summary_nltk = generate_summary(text, 30, 3)
     print(summary_nltk)
-    print("\n")
+    print("\n")'''
     print("SpaCy: ")
     summary_spacy = "\n".join([i.text for i in summerize_text_spacy_light(text)])
     print(summary_spacy)
-    print("SUMMARY BERT: ")
+    ''' print("SUMMARY BERT: ")
     summary_bert = summerize_text_using_bert_heavy(text)
-    print(summary_bert)
-    return summary_nltk, summary_spacy, summary_bert
+    print(summary_bert)'''
+    return summary_spacy
 
     #algorithms_results = [["Nltk", summary_nltk], ["SpaCy", summary_spacy], ["summary_bert", summary_bert]]
     #export_text_as_pdf(algorithms_results)

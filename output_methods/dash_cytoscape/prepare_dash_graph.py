@@ -4,9 +4,9 @@ from output_methods.dash_cytoscape.reconstruct_data import reconstruct_data, add
 from output_methods.sortie_graph import preprocessing
 
 
-def prepare_dash_graph(list_summerized_text):
+def prepare_dash_graph(list_summerized_text, metadatas):
     all_text = preprocessing(list_summerized_text)
-
+    all_text = [i for i in all_text if(len(i)>3)]
     # sklearn countvectorizer
     from sklearn.feature_extraction.text import CountVectorizer
 
@@ -34,9 +34,9 @@ def prepare_dash_graph(list_summerized_text):
     a = a.reset_index(drop=True)
 
     links_filtered = a.loc[(a['source'] != a['target'])]
-
-    df = reconstruct_data(links_filtered)
+    links_filtered = links_filtered[0:300]
+    df, metadatas = reconstruct_data(links_filtered, list_summerized_text, metadatas)
     df["n_cites"] = df["n_cites"].astype(int)
 
     #df_final = add_x_y(df, positions)
-    return df
+    return df, metadatas

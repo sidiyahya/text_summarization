@@ -1,4 +1,5 @@
 #Add citations
+import copy
 import json
 
 import numpy as np
@@ -14,7 +15,24 @@ def add_x_y(df, positions):
 
     return df
 
-def reconstruct_data(df):
+def reconstruct_data(df, list_summerized_text, metadatas):
+    metadatas_adapted = []
+    tiles_indexes = []
+    metadata_json = {
+        'author': "",
+        'title': "",
+        'journal': "",
+        'year': ""
+    }
+    for i in metadatas:
+        metadata_adapted = copy.deepcopy(metadata_json)
+        for j in i:
+            for k in metadata_json:
+                if(k in j):
+                    metadata_adapted[k] = j.replace("=", "").strip()
+        metadatas_adapted.append(metadata_adapted)
+
+    titles = [[i[j].replace("title = ", "").strip()] for i, j in zip(metadatas, tiles_indexes)]
     data_reconstructed = {}
     for index, row in df.iterrows():
         source = row['source']
@@ -30,6 +48,11 @@ def reconstruct_data(df):
     df_reconstructed = pd.DataFrame(data=data_reconstructed_list, columns=['source', 'targets', 'weights'])
     df_reconstructed["n_cites"] = pd.Series(dtype='int')
     df_reconstructed["cited_by"] = ""
+    df_reconstructed["author"] = ""
+    df_reconstructed["journal"] = ""
+    df_reconstructed["title"] = ""
+    df_reconstructed["topic_id"] = ""
+    df_reconstructed["cited_by_other_articles"] = ""
 
     for index, row in df_reconstructed.iterrows():
         targets = row['targets']
@@ -44,7 +67,24 @@ def reconstruct_data(df):
         df_reconstructed.at[index, "cited_by"] = targets_id
         df_reconstructed.at[index, "n_cites"] = int(n_cites)
 
-    return df_reconstructed
+    all_words = df_reconstructed['source'].tolist()
+    ####################
+    for metadata_i, summerized_text in zip(range(len(metadatas_adapted)), list_summerized_text):
+        article_summerized_text = [i.strip() for i in summerized_text.split()]
+        common_words = list(set(article_summerized_text).intersection(all_words))
+        for common_word in common_words:
+            index = df_reconstructed.index[df_reconstructed['source'] == common_word].to_list()[0]
+            current_article_value = df_reconstructed.at[index, 'title']
+            if(len(current_article_value)):
+                df_reconstructed.at[index, "cited_by_other_articles"] += str(metadata_i)+","
+
+            else:
+                current_metadata = metadatas_adapted[metadata_i]
+                for key in current_metadata:
+                    df_reconstructed.at[index, key] = current_metadata[key].replace(key, "").replace("=", "").strip()
+                df_reconstructed.at[index, 'topic_id'] = str(metadata_i)
+
+    return df_reconstructed, metadatas_adapted
 
 
 

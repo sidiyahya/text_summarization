@@ -29,7 +29,7 @@ def preprocessing(corpus):
 def create_graph(summerized_text_and_all_text):
 
     all_text = preprocessing(summerized_text_and_all_text)
-
+    all_text = [i for i in all_text if(len(i)>3)]
     # sklearn countvectorizer
     from sklearn.feature_extraction.text import CountVectorizer
 

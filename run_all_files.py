@@ -36,12 +36,15 @@ from pdf_processing.cleaning_pdfs.preprocessing_articles_text import remove_outl
 from pdf_processing.cleaning_pdfs.specific_cleaning_standard import clean_standard_articles
 from pdf_processing.layout_analysis import layout_analysis
 from summary_algorithms.text_summerization_orchestre import run_algorithms
+from tools.get_doi import get_doi_from_text
 
 if __name__ == '__main__':
     repertoire = input("Entrez le repertoire des fichiers: ")
     dossier_path = os.path.join(os.path.dirname(".."), repertoire)
     export_repertoire = "pdf_processing_output"
     all_files_text_cleaned = []
+    metadatas = []
+    summerized_text_per_article = []
     for file_path in os.listdir(dossier_path):
         print("---Extracting text from %s ---" % file_path)
         fp = open(dossier_path+"/"+file_path, 'rb')
@@ -51,28 +54,26 @@ if __name__ == '__main__':
         pages_content_as_lines = layout_analysis(fp, as_list=True)
         ### 2.a) clean standard articles
         config_per_page = [1, [0], ["last", 20]]
+        metadata = get_doi_from_text("\n".join(["\n".join(i) for i in pages_content_as_lines]))
+        metadatas.append(metadata)
         lines_cleaned_specifically = clean_standard_articles(pages_content_as_lines, config_per_page)
         if (isinstance(lines_cleaned_specifically, list)):
             lines_cleaned_specifically = "".join(["".join(i) for i in lines_cleaned_specifically])
         ### 2.b) removing outliers
         text_cleaned = remove_outliers(lines_cleaned_specifically)
-        all_files_text_cleaned.append(text_cleaned)
+        # II)Second Step: summary
+        summary_spacy = run_algorithms(text_cleaned)
+        summerized_text_per_article.append(summary_spacy)
+        # III) Third Step: Output
+        ## Wordcloud
+        ### Création du nuage de mot
+        nuage(summary_spacy)
+        ####################
+        # Création du graph neural
+        ####################
+        create_graph(summary_spacy.split("\n"))
 
-    all_files_text_cleaned = "\n".join(all_files_text_cleaned)
-    # II)Second Step: summary
-    summary_nltk, summary_spacy, summary_bert = run_algorithms(all_files_text_cleaned)
-    summary = [summary_nltk, summary_spacy, summary_bert]
-
-    # III) Third Step: Output
-    for summerized_text in summary:
-        if(len(summerized_text)!=0):
-            ## Wordcloud
-            ### Création du nuage de mot
-            nuage(summerized_text)
-            ####################
-            # Création du graph neural
-            ####################
-            create_graph(summerized_text.split("\n"))
-
-    df = prepare_dash_graph(summary_spacy.split())
-    df.to_csv('outputs/network_df.csv', encoding='utf-8', index=False)
+    #for summary, metadata in zip(summerized_text_per_article, metadatas):
+    df, metadatas = prepare_dash_graph(summerized_text_per_article, metadatas)
+    df.to_csv('dash_cyto/outputs/network_df.csv', encoding='utf-8', index=False)
+    #save_json

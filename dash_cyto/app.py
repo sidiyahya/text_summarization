@@ -31,12 +31,15 @@ server = app.server
 
 # network_df = pd.read_csv('outputs/network_df.csv', index_col=0)  # ~8300 nodes
 #network_df = pd.read_csv("outputs/network_df_sm.csv", index_col=0)  # ~4700 nodes
-network_df = pd.read_csv("outputs/df_final0 - df_final.csv")  # ~4700 nodes
+#network_df = pd.read_csv("outputs/df_final0 - df_final.csv")  # ~4700 nodes
+network_df = pd.read_csv("outputs/network_df - network_df.csv")  # ~4700 nodes
 
 # Prep data / fill NAs
 #network_df["citations"] = network_df["citations"].fillna("")
 network_df["cited_by"] = network_df["cited_by"].fillna("")
 network_df["topic_id"] = network_df["topic_id"].astype(str)
+network_df['title'].replace('', np.nan, inplace=True)
+network_df.dropna(subset=['title'], inplace=True)
 topic_ids = [str(i) for i in range(len(network_df["topic_id"].unique()))]
 # lda_val_arr = network_df[topic_ids].values
 with open("outputs/lda_topics.json", "r") as f:
@@ -58,10 +61,12 @@ def get_node_list(in_df):  # Convert DF data to node list for cytoscape
             "data": {
                 "id": str(i),
                 "label": str(i),
-                "title": row["title"],
+                "article_title": row["title"],
+                "cited_by_other_articles": row["cited_by_other_articles"],
+                "word": row["source"],
                 "journal": row["journal"],
                 #"pub_date": row["pub_date"],
-                "authors": row["authors"],
+                "author": row["author"],
                 "cited_by": row["cited_by"],
                 "n_cites": row["n_cites"],
                 "node_size": int(np.sqrt(1 + row["n_cites"]) * 10),
@@ -502,7 +507,15 @@ def display_nodedata(datalist):
         if len(datalist) > 0:
             data = datalist[-1]
             contents = []
-            contents.append(html.H5("Title: " + data["title"].title()))
+            contents.append(html.H5("The word: " + data["word"].title()))
+            contents.append(
+                html.P(
+                    "Article Title: "
+                    + data["article_title"].title()
+                    # + ", Published: "
+                    # + data["pub_date"]
+                )
+            )
             contents.append(
                 html.P(
                     "Journal: "
@@ -514,13 +527,24 @@ def display_nodedata(datalist):
             contents.append(
                 html.P(
                     "Author(s): "
-                    + str(data["authors"])
+                    + str(data["author"])
                     + ", Citations: "
                     + str(data["n_cites"])
                 )
             )
+            contents.append(
+                html.P(
+                    "Cited by other articles: "
+                    + str(get_cited_by_other_articles(data["cited_by_other_articles"]))
+                )
+            )
 
     return contents
+
+
+def get_cited_by_other_articles(indexes):
+    return indexes
+    a = topics_txt[indexes]
 
 if __name__ == "__main__":
     app.run_server(debug=False)
