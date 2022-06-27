@@ -36,7 +36,8 @@ def prepare_dash_graph(list_summerized_text, metadatas):
     a = a.reset_index(drop=True)
 
     links_filtered = a.loc[(a['source'] != a['target'])]
-    links_filtered = links_filtered[0:300]
+    #Filtrer le nombre de mots selon l'ordre de pertinance
+    links_filtered = links_filtered[0:500]
 
     ###Enrich the datasets with other data (article , author , cited_by_other_articles)
     df, metadatas = reconstruct_data(links_filtered, list_summerized_text, metadatas)
