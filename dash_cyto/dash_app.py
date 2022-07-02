@@ -166,8 +166,6 @@ def_stylesheet+=[
                 'content': 'data(label)',
                 'text-halign':'center',
                 'text-valign':'center',
-                'width':'label',
-                'height':'label',
             }
         }]
 
@@ -186,9 +184,9 @@ navbar = dbc.NavbarSimple(
             )
         ),
     ],
-    brand="Plotly dash-cytoscape ASD articles text analysis",
+    brand="ASD articles text analysis and words relation ",
     brand_href="#",
-    color="dark",
+    color="red",
     dark=True,
 )
 
@@ -212,7 +210,7 @@ body_layout = dbc.Container(
                 ##### Data:
                 -----
                 For this demonstration, {len(network_df)} words from articles retrieved from pubmed using a search equation, categorised into
-                {len(network_df.topic_id.unique())} articles.
+                {len(network_df.topic_id.unique())+1} articles.
 
                 Each Article is shown in different color on the citation map, as shown on the right.
                 """
