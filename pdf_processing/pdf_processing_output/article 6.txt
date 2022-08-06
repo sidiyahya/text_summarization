@@ -1,0 +1,453 @@
+Autism spectrum disorder is a complex developmental disorder characterized by impairments in social interactions and communi-
+cation and the presence of restricted, repetitive, and stereotyped patterns of behaviors. It is
+associated with lifetime social and emotional hardship for children and their families , as well as economic burdens on families and society . The estimated prevalence of ASD in the United States increased from 0.66%
+in 2002 to 1.85% in 2016 , which is only partly explained by more widespread screening of children and an expanded definition of ASD
+since 2008 to include more mild cases ASD can be diagnosed starting around age 2, but subtle social and communication impairment may be present
+earlier , suggesting determinants occur in utero or in early life. Although studies have shown a substantial heritability in ASD, environmental factors are likely to play an important role in causation.
+In the last decade, many studies have examined associations between ASD and early-life exposure to ambient air pollutants , the near roadway air pollution mixture, and, in the U.S., air toxics derived
+from the National-Scale Air Toxics Assessment. However, results were not uniformly consistent. For example, several studies in the United States showed that prenatal exposure to PM2.5 was associated with increased risk of ASD . In contrast, studies conducted in Europe have reported no association. Some studies of air toxics have found metals , aromatic solvents, and chlorinated
+solvents to be associated with a higher risk of autism, but these findings also have not been consistent.
+Three high-quality systematic reviews and meta-analyses described these inconsistencies and proposed some plausible explanations for differences between studies, including different levels of air pollutant
+exposures, diverse ASD ascertainment methods, and different ASD phenotypes . However, none focused on possible differences in effects due to risk or protective factors that may have increased or decreased the
+susceptibility of some populations. ASD likely has a multifactorial etiology, and in recent years a “second hit”
+hypothesis that exposures such as air pollution would require additional
+risk factor(s) to cause disease has been proposed . Thus, susceptibility to air pollution might occur
+in children with other risk factors for ASD, such as male sex; maternal
+infections, diabetes mellitus, hypertension and other maternal inflam-
+matory conditions, so-called “maternal immune activators”; in children of
+mothers with low nutritional intake of folic acid ,
+medication for neuro- or neuropsychological disorders; or in children from marginalized communities with low
+socioeconomic status . Child’s Genotypic
+variation increasing susceptibility to air pollution may help identify
+biological pathways .Synergistic associations of other risk factors could markedly increase
+the attributable burden of air pollution in concert with these other exposures. In addition, understanding patterns of susceptibility can help
+identify sensitive subpopulations that may benefit most from air pollution emission controls. The Clean Air Act in the United States requires
+that the regulatory standard protects everybody, including the most vulnerable, from adverse impacts of air pollution . Exposure reductions can also reduce environmental health disparities
+, as low socioeconomic status  communities often
+experience greater air pollution exposure and larger effects for some
+outcomes. The purpose of this review was to examine how ASD susceptibility to air pollution has varied among vulnerable subpopulations in studies to
+date. We identified knowledge gaps in our understanding of ASD susceptibility to air pollution and suggest possible approaches for future
+studies to address these gaps.
+This review followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses  checklist . To
+be included in this review, a study met the following criteria:  It was
+published in a peer-reviewed journal;  The exposure was ambient
+criteria  air pollution or airborne toxics, thus, indoor airborne
+chemical and second-hand smoking exposures were not included;  The
+health outcome was ASD or related sub-phenotypes, It was empirical,
+which excluded reviews, comments, replies, protocols, conceptual
+studies, and letters to the editor;  The study was in humans, thus,
+animal studies were not included;  The study was published in English;
+and  Effect modification was evaluated in stratified analyses or in interactions.
+We identified articles published in peer-reviewed journals from
+PubMed and Embase database. The database search was conducted on
+May 1st, 2021. The search keywords were a combination of terms for
+exposures and health outcomes. For exposures, The search syntaxes for the two da-
+tabases were shown in Supplementary Table S1 and Table S2. We also reviewed references cited in eligible studies to identify additional articles for inclusion; no additional eligible publications were added from 
+The study selection was conducted in two steps. Step 1 involved
+screening titles and abstracts to identify human studies of ambient air
+pollution and ASD. Studies were identified sequentially according to the
+first six eligibility criteria . If a study failed to meet an
+eligibility criterion, there was no further review of other inclusion
+criteria. For Step 2, full-text was reviewed to select articles reporting
+effect modification or interactions of air pollution with other factors in
+association with ASD. In this step, all 7 inclusion criteria were evaluated.
+Because there were few studies with comparable exposures and effect
+modifiers, we did not conduct a meta-analysis.
+Two major categories of data were extracted from studies selected.
+The first included study characteristics including year, study design,
+study population, sample size, exposure measurement, outcome ascertainment, modifiers, and covariates. The second focused on effect sizes
+for effect modification. For stratified analyses, the estimated effect size
+and corresponding confidence interval from each modifying category
+were recorded. When interactions were tested, results of additive and
+multiplicative tests were also extracted.
+For each study, the assessment of risk of bias was based on the nine point Newcastle-Ottawa Quality Assessment Scale. For case-control studies, the scale consists of three evaluation
+sections corresponding to the possibility of bias in selection of cases
+and controls  comparability of cases and controls and
+treatment of confounders on the basis of study design or data analysis , and  the quality and completeness of exposure assessment . For cohort studies, the three sections correspond to (a) the
+assessment of possible bias in the selection of both exposed and nonexposed participants ,  the comparability between
+exposed and nonexposed participants and treatment of confounders on
+the basis of study design or data analysis , and (the evaluation of potential bias in assessment of the outcome and in follow-up . A higher score represents a higher quality of study. A common
+cut-off score for an acceptable quality study 
+Additionally, we assessed the risk of bias for each study according to
+the qualitative guidelines developed by Lam et al. These
+guidelines are based on the GRADE principles . Five
+items from the guidelines were applicable for this study, including the
+source population representativeness, the misclassification of exposures
+and outcomes, the comprehensiveness of potential confounders, and the
+selective reporting of results. We added an evaluation of misclassification of effect modifiers , using similar rules to those for
+misclassification of pollution exposure. Each item was rated with 4 risk
+levels .  Effect modifiers evaluated based on the literature review included
+ child’s sex, (2) markers for socioeconomic status,  maternal factors (nutrition, maternal immune activa-
+tors, such as diabetes), and (4) genetics. We summarized the results of
+effect modification from each study.
+Additive or multiplicative interaction effects between the modifier
+and air pollution exposure were reported, if available. For studies that
+showed only results from stratified analyses by susceptibility factors,
+evaluation of effect modification was based on comparison of each
+subgroup’s effect size, as described by Altman and Bland . We calculated the original coefficients and standard errors from the reported odd ratios or hazard ratios and corresponding 95% confidence
+intervals reported in most studies. The difference between the original
+regression coefficients was assessed with the Wald test using the pooled
+Studies identified and then excluded at each step of selection are
+shown in the PRISMA flow chart. A total of 1272 publications  were identified through
+the database search, of which 296 were duplicates. The remaining 976
+articles were screened by title and abstract and 937 publications that
+were not empirical human studies on the association between air
+
+pollution and ASD were excluded. A total of 39 articles studied the association between ambient air pollution and ASD were identified. In the
+
+full-text assessment, another 20 studies were excluded because they did
+not examine any effect modifiers . A total of 19 publications were included in this review.
+A description of the 19 included studies is shown in Supplementary
+Table S6. All studies that evaluated effect modification were published
+since 2010. The majority (N = 15) were conducted in the United States,
+including 7 based on populations in California. There were four studies
+from other countries, one each from Sweden, Israel, Denmark, and
+Canada. Studies from other countries were not included because they
+did not examine effect modifiers. There were 13 case-control studies, 4
+cohort studies and 2 ecological studies. The most widely examined air
+pollutant was particulate matter (PM); 11 publications studied the effect
+of PM2.5 and 10 studied PM10. Nitrogen oxides  were
+examined in 12 articles, ozone ) in 6 studies, sulfur dioxide (SO2) in 1
+study, and carbon monoxide in 1 study. Nine studies examined
+
+more than one regulated air pollutant. In addition, three studies exam-
+ined effects of the near-roadway air pollution mixture, and 5 examined
+
+effects of airborne toxicants. Except for two ecological studies, all
+studies examined exposure during pregnancy (N = 17) and 10 of these
+assessed trimester-specific effects. Five studies assessed pre-pregnancy
+effects, and 7 examined effects of postnatal exposure. Methods for
+
+ASD ascertainment were varied, including detailed clinical and neuro-
+psychological evaluations, extraction from electronic medical records,
+
+and questionnaire surveys. Six studies further divided ASD into subphenotypes based on comorbidities.
+Both the NOS and the navigation guide from Lam et al. (2016) provided criteria for assessing bias in individual level observational studies.
+Therefore, two ecological studies were excluded from the assessment of bias. NOS scores (the last
+column of Supplementary Table S6) for all the 17 observational studies
+with individual level data passed the cut-off score of 7 for acceptable
+quality.
+The assessment of risk of bias corresponding to the guide from Lam is
+shown in Supplementary Table S7. Most studies were rated as “low” or
+“probably low” on all 6 criteria for bias, with some exceptions. For
+example, the source population representativeness had “probably high”
+bias in Kalkbrenner et al. (2018), because the study population was
+volunteers. Three studies of air toxics were rated as “probably high” risk
+of exposure misclassification bias because this dataset has high uncer-
+tainty in the exposure estimates .
+Among the effect modifiers, the measure of folic acid intake in Goodrich
+et al. (2018) had “probably high” bias, because the assessment of folic
+acid intake was based on retrospective recall in a telephone interview.
+The potential misclassification of urbanicity in Kalkbrenner et al. 
+was classified as “probably high” because there was no description of
+how the “urbanicity” modifier was defined or obtained.
+A total of 11 papers (7 of regulated pollutants and 4 of air toxics)
+examined effect modification by child’s sex; 3 examined modification by
+maternal or family education level. Two studies assessed variation in air
+pollution effects by neighborhood deprivation and one by urbanicity.
+Effect modification by race and income were only evaluated in the two
+ecological studies.
+• Child’s sex:
+Most studies reported that the effect estimates of early life exposures
+to both PM10 and PM2.5 were stronger in boys than in girls 
+Only Jo et al. (2019b)found that the hazard ratio in boys for the first
+trimester average PM2.5 [ was statistically different from that in girls ;
+p-interaction = 0.03. Larger but not significantly different PM2.5 effects
+were observed in boys in the third trimester, for the entire pregnancy
+average exposure, and during the first year of life.
+ASD-associated sex interactions with other regulated pollutants were
+not statistically significant (Table 1). One study found no association of
+NO2 during pregnancy with ASD risk in girls [OR = 1.00 and a positive effect in boys , but
+interaction was not significant (Pagalan et al., 2019). NO exposure
+during pregnancy had a similar pattern of interactions with sex in the
+
+same study. Another study found average NO2 exposure during preg-
+nancy was associated with increased risk in girls but decreased risk in boys
+and the difference in the effect estimates was significant (  One ecological study reported no significant effect modi-
+fication by sex in the association between exposure to unhealthy air and ASD prevalence 
+Four studies assessed the interaction of child’s sex with air toxics
+exposure. More than 100 air toxics were studied. Therefore, we show
+only those for which there were significant interactions . With exceptions of ethylidene dichloride and polyaromatic
+hydrocarbons (von Ehrenstein et al., 2014), there was a consistent
+pattern of larger air toxics effects sizes for boys than girls. Two studies
+reported airborne lead to be a risk factor for ASD in boys but not in girls
+. Other metals  and volatile organic compounds were
+also reported as risk factors for ASD in boys not for girls 
+Three studies (2 case-control and 1 ecological design) demonstrated
+no consistent pattern of effect modification of the air pollution-ASD
+association by education level  Becerra et al.  found
+
+that the effect of traffic-related NO2 during pregnancy on ASD was statistically significantly higher in children whose mothers did not graduate from high school than in children whose mothers graduated high
+school. However, in the same study, stronger associations of CO and NO2
+exposure during pregnancy were observed in children with maternal
+education level greater than high school compared with those with less
+than high school, and these differences in point estimates were statistically significant. A Swedish study reported that associations of
+traffic-related NOx and PM10 exposure during pregnancy and the first
+year of life were stronger in the more educated subgroup, but neither main effects nor interactions
+were statistically significant . An ecological study on
+air toxics found that the association of mercury with ASD risk was
+significantly higher in census tracts with below-average percentage of
+college educated households .
+Two case-control studies examined the modifying effect of neighborhood deprivation, based on an index including income, education,
+unemployment and other socioeconomic characteristics in small socio-
+economically homogeneous areas (Table 3). One U.S. study found that
+children living in the mo during the first year
+of life  . When modeling PM2.5 as a continuous variable,
+the interaction between neighborhood deprivation level also was not
+significant in the same study . In contrast, a Swedish study
+found that traffic-related NOx and PM10 exposure during the first year of
+
+life were more strongly associated with ASD in less deprived neighborhoods  Kalkbrenner et al.
+
+(2010) reported that there were no modifying effects of census tract
+urbanicity (100% rural, mixed, and 100% urban) on the association of
+air toxics with ASD. Dickerson et al. (2016) found that children from
+census tracts with higher poverty rates had stronger associations of a
+combined metals index with ASD.
+• Race
+Racial differences in effects were examined in only one ecological
+study, in which there was an association of ASD with unhealthy air
+quality (AQI >100) only among Asians, which was not significant  after adjustment for confounders (Al-Hamdan et al., 2018).
+
+Two studies reported effect modification by maternal factors . In a case-control study,
+Goodrich et al. had stronger associations of ASD with NO2 than mothers with sufficient folic
+acid intake 
+Jo et al.  reported increased ASD risk associated with
+first trimester O3 exposure among mothers with gestational diabetes
+mellitus  diagnosed <24 weeks’ gestation  compared to mothers without dia-
+betes. No O3 associations with ASD were observed among children of
+
+mothers with later onset GDM or with pre-existing diabetes.
+3.4.3. Genetic factors
+Two studies of interactions with genetic factors were identified
+(Table 5). Kim et al. examined 15 interactions between 3 types of
+copy number variation (CNV) burden 
+and 5 air p. Only interactions of O3 exposures during pregnancy with CNV duplication burden per increase of 1,356,513 base
+pairs were significant. In another study, ASD risk
+was increased in association with an interaction of exposure to high
+PM10, NO2, and dispersion-modeled near-roadway pollution  with the MET receptor
+tyrosine kinase rs1858830 CC genotype 
+Since Windham et al. (2006) published the first study of the association between prenatal air toxics and the risk of ASD in 2006, more than
+
+30 papers have examined air pollution-ASD association in diverse populations and regions. In the last decade, studies have begun to examine
+
+susceptibility to air pollution. This approach has the potential to identify
+susceptible populations and potentially to explain some inconsistency in
+
+the main effects of air pollution. However, we found only limited evidence that male sex, low education, maternal folate deficiency and
+
+gestational diabetes, and child’s copy number and MET receptor tyro-
+sine kinase genotypic variation may increase risk of ASD associated with
+
+air pollution. There were few studies that examined each susceptibility
+characteristic, except sex of the child, and little consistency of findings
+across studies.
+4.1. Susceptibility by sex
+
+The most widely examined effect modifier was child’s sex. In gen-
+eral, epidemiological studies found stronger effects of early life PM2.5
+
+and air toxics exposure on the risk of ASD in boys than girls. These
+findings are consistent with toxicological studies showing that the
+activation of microglial cells induced by neuroinflammation may lead to
+synapse dysfunction involved in ASD (Bolton et al., 2017; Hammond
+et al., 2018). Males may be more sensitive to PM or other inflammatory
+
+insults because they have more microglia than females during gestational and early postnatal periods  An
+
+alternative explanation is that higher prenatal testosterone levels during
+fetal brain development activate microglia, making males more
+vulnerable to air pollutants or other inflammatory insults (Auyeung
+et al., 2013; McCarthy, 2016). In human studies, the small sample of
+girls in many studies of air pollution and ASD limited ability to detect
+small differences between effects in boys and girls. For example, one
+study with 441 ASD cases in girls reported larger effect estimates in boys
+In another study, a considerably larger PM2.5 effect in boys 
+Sparse and inconsistent findings limit our ability to draw conclusions
+about how SES modifies air pollution effects. For example, Becerra et al.
+showed that the associations of NO2 with ASD were stronger for children
+of mothers without high school degrees, but for CO stronger associations
+were observed among children of better educated women. Reasons for
+these findings are unclear. However, in general, larger effects among
+lower educated mothers might be expected if low-educated mothers
+were more likely to be at home (Cohn et al., 2014) and so residential
+exposure estimates during pregnancy were more accurate. More
+educated mothers may be more likely to work in indoor office jobs and
+in buildings that filter ambient pollution and therefore have little
+exposure. Highly educated mothers may be more likely to have diets
+supplemented with folate or rich in antioxidants that could diminish the
+effect of air pollution (Croft et al., 2018; Lim et al., 2019). One potential
+explanation for why smaller effects of ambient air pollution might be
+
+observed in children of less educated mothers comes from the cumulative risk model, based on a hypothesis that large effects of co-occurring
+
+other relatively high adverse exposures or social stressors may result in
+little additional risk from ambient air pollution (O’Neill et al., 2003).
+
+One challenge in assessing effects of SES is that SES can have inde-
+pendent effects at both the individual level and the area level (O’Neill
+
+et al., 2003). Neighborhood SES markers such as average education,
+income, employment, rates of poverty or home values in the census tract
+have sometimes been found to more strongly modify effects of air
+pollution on cardiovascular outcomes than individual level education,
+occupation and income (Chi et al., 2016). According to the “double
+jeopardy” conceptual model (O’Neill et al., 2003), in addition to the
+
+generally greater concentrations of air pollution associated with
+neighborhood SES, deprived neighborhoods may be lacking in features
+such as healthy food availability and green space, contributing to a
+higher risk of chronic conditions, such as diabetes and obesity, which
+may increase susceptibility to ambient pollutants.
+4.3. Susceptibility by maternal health conditions and nutrition intake
+One study reported that increased ASD risk was associated with first
+trimester O3 among mothers with gestational diabetes mellitus (GDM)
+diagnosed before 24 weeks’ gestation (Jo et al., 2019a). Diabetes is one
+example of many conditions that cause maternal immune activation
+(MIA), including viral and bacterial infections (Jiang et al., 2016; Zerbo
+et al., 2013), asthma (L. A. Croen, Grether, Yoshida, Odouli and Van de
+Water, 2005), and preeclampsia (Dachew et al., 2018) that have been
+associated with higher risk of ASD. Common biological pathways of
+effects of MIA, O3 and PM2.5 include systemic inflammation and
+oxidative stress that are associated with increased reactive oxygen
+species in the placenta and fetus (Bonini and Sargis, 2018; Brown et al.,
+
+2001; Chen and Lippmann, 2009; Cuffe et al., 2017). Thus, it is biologically plausible to hypothesize that the presence of MIA during crit-
+ical time windows may have synergistic effects with early-life air
+
+pollution on ASD, a “second hit” resulting in disease (Bilbo et al., 2018;
+Estes and McAllister, 2016). This hypothesis has the potential to identify
+new approaches to prevention based either on treatment, for example
+dietary approaches to reducing gestational diabetes, in addition to
+regulation of pollutant levels. Parenthetically, in the United States,
+regulated air pollutant exposure has been declining during the period of
+increasing rates of ASD (Sullivan et al., 2018). Therefore, it is not
+plausible that these air pollutant exposures alone are increasing the risk
+of ASD. However, increasing prevalence of maternal characteristics such
+as gestational diabetes that are known risk factors for ASD (Xiang et al.,
+2015) have the potential to increase the fraction of ASD attributable to
+air pollution even in the context of stable or decreasing regional
+pollutant levels.
+We acknowledge that some MIA triggers, such as diabetes, may also
+be potential mediators in the association between air pollution and ASD.
+One recent study found little evidence of mediation effects of maternal
+immune biomarkers in the association between prenatal NO2 exposure
+and ASD in children (Volk et al., 2020). However, the study did not
+examine interactions. Future research might examine both mediating
+and modifying roles of MIA in air pollution-associated ASD risk.
+Because diet can be modified, dietary susceptibility to air pollution
+effects could have major public health significance 
+Sufficient folic acid and vitamin intake during pregnancy has been
+associated with reduced ASD risks in children (Levine et al., 2018;
+
+Schmidt, 2013; Schmidt et al., 2019). However, only one study exam-
+ined the role of folic acid intake as a factor protecting against air
+
+pollution effects on autism (Goodrich et al., 2018). The timing of the
+largest protective effect of folic acid, during first trimester, suggests a
+window of vulnerability to pollution. Epigenetic dysregulation caused
+by air pollution is one pathway that may explain such effects (Lin et al.,
+2016; Marsit, 2015). Antioxidants in maternal diets can reduce the
+oxidative stress induced by air pollution (Block et al., 2012; Kannan
+et al., 2006). Other nutritional factors including vitamin D (Stubbs et al.,
+2016) and polyunsaturated fatty acids are also antioxidants and may
+improve autism symptoms in children with ASD. These also merit investigation as potential modifiers of air
+pollution effects.
+. Genetic susceptibility to air pollution-associated ASD
+There is substantial heritability in ASD (Tchaconas and Adesman,
+2013; Tick et al., 2016). Hundreds of genes have been identified in
+biological pathways that may contribute to ASD (Chaste and Leboyer,
+2012; Wisniowiecka-Kowalnik and Nowakowska, 2019). However, we
+identified only two studies that examined gene-environment interaction
+(air pollution with CNVs and with MET CC genotype) on the risk of ASD.
+CNV duplication and deletion burden increased the prenatal ozone
+exposure association with ASD risk in children  A few
+animal studies have provided evidence for ozone-induced oxidative
+stress and autism-like behavior (Bignami et al., 1994; Block et al., 2012;
+Sorace et al., 2001). In humans, oxidative stress is a key feature of the
+ASD phenotype  It is possible that
+CNVs contribute to genes altering reactive oxygen species. Thus, CNVs and prenatal air pollution exposure can
+potentially share common biological pathways leading to ASD. Another
+study found interactions of a specific functional polymorphism, MET
+receptor tyrosine kinase rs1858830 CC genotype, with prenatal
+near-roadway air pollution and regional PM2.5, PM10, and NO2. Genetic
+studies have shown that children with MET CC genotype had decreased
+expression of MET protein in brain, which is associated with ASD
+. Animal experiments have
+also shown that prenatal exposure to PAH  causes both decreased MET protein
+expression in the brain and autism-like behavior in mouse offspring
+
+. Therefore, it is plausible that decreased MET protein expression is a biological pathway common to air pollution exposures and ASD, and MET genotype may play a role in the air pollution
+
+association with ASD. Future studies may investigate the interaction
+between air pollution and ASD polygenic risk.
+One reason for the paucity of research on the interaction between
+genes and air pollution is that obtaining both genetic and environmental
+data for the same study population is expensive and time consuming
+(Kim et al., 2017). Opportunities exist for assigning early-life air Overall, most studies included in this review were rated as “low” or
+“probably low” in risk of bias, especially for the relatively low bias in the
+measurements of air pollution and of effect modifiers, lending credibility
+to the effects observed. However, some limitations of these studies
+emerged during the review.
+
+Large sample size is required to observe interaction effects for rela-
+tively uncommon diseases like ASD. Studies of air pollution-sex inter-
+action generally did not identify statistically significant effects,
+
+potentially due to the small proportion of ASD cases in girls reducing the
+power to identify interactions. In the U.S., additional studies outside
+California could make the results more representative. Future reviews
+might also include studies of continuous measures of autistic traits,
+which may allow for detection of subtle effect modification in smaller
+sample sizes and reduce potential bias due to disparities in disease
+diagnosis by sociodemographic characteristics.
+The role of effect modification was usually not the main research
+hypothesis for the studies reviewed; thus, the reported interactions may
+reflect selective reporting bias. The absence of a standard approach to
+reporting results of effect modification is another limitation. Some
+studies only reported the results of stratified analyses. Others reported
+the p-values of multiplicative interaction terms from statistical models.
+
+Only a few articles assessed interaction on both the additive and multiplicative scale. Reporting risk measures (relative risks, odds ratios,
+
+hazard ratios) for each stratum of exposure and the interaction on both
+
+additive and multiplicative scales is good practice . The studies by Goodrich et al. and McGuinn et al.
+
+ are examples of reporting additive and multiplicative in-
+teractions. Finally, most studies do not explicitly describe the theoretical
+
+or conceptual frameworks supporting the study hypothesis and design
+for assessing effect modification.
+4.6. Strengths and limitations of this review
+To our knowledge, this is the first systematic review summarizing the
+evidence on effect modifiers of the association between air pollution and
+
+the risk of ASD. The review followed the PRISMA checklist. The literature search was based on two most widely used databases, PubMed and
+Embase. The data extraction was thorough, including complementary
+results reported in supplementary materials. Rigorous assessment of risk
+of bias was conducted considering population representativeness, the
+potential for misclassification of exposure, ASD outcome, effect modi-
+fiers and the potential for selective reporting bias.
+Because there were relatively few studies and results were not uni-
+formly consistent, we did not attempt to conduct meta-analyses, and
+there were few definitive conclusions that could be drawn about how the
+association between air pollution and ASD was modified by the factors
+studied. We only included peer-reviewed studies published in English. It
+is possible that additional relevant information might be available in
+book chapters, non-English and grey literature.
+5. Conclusions
+This review synthesized studies of potential effect modifiers of the
+association between ambient air pollution and the risk of ASD. Maternal
+gestational diabetes, insufficient folic acid intake during pregnancy, low
+maternal education, child male sex and high CNV burden or MET
+rs1858830 CC genotype may increase susceptibility to the effect of
+prenatal air pollution exposure on ASD risk. However, the limited
+number of studies on each modifier precludes definitive conclusions.
+Additional investigation of these susceptibility characteristics would
+
+benefit from consistent definitions across studies with sample sizes
+sufficient to identify interactions and a priori hypotheses, for example
+that exposure to maternal immune activators would increase effects of
+air pollutants on ASD.
+

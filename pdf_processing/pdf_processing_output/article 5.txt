@@ -1,0 +1,381 @@
+Autism spectrum disorder (ASD), or autism, are general terms
+
+for a complex series of developmental disability disorders char acterized by impaired communication, lack of awareness, social
+interaction problems, and restricted behavior. ASD manifests in functional deficits, relations and work achievement that last a lifetime . The global prevalence of ASD has been estimated to be one in 132 persons (Baxter et al., 2015), while in the
+US one in 68 eight year old children are thought to be affected
+. The prevalence rates of autism have been shown to vary by region , and although differences in diagnosis may contribute to these discrepancies, findings
+from epidemiological studies suggest that environmental factors
+may play a role . Air pollution has been linked to a number of different health
+conditions. Previous studies point to a plausible biological pathway linked to autism, wherein components of air pollution cause a systematic inflammatory response that can contribute to neuronal
+injury and affect the development of the central nervous system
+.A number of recently conducted epidemiological studies provide further support that traffic-related air pollution  adversely affects neurodevelopmental
+effects . The investigation of environmental exposures during perinatal and
+postnatal stage, through a child's first year of life is essential since these are the periods of brain development during which an environmental chemical insult can perturb neurodevelopment . Exposure to air pollution
+represents an important exposure to consider in the etiology of autism, particularly given its ubiquitous nature and the potential
+at both a population, and individual-level to modify exposure.
+Air pollution is a heterogeneous mixture of gases and particulate matter. Nitrogen dioxide  has been associated with a
+variety of health endpoints, and given its strong correlation with
+roadways it is often used as a surrogate measure of TRAP. Among
+air pollution components, particulate matter  has been seen
+as a major widespread threat and has been heavily implicated in disease. While traffic is an important contributor to ambient PM concentrations, other sources include industrial emissions, secondary aerosols and even
+domestic heating .  include components of various sizes: PM10, which consists of particles with a median
+aerodynamic diameter of less than 10 mm in diameter, and fine particulate PM2.5 whose particles have median aerodynamic diameters of less than 2.5 mm, and are included within the larger
+Herein, we present the results of a meta-analysis that investigated the associations between ambient air pollution and the development of autism. To inform on possible pathways, we felt it
+necessary to examine associations based on periods of exposures. As such, our review focussed on studies that could inform on the
+temporal sequence between exposure and outcome. Therefore, we prioritized our identification of relevant studies to include longitudinal and case-control designs. While some cross-sectional
+studies have examined similar associations, these studies are limited in drawing causal inferences due to the inability to characterize associations temporally.
+We undertook a search in the Cochrane Database of systematic reviews prior to the study to determine whether a previous systematic review had been done on this topic, and did not identify
+One team member (Flores-Pajot) proceeded to conduct the systematic review. Initially, we intended to study the impacts of the environment, urban greenness and air pollution on the development of childhood autism and based on this aim 396 articles
+were found. The search was then restricted to include only those
+studies that looked at associations between three air pollutants
+(NO2, Ozone and PM) and ASD. This restriction was made because
+these represent three major air pollutants that have been most
+commonly studied in relation to human health outcomes. Studies
+
+were identified through PubMed, Web of Science, and Environmental Index databases using a specific search criteria, with boo-
+lean operators AND in combination with search terms including:
+
+Similar combinations using the terms above . Citation lists from these initial articles were also ex-
+amined. Papers had to be written in English, French or Spanish,
+
+before March 30th, 2016. The search yielded a total of 142 articles.
+Abstracts of articles were retrieved and examined if they were
+relevant epidemiological studies and  involving NO2, O3 or
+PM, which reduced the number to 26 articles. The search was then
+narrowed to only consider observational studies and then limited
+to only keep those epidemiological studies that were looking at
+NO2, O3 or PM and ASD for the systematic review, and that were
+either a case-control or cohort design for the meta-analysis. We
+
+excluded cross-sectional and ecological studies due to their limitations to inform on potential causal association. The combined
+
+search strategy outlined above produced 13 studies that were included in the systematic review, from those only one study did not
+
+provide the necessary quantitative data to be included in the
+
+meta-analysis, and from the 12 studies included in the metaanalysis one comprised six population-based cohorts 
+
+To assess the overall quality and potential for bias of the casecontrol and cohort studies, we used the Newcastle-Ottawa Scale
+). This scale was originally developed to evaluate quality of nonrandomized studies in order to support and strengthen the
+interpretation of meta-analytic results . The
+NOS is a nine-point scale that assigns points on the basis of the
+Statistical analysis
+Epidemiological studies that have investigated O3 and NO2, two
+gaseous pollutants, typically have measured exposure in parts per
+billion , parts per million or μg/m3
+
+the measures of association reported in the studies were converted to correspond to an increase in the incidence of autism
+according to a 10 ppb exposure in gaseous pollutants, using a
+conversion factors of 10 μg/m31⁄45.32 ppb for NO2 which is based
+on ambient pressure of 1 atm and a temperature of 25 °C , and 10 μg/m3 for particulate matter.
+Since ASD is a relatively rare condition, within this paper we
+used the odds ratio extracted from several of these studies as an
+
+approximation of risk ratio disease. For the remainder of the papers, and in our tables, we describe the associations between air
+
+pollution and ASD using the risk ratio.
+STATA software  was used to conduct the meta-analysis
+
+of continuous data using inverse-variance weighting. Risk estimates that were adjusted for covariates from the previous studies
+
+were chosen for this review. A random effects model was used for
+the meta-analysis and include an I2 value to estimate the percent
+of the total variance attributable to between studies inconsistency
+
+(DerSimonian and Laird, 1986). Forest and funnel plots were produced to provide a visual representation of the distribution of
+study specific effect estimates, to display the spread of risk estimates across studies, as well as to depict the pooled estimates of risk.
+3. Results
+3.1. Studies included
+Three studies were identified that met the initial inclusion
+criteria through PubMed, one additional study through Web of
+Science two through Environment Index , one study through article refer-
+ences and discussion among co-authors, and one
+
+additional study was suggested through the initial peer-review
+process to be included due to it's relevance. This last one contains
+six population-based cohort within the same study and provides
+the data needed to produce meta-estimates using each individual
+cohort study .
+Table 1 summarizes the seven cohort studies that investigated
+NO2, O3 or PM and autism that were included in the meta-analysis,
+while Table 2 describes the characteristics of the six case-control
+studies. The tables report the main measure of association of individual exposures to PM2.5, PM10, NO2 and O3. The cohort study of
+
+Swedish twins by  met all the inclusion criteria
+
+but could not be included in our meta-analysis as it did not provide sufficient details on the concentration levels of the pollutants
+
+that were studied. The final dataset used in our meta-analysis
+included seven publications that represent 12 different studies
+that satisfied all inclusion criteria
+
+The studies that formed the basis of the meta-analysis employed different strategies to characterize exposure to air pollution. The most common techniques were land use regression (LUR)
+
+and dispersion modeling . Volk et al. used two dif-
+ferent exposure methods, line-source air quality dispersion and
+
+regional air quality data (fixed site monitors) within 50 km of residence. Exposure estimates from regional air quality data was
+
+used in the meta-analysis and forest plots because of the non linear association with dispersion site monitors 
+
+When available, seasonalized estimates were used for this
+meta-analysis in order to take into account temporal variations in
+air pollution concentrations.
+Each study considered the possible confounding influence for a
+number of risk factors. Most studies accounted for the following
+risk factors: age of child, sex, maternal age, maternal place of birth,
+maternal education, race/ethnicity, parental education, type of
+birth, parity, gestational weeks at birth, socio-economic status or
+
+income, and smoking in pregnancy. Table 3 summarizes the different methods used to characterize exposure among study par-
+ticipants, and provides a listing of the risk factors that were considered in each study.
+
+ Entire pregnancy. Eight different studies explored the associations between ASD and exposure to NO2, O3, PM2.5 or PM10
+
+during the prenatal period (Fig. 2). The summary risk meta-estimate of autism in relation to a 10 mg/m3 increase in PM2.5 was 1.34
+
+(95% CI: 0.83, 2.17). There was substantial heterogeneity in this risk
+
+estimate across the 8 studies (po0.0001). The summary risk estimates for a 10 mg/m3 increase in PM10 and a 10 ppb increase in
+
+NO2 were 1.03 respectively. There was a statistical significant association between
+exposure to ozone during pregnancy and autism with a 10 ppb
+increase producing a risk ratio of 1.05.
+
+ Trimester-specific. The forest plots generated from meta-analyses of the associations between autism and ambient . Exposure to PM2.5 was positively associated with autism in each
+
+of the three trimesters though the strength of the association was
+stronger in each successive trimester. Specifically, the risk ratios in
+relation to a 10 mg/m3 increase across the three trimesters were
+1.10, 1.21 and 1.33. In contrast, there was little difference in the
+strength of the association across the three trimesters for NO2 as
+the risk ratios per 10 pbb increase ranged between 1.15 and 1.18.
+3.2.2. Postnatal period
+From the studies looking at exposure to NO2, O3, PM2.5 or PM10
+during the first year of postnatal period , or 1–4 years before ASD diagnosis for Jung et al.
+paper, two
+pollutants were found to be strongly associated with higher risk of
+ASD. The pooled estimate of the relative risk in relation to a 10 mg/
+m3 increase in PM2.5 was 2.43 . The corresponding relative risk for a 10 ppb increase in NO2 was 2.72
+(95%CI: 1.04, 7.07) . Exposures to PM10 during the first
+year of birth did not show a significant association with ASD.
+3.3. Quality assessment
+
+Different funnel plots were created, looking at exposure to individual pollutants during a specific time, to explore the possibility
+
+of publication bias. In the absence of publication bias, it is presumed that the largest studies will be plotted in a funnel plot near
+
+the mean, and smaller studies will be spread evenly on both sides
+of the mean, creating a roughly funnel-shaped distribution . The funnel plots of studies looking at the exposure to
+PM2.5 during the first trimester of pregnancy show a visually
+asymmetrical distribution, supporting the possibility that there
+has been publication bias . These results are similar to the
+funnel plots of the eight studies looking at exposure to PM2.5
+during the entire pregnancy , yet this later funnel plot has a
+relatively symmetric distribution at the top of the funnel, and only
+two smaller null studies at the bottom left, but we cannot rule out
+publication bias. The capacity to detect bias with funnel plots is
+limited due to the very small number of studies and the capacity to
+identify symmetry, therefore the results should be treated with
+caution.
+4. Discussion
+This paper provides a systematic review and meta-analysis that
+
+summarizes findings from epidemiological studies on the association between ambient air pollution and ASD. Overall, the as-
+sociations were largely positive though many of the summary
+
+measures were not statistically significant which is largely influenced by the relatively small number of studies. The strength of
+the associations observed between exposure to PM2.5 during the
+prenatal period and autism is similar to that found for health
+endpoints such as cardiovascular disease and diabetes, for which
+air pollution is a more established risk factor. Our meta-estimates
+of risk were even stronger for exposure to air pollution during the
+last trimester of pregnancy and after birth, though these findings
+
+are tenuous given the very small number of studies that investigated these exposures during this time window. Nonetheless,
+
+these findings are consistent with the observations that it is during
+this time interval that the human brain undergoes the most critical
+development and is most vulnerable to environmental factors
+during this period .
+We also observed positive associations between O3 exposures
+
+during the prenatal period and ASD. Animal studies have suggested that specific O3 exposure during gestation may subtly cause
+
+adverse neurobehavioral effects after birth (Petruzzi et al., 1995;
+Sorace et al., 2001). It is important to note that ozone is highly
+variable across the seasons particularly in regions with extreme
+
+weather changes . Hence, the characterization of the association between prenatal exposure to O3
+
+and autism in these regions should account for the month of birth.
+The studies by Becerra et al. and Volk et al.  were
+both conducted in California which does experience higher ozone
+levels during the summer, however differences in concentration
+levels across seasons are not as large as in more northern cities.
+
+Overall, there was little difference in the strength of the association between PM2.5 and autism between exposures over the
+
+entire pregnancy , and those exposures during the third
+trimester . The risk was slightly attenuated for the early
+part of the pregnancy. We found a similar trend between autism
+risk and increasing gestational age with PM10. There are two possible reasons that could explain stronger associations between
+
+air pollution and autism with exposure occurring in the last trimester. The first explanation relates to the theory that this is a
+
+more vulnerable period. As described by Rice and Barone Jr 
+
+the later trimester of pregnancy represents a period where synapse formation, and neurotransmitter receptors formation are
+
+under development. This in turn may impact neuronal connectivity thereby perturbing signaling pathways which some have
+
+been implicated in the development of autism. Alternatively, previous work suggests that healthy brain development is dependent on the
+functioning of the immune system. As it is well recognized that air
+pollution impacts a number of immune functions such as oxidative
+stress, this represents another pathway by which exposure to fine
+particulate matter late in pregnancy may increase the risk of
+autism. Previous epidemiological studies have suggested stronger
+
+association between PM2.5 and some adverse birth outcomes including low birth weight with exposures occurring during the
+
+third trimester .
+Apart from the third trimester representing a more biologically
+relevant period of exposure, stronger associations may be evident
+
+as a result of exposure misclassification. Many of the studies included in this meta-analysis that looked at differences in risk by
+
+trimester, relied on the place of residence at the time of birth
+. However, the study
+by Volk et al.  has the desired feature of capturing changes
+in place of residence beginning three months before conception.
+As such, it was better positioned to evaluate differences in risk
+across trimesters. Volk et al. employed two distinct exposure
+
+strategies, one that relied on a dispersion model, the other on
+spatially interpolated fixed site monitoring. They found stronger
+associations between exposures in the third trimester and autism
+when compared to other periods of exposure when the former
+
+method was used, but not with the latter. Given the lack of con-
+sistency, and the few studies that have examined differences in
+
+risk across trimester, more studies that fully account for residential
+mobility are needed to better understand trimester-specific risks.
+It is important to recognize that the approaches assigning air
+pollution exposure to study participants use area-level measures
+to infer individual-level exposure. Land-use regression methods
+and dispersion models, which are the most common measures of
+exposures used in the articles, have been proven successful for
+monitoring annual mean concentration of air pollutants over a
+
+specific study area, however small scale spatial variation still remains (Hoek et al., 2008). It is important to note that some pol-
+lutants, such as NO2, exhibit greater spatial resolution within urban areas when compared to PM2.5, which is influenced to a
+
+greater extent by long-range transportation of pollution. Approaches to exposure modeling that are able to partition local
+
+versus distal sources of pollution are ultimately needed to better
+understand how to mitigate air pollution concentrations so as to
+reduce human health risks for multiple conditions, including
+autism.
+Interestingly, a recent commentary on whether the association
+
+between air pollution and autism is casual or explained by confounding, contends that examining ambient air pollution concentration as a proxy for personal exposure helps avoid exposure
+
+misclassification biases that could stem from differences in
+personal behavior. As highlighted by
+Weisskopf et al., confounding may be minimized because while
+changes in individual behaviors over the course of a pregnancy
+would impact personal exposures, there would be no such impact
+for ambient exposures that are based on larger areas. Nonetheless,
+it is important to recognize that some pollutants, such as NO2, are
+more spatially variable within urban areas than others. Ultimately,
+if the association between air pollution and autism is causal,
+models that are able to differentiate between local and distal
+sources of air pollution are needed to develop strategies that can
+
+mitigate health risks. To date, few studies have employed different
+exposure measurement strategies that can shed light on this issue.
+One exception is the study by Volk et al. (2013) who found that
+regionally based measures of air pollution produced somewhat
+
+different measures of association when compared to those generated from the application of a dispersion model. Namely the
+
+strength of the association was stronger, and non-linear for the
+dispersion model when compared to the regional based measures
+of air pollution.
+Our forest plots revealed substantial heterogeneity in the risk
+estimates. While this is undoubtedly due to differences in study
+design, characteristics of participants, and possible biases unique
+to each study, differences in the composition of the air pollution
+likely contributed to variation in risk. The studies included in the
+
+meta-analyses were undertaken in multiple countries with distinct meteorological features, and pollution mixtures. In terms of
+
+the specific sources of pollutions, three identified that the sources
+of the pollutants were specifically related to traffic. Some of the other
+studies highlighted contributions from space heating (Guxens
+et al., 2015), wood smoke and power plants 
+
+Unlike studies of air pollution and several other chronic diseases, ascertainment of ASD is more challenging, as the diagnosis
+
+of autisms is more complicated. The case definition on all studies
+was based on validated instruments, meeting diagnostic criteria
+and/or parental reports; yet two studies used screening tests for a
+boarder range of behavioral disorders . All tests
+
+are valid tools for assessment of children's behavior in epidemiological studies. Diagnostic issues could be
+problematic if bias is implied, for example if people in urban areas
+are more likely to use specialists that correctly diagnose autism
+compared to people who live in rural areas, this would contribute
+to a positive association between air pollution and ASD. However,
+some of the studies used different cut points for identifying autism
+(ex: clinical range of autism versus autistic traits in Guxens et al.
+(2015)) and the results did not substantially change. As highlighted
+by Weisskopf et al. (2015), differential ascertainment of autism by
+socio-demographic status may also introduce some bias, as those
+of lower socio-economic status (SES) may be more prone to live in
+areas of higher air pollution. Most studies in the meta-analysis
+included some adjustment for SES. Others performed a stratified
+analysis to evaluate whether SES modified associations between
+air pollution concentrations and autism. Of note was the finding by
+Becerra et al. (2013) who discovered that LUR-based associations
+were strongest for children of mothers with less than a high school
+education.
+Concentration of many air pollutants, including diesel exhaust
+and PM, are increased near freeway and other major roads; these
+
+pollutants have been shown to affect the brain function and ac-
+tivity in toxicological studies (Hougaard et al., 2008; Ntziachristos
+
+et al., 2007; Perera et al., 2006). To our knowledge, a study of 304
+
+autism cases and 259 typically developing controls based in California is the only one to date to investigate the association between childhood autism and proximity to a freeway. Volk et al.
+
+(2011) found living within 309 m from freeway during pregnancy
+to be positively associated with ASD. A British cross-sectional
+
+study of 2713 individuals compared the prevalence of mental illness, ASD, and behavioral disorder in people living in urban areas
+
+with those living in rural areas, and exposure to pollution and
+
+noise was one of the suggested hypotheses to explain a relationship between mental ill health and urbanization. This study found
+
+that ASD was more common in people living in rural areas. A proposed explanation for this is that there has been a development of higher numbers of specialist residential placements in the
+county to accommodate people with ASD . The
+relationship between urbanization and mental health is an interesting topic worth exploring. More studies should use distance to
+roadways, volume of vehicles or urbanization as markers of exposure to traffic, in order to provide a better understanding of the
+association of ASD with traffic-related air pollutants.
+The studies included in this systematic review and meta-analysis were conducted in diverse settings that capture varied exposure to air pollution. They also differ with respect to the methods used to characterize pollution levels, and the ability to
+account for the influence of other possible risk factors. Despite the
+relatively small number of studies conducted to date, the findings
+from these studies provide compelling support for the hypothesis
+that prenatal exposure to PM2.5 and O3 and postnatal exposure to
+PM2.5 and NO2 increases the risk of ASD.
+Some recommendations for future studies to improve our understanding on the relationship between air pollution and ASD
+
+include: 
+ increasing study size to increase power to detect
+smaller associations,tracking residential mobility during
+pregnancy to account for changes in exposure during this critical
+
+time-period,  incorporating methods to characterize air pollu tion at both a local, and a regional level.

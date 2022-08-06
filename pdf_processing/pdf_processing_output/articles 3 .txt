@@ -1,0 +1,263 @@
+Air pollution is a major public health and economic issue. associated with increased risk of mortality and morbidity in multiple diseases, such as cancer , inflammatory , neurological  and respiratory and cardiometabolic diseases . Despite the considerable number of studies demonstrating the adverse health effects of air
+
+pollution, exposure to ambient air pollution surrounding pregnancy and the risk for Autism Spectrum disorder in newborns remains controversial. Genetic and environmental
+
+factors specifically during perinatal periods have been found to increase risk of pathology and malformation in children . Air pollution is composed of a wide range of pollutants
+such as particulate matter , nitrogen oxide , volatile
+organic compounds, pesticides, ozone  and metals. Though few studies have focused
+on pregnancy and risk of ASD, air pollutants such as PM , appear to have the
+highest levels of toxicity . Among PM10, PM2.5 which have
+an even smaller aerodynamic diameter 2.5 mm are particularly harmful, penetrating more rapidly, easily and deeply into the organism . 
+
+Despite a recent article , no metaanalysis to date has
+provided an overview or comparison of the effects of classes of air
+pollutants , or the effects of sociodemographic risk factors such as parental ages, gender of newborns, or smoking.
+In addition, there are no published guidelines as yet on how to
+manage different data relating to a same risk within an included
+article and no meta-analysis presented both risks quantified either as continuous or
+as categorical variables.
+We hypothesized that there was an increased risk of developing
+
+ASD associated with air pollution during pregnancy. This metaanalysis focused on the association between children with ASD
+
+and exposure to air pollutants during the perinatal period and involved three models
+for each meta-analysis by air pollutant; a global model using all
+risks listed in included articles, a pessimistic model using less
+favorable data only, and an optimistic model using the most
+favorable data only. We also investigated related sociodemographic
+influences.
+
+We reviewed all studies reporting an association between air
+pollutants and ASD. The PubMed, Cochrane Library, ScienceDirect
+
+and Embase databases were searched for all original articles published up to July 2020, using the keywords “air pollution” and “autism” or synonyms. Inclusion criteria included articles written in English or French, and that described our primary outcome variable i.e. the
+association between perinatal exposure to ambient air pollution
+and risk of ASD. The perinatal period included the preconception
+period to the second year of life. Studies were required to report
+risk estimates in the form of odds ratios  with 95% confidence
+interval or to provide data that allowed OR calculation. In
+order to identify studies not found through our database search
+strategy, a manually search of new articles was carried out using
+reference lists from all publications meeting inclusion criteria and
+systematic reviews. Our search strategy is presented in and Two authors separately conducted all
+literature searches, collated and, reviewed the abstracts based on
+selection criteria and decided on the suitability of articles for inclusion. When questions arose over article suitability, a third author
+reviewed the articles. Having reached a consensus, all
+included articles were reviewed by the three authors.
+The methodological quality of the studies was further evaluated
+using the Scottish Intercollegiate Guidelines Network model
+for case control and cohort studies.
+The following 15 items were assessed: appropriate and clearly
+focused question, selection bias , performance bias , attrition bias , detection bias , confusion
+bias , presence of confidence intervals, and general level of
+evidence . Similar items were used to evaluate case control
+studies . We also used the Newcastle-Ottawa Quality
+Assessment Scale model with the following 9
+items: selection bias, comparability bias and
+outcome bias . Each item was assigned a judgment of , or with the exception of item 2.1 and the final item concerning evidence level
+of the SIGN checklist, which was assigned . Any
+disagreements over suitability were discussed with a third author and a consensus reached. Assessment of article quality was
+carried out for the two checklists by two authors .
+
+The following data from articles were recorded: title, name of
+first author, journal and year of publication, main objective, time of
+
+exposure to air pollution , type and concentration of pollutants, crude and/or
+adjusted OR and lower and upper limits, and population characteristics 
+ Characteristics of pollutant exposure, of individuals or other variables were reported
+for each study as mean ± standard-deviation (SD) and number (%)
+for continuous and categorical variables respectively.
+When data could be pooled, we conducted random effects meta-
+analyses on the risk of ASD in newborns following air
+pollutants exposure, centered at one. Particular attention was paid
+to the type of statistics retrieved from the included articles . Air pollutants exposure were quantified
+
+either as a continuous  or as categorical variables . For the highest level
+
+of proof, we first normalized all OR for a standardized increment in
+pollutant concentration . We took into account the original increment of the
+pollutant and we assumed a linear exposure outcome relationship
+(Shah et al., 2013b) using the following equation. When air pollutant levels were expressed in
+parts per billion (ppb), we transformed those levels in mg/m3The effects expressed as interquartile (or quintile, or
+
+percentile differences) were converted into effects per concentra-
+tion unit increase with the previous equation  Meta-analyses were computed by type of air pollutants
+periconceptional periods, and pregnancy trimester where sufficient data were available. For
+each meta-analysis, three models were used Finally, we computed the aforementioned
+meta-analyses categorical using OR based on categorical exposure
+ For air pollutants that were the most reported, we also computed sensitivity analyses depending on the
+methods to measure air pollutants. Heterogeneity between studies
+was evaluated through forest plots, and their confidence intervals
+(CI), and I-squared For example, a significant heterogeneity may be due to the
+variability between the characteristics of the studies, such as the
+exposure to air pollutants (type of air pollutants), periconceptional
+periods (preconception, pregnancy, postnatal), pregnancy
+trimester (first, second, third), characteristics of individuals (age of
+mothers and fathers, smoking, gender of newborns, etc). To ensure
+the robustness of our results, we conducted sensitivity analysis by
+searching for potential publication bias through funnel plots
+
+ of aforementioned meta-analyses. Then, we reper-
+formed meta-analyses without the studies that were not evenly
+
+distributed around the funnel base . When sample
+size allowed, meta-regressions were performed to investigate the
+relationship between risk of ASD in newborns following air
+pollutant exposure and putative variables such as type of air
+
+pollutant, periconceptional period, pregnancy trimester and population characteristics. Results were expressed as regression coefficients and 95% CI.
+
+Use of the SIGN model, notably revealed selection and attrition
+bias in included studies. Most studies had a high level of evidence.
+Detailed characteristics of methodological quality assessment for
+each included study are provided in Fig. 2. Overall, for the SIGN
+model, most studies were shown to have a high level of evidence
+but performed, with lowest performance found response rate. The
+NOS model was also used to analyse the quality of included articles
+Aims of included studies, study designs, and settings
+All studies shared a similar objective i.e. the association of
+exposure to air pollution  during the perinatal period and the development of
+ASD.  the optimistic model only, an increased risk during pregnancy with
+both the global and optimistic models, and an increased risk
+regardless of the model used during the postnatal period.
+The main findings revealed that air pollution particularly that of
+PM2.5 during the periconception period was associated with an
+increased risk of ASD in newborns, in all models used. The level of
+
+evidence is poor for other air pollutants. Exposure during preg-
+nancy  and postnatal periods may be the
+
+most at-risk periods. The increased risk of ASD following exposure
+
+to air pollutants surrounding pregnancy was not linked with soci-
+odemographic factors.
+We demonstrated that global air pollution exposure in the
+perinatal period is a risk factor for ASD in newborns
+perinatal period is a risk factor for ASD in newborns . Despite a previous meta-analysis , there
+
+is the first to report a risk based on consideration of all air pollutants. As, exposures are in general multiple when quantifying risk, it
+
+is likely that overall risk is of most interest as reported by other
+authors
+allowed analysis of several included studies presenting different
+data for the same risk. There are presently no guidelines on how to manage
+this issue. To avoid potential limitations, we
+created three models for each meta-analysis; a global model based
+on all risks reported in included articles, a pessimistic model using
+less favorable risks only , and an optimistic
+model using the most favorable risks only. Unsurprisingly, use of
+optimistic models led to stronger results, but notably, we were
+unable to demonstrate an increased risk using the pessimistic
+model based on all air pollutants.
+Risk of developing ASD in newborns increased using the global
+and optimistic models only for all air pollutants, with a strong high
+risk following exposure to PM2.5 whatever the model. Even use of
+the pessimistic model based on the least favorable data (those with
+the least increased risk) revealed a minimum increased risk of 6%
+(up to 15% using the optimistic model). Nearly all individual studies
+showed that maternal exposure to PM2.5 was associated with
+increased risk of newborns with ASD
+Thus indicating the
+high level of evidence concerning the deleterious effects of PM2.5
+and related risk of ASD. PM2.5 particles appear to be the most
+dangerous pollutant due to their small size, and high volatility
+able to be transported over longer distances . They also have a lower sedimentation velocity than other
+larger particles such as PM10 69. PM are primarily composed of
+toxic particles such as PAHs, inorganic particles, or organic carbon metals
+Late pregnancy and early postnatal periods were found to be the
+most at-risk periods for developing ASD following air pollution
+
+exposure. These periods are crucial in the development of the infant , and can influence long-term health
+
+outcomes. Late pregnancy is important for placental function, fetal growth and brain developments
+
+and is also the period when maternal and fetal complications can
+occur, such as gestational diabetes, pre-eclampsia, hypoxia or brain
+injury (Dugan and Ma-Crawford, 2019; Ellery et al., 2018;
+Schumacher et al., 2020; Ridder et al., 2019). Our result showing
+increased risk of ASD during late pregnancy is in accordance with
+previous meta-analyses . Similarly, the early
+postnatal period can also impact health outcomes as has been
+
+shown with breastfeeding which may impact a wide range of parameters such as cognition, brain structure, structural development
+
+of the heart and lungs, bone health, or atopy . In comparison with the meta-analysis of Chun
+et al., we highlighted the detrimental effects of air pollution leading
+
+to increased risk of ASD during the postnatal period, being previously analyzed in relation to the prenatal period. Our results show
+
+that the most at-risk periods for ASD were early and late pregnancy
+and the early postnatal period. These results are in accordance with
+other studies on air pollution that have showed these periods to
+
+also be the most at-risk for other birth outcomes such as hyper-
+tension, preeclampsia, pre-term birth, or low birthweight . Both late pregnancy
+neurodevelopmental outcomes such as ASD. In our meta-analysis,
+neither parental age or newborn genders were found to influence
+
+risk following exposure to air pollutants. However, our meta-
+regressions analyzed whether air pollution modifies this risk
+
+depending on parental age or newborn genders. Other investigated
+putative risk factors for ASD include maternal food intake , low birthweight or preterm birth. As these factors were not assessed in
+the articles included in our meta-analysis, further analyses were
+precluded.
+
+Our study has some limitations. Despite the large number of
+studies, some air pollutants were only included in a few studies.
+
+Common air pollutants such as PM2.5, PM10, or NOx, were however commonly assessed and as we included a large sample of 395
+
+615 newborns, this allowed the greater generalizability of our results. Our meta-analysis inherited the limitations of the 28 included
+
+studies and was therefore subject to individual bias such as bias of
+measures of exposure to air pollutants and bias of reporting of ASD.
+Despite the quality of research reflected in the studies included in
+our meta-analyses, ASD covers a wide range of severity that was not
+reported within included articles. Diagnostic method for ASD also
+differed, limiting quality of data and precluding further analyses,
+
+although, most articles used National ASD databases thus guaranteeing data accuracy. A further limitation concerns a possible underestimation of our results. Diagnostic evidence of ASD can be
+
+underestimated but is unlikely to be overestimated. Similarly,
+methods for detection or measurement of air pollutant exposure
+differed between studies, thus precluding assessment of dose
+
+response effects. In addition despite similarities, population characteristics between studies were not identical. Data were collected
+
+in various countries, but excluded developing countries. The majority of studies were conducted in the USA
+
+from Africa, Asia, and Oceania reduces potential generalizability of
+our results, though. All ethnicities were included. Generalizability
+of our results may also be lessened due to analysis of single-site
+studies, even if the majority of included studies were multi-site.
+As studies differed in their study design, we performed sensitivity
+analyses allowing demonstration of similar results whatever the
+design. In our meta-analysis global model, some included studies
+appeared several times, with different data for the same outcome
+depending on adjustment models. In the absence of clear
+
+consensus and despite having more effect sizes within each meta analyses when compared with studies included in several highlyregarded published articles published
+
+articles published, the weight of studies may have required
+
+ponderation  This is one of the reasons for use of optimistic and pessimistic models when only one
+
+data is available for each included article. A further limitation of our
+meta-analysis concerns included studies using OR adjusted on
+different factors between studies, even if adjusted OR may limit
+
+confusion bias. Finally, causality may also be a limitation in retro-
+spective or case-control studies.
+
+Exposure to air pollution, notably PM2.5 during pregnancy was
+associated with an increased risk of ASD in newborns regardless of
+
+the model used. The level of evidence concerning other air pol-
+lutants is however poor. Exposure during pregnancy and the
+
+postnatal period appear to be the most at-risk periods.
+Declaration of competing interest
+The authors declare that they have no known competing
+financial interests or personal relationships that could have
+appeared to influence the work reported in this paper.

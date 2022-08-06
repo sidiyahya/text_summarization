@@ -1,0 +1,121 @@
+SUMMARY SPACY 
+
+
+
+
+treatment of confounders on the basis of study design or data analysis 2 
+points and  the quality and completeness of exposure assessment 3 
+points  For  cohort studies the  three  sections correspond  to   the 
+assessment  of  possible  bias  in  the  selection  of  both  exposed  and 
+25 Analytical approach 
+Effect modifiers evaluated based on the literature review included 
+ child’s sex  markers for socioeconomic status maternal educa
+tion race and neighborhood deprivation and other characteristics from 
+census data  maternal factors nutrition maternal immune activa
+tors such as diabetes and  genetics We summarized the results of 
+effect modification from each study 
+Additive or multiplicative interaction effects between the modifier 
+and air pollution exposure were reported if available For studies that 
+showed only results from stratified analyses by susceptibility factors 
+evaluation  of  effect  modification  was  based  on  comparison  of  each 
+subgroup’s effect size as described by Altman and Bland  We 
+calculated  the  original  coefficients  and  standard errors  from  the  re
+ported odd ratios or hazard ratios and corresponding 95 confidence 
+intervals reported in most studies The difference between the original 
+regression coefficients was assessed with the Wald test using the pooled 
+standard error from the two strata An example is presented in Supple
+mentary Table S4 
+3 Results 
+31 Study selection 
+Studies identified and then excluded at each step of selection are 
+shown in the PRISMA flow chart  were identified through 
+the database search of which 296 were duplicates The remaining 976 
+articles were screened by title and abstract and 937 publications that 
+were  not  empirical  human  studies  on  the  association  between  air 
+pollution and ASD were excluded A total of 39 articles studied the as
+sociation between ambient air pollution and ASD were identified In the 
+fulltext assessment another 20 studies were excluded because they did 
+not examine any effect modifiers  A total of 
+19 publications were included in this review 
+Table 1
+Based on method described by Altman and Bland  An example of calculation is shown in Table S4 
+
+ 
+Three studies  demonstrated 
+no consistent pattern of effect modification of the air pollutionASD 
+association by education level  Becerra et al  found 
+that the effect of trafficrelated NO2 during pregnancy on ASD was sta
+tistically significantly higher in children whose mothers did not grad
+uate from high school than in children whose mothers graduated high 
+school However in the same study stronger associations of CO and NO2 
+exposure during pregnancy were observed in children with maternal 
+education level greater than high school compared with those with less 
+than high school and these differences in point estimates were statis
+tically  significant  A  Swedish  study  reported  that  associations  of 
+trafficrelated NOx and PM10 exposure during pregnancy and the first 
+year of life were stronger in the more educated subgroup with more 
+than 12 years of education but neither main effects nor interactions 
+were statistically significant  An ecological study on 
+air  toxics  found  that  the  association  of  mercury  with  ASD  risk  was 
+significantly higher in census tracts with belowaverage percentage of 
+college educated households   
+• Neighborhood characteristics 
+Two casecontrol studies examined the modifying effect of neigh
+borhood deprivation based on an index including income education 
+unemployment and other socioeconomic characteristics in small socio
+economically homogeneous areas  One US study found that 
+children living in the most deprived neighborhoods had stronger ASD 
+associations with PM25  during the first year 
+of  life   
+ When modeling PM25 as a continuous variable 
+the interaction between neighborhood deprivation level also was not 
+significant in the same study  
+In contrast a Swedish study 
+found that trafficrelated NOx and PM10 exposure during the first year of 
+life were more strongly associated with ASD in less deprived neighbor
+hoods   Kalkbrenner et al 
+ reported that there were no modifying effects of census tract 
+urbanicity  on the association of 
+air toxics with ASD Dickerson et al  found that children from 
+census tracts with higher poverty rates had stronger associations of a 
+combined metals index with ASD  
+• Race 
+Racial differences in effects were examined in only one ecological 
+study in which there was an association of ASD with unhealthy air 
+quality  only among Asians which was not significant OR 
+359  95CI  087  148  pvalue   007  after  adjustment  for  con
+founders  
+342 Maternal factors 
+Two studies reported effect modification by maternal factors one for 
+folic acid intake and one for maternal diabetes In a casecontrol study 
+Goodrich et al  found that children of mothers with low folic acid 
+intake during the first trimester  had 
+stronger associations of ASD with NO2 than mothers with sufficient folic 
+acid intake  
+ Jo et al  reported increased ASD risk associated with 
+first trimester O3  exposure among mothers with gestational diabetes 
+mellitus  diagnosed 24 weeks’ gestation adjusted HR 150 per 
+157 ppb O3  compared to mothers without dia
+betes No O3 associations with ASD were observed among children of 
+mothers with later onset GDM or with preexisting diabetes 
+343 Genetic factors 
+Two  studies  of  interactions  with  genetic  factors  were  identified 
+ Kim et al  examined 15 interactions between 3 types of 
+copy number variation  burden  
+and  5  air  pollutants  NO2  O3  PM25  and  PM10  and  nearroadway 
+pollution Only interactions of O3  exposures during pregnancy per 
+62 ppb with CNV duplication burden per increase of 1356513 base 
+pairs OR  155  and with total CNV burden OR 
+136  were significant In another study ASD risk 
+was increased in association with an interaction of exposure to high 
+PM10 NO2 and dispersionmodeled nearroadway pollution dichoto
+mized at the 75th percentile of each distribution with the MET receptor 
+tyrosine kinase rs CC genotype compared to MET CG or GG 
+genotype  
+4 Discussion 
+Since Windham et al  published the first study of the associ
+ation between prenatal air toxics and the risk of ASD in 2006 more than 
+30 papers have examined air pollutionASD association in diverse pop
+ulations and regions
+
+----------------FIN------------------

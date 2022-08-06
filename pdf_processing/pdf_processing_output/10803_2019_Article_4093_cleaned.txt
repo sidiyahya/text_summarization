@@ -1,0 +1,605 @@
+reported in two case studies Sandler et al 2000 Rodakis 
+2015 However high use of different antibiotics in children 
+who subsequently developed autism was shown in a num
+ber of observational studies Fallon 2005 Niehus and Lord 
+2006 Bittker and Bell 2018 Hypothetically these observed 
+effects could be attributable to microbiota alterations trig
+gering a disturbed immune response and the release of 
+cytokines thus affecting the function of the central nerv
+ous system  Recently a number of 
+observational studies have assessed a possible association of 
+earlylife antibiotic exposure and subsequent development 
+of ASD Here we aimed to systematically document avail
+able evidence on the association between early life antibiotic 
+exposure and the prevalence of ASD later in in childhood
+Methods
+InclusionExclusion Criteria for the Review
+Cohort studies case–control studies and crosssectional 
+studies  were  eligible  for  inclusion  in  this  review  The 
+included  studies  needed  to  investigate  an  association 
+between pre andor postnatal antibiotic exposure and sub
+sequent diagnosis of ASD We included studies in which 
+women during any trimester of pregnancy or infants and
+or children underwent antibiotic treatment We focused on 
+earlylife antibiotic exposure that preceded a diagnosis of 
+ASD which is usually established after the second year of 
+life  Studies on antibiotic exposure in 
+breastfeeding mothers and subsequent risk of ASD in their 
+children were not included Since the hypothesized link 
+between ASD and antibiotic use is based on the aforemen
+tioned microbiomegutbrain axis mechanism only stud
+ies which reported data on systemic andor oral antibiotic 
+therapy were taken into an account Any antibiotic types 
+and doses as well as any treatment durations and indica
+tions were admissible as long as the therapy fulfilled the 
+aforementioned criteria Studies that reported data on anti
+biotic use collectively  
+or that did not report numerical data were excluded Studies 
+in which the data on antibiotic use was collected only for the 
+purpose of baseline characteristic of participants with no 
+analysis of the association between antibiotic use and ASD 
+were also excluded
+Our outcome of interest was the diagnosis of ASD during 
+childhood Studies in which the diagnosis was made accord
+ing to established criteria such as those described in the 
+Diagnostic and Statistical Manual of Mental DisordersV 
+ as well as stud
+ies in which ASD was reported by parents caregivers or 
+doctors without any described specific criteria were avail
+able for inclusion Studies that reported data on ASD only 
+collectively with other neurodevelopmental disorders eg 
+together with attentiondeficit hyperactivity disorder were 
+excluded Only studies that compared children with ASD up 
+to 18 years of age to generally healthy children without this 
+diagnosis were included
+Search Methods
+A systematic literature search was performed on 28th of 
+August 2018 with no language or publication date restric
+tions The databases searched were PubMed Embase and 
+PsycINFO After drafting the first version of the manuscript 
+we ran a search update on the 11th of December 2018 The 
+full search strategies for PubMed and Embase are presented 
+in Online Resource 1 Additionally reference lists of identi
+fied observational studies and relevant review articles were 
+manually screened
+Study Selection
+Three authorsreviewers  independently 
+screened the title of each study identified with the search 
+strategy as well as the abstracts of potentially relevant arti
+cles Subsequently the full text for each study potentially 
+relevant after abstract screening as well as that for studies of 
+unclear relevance was retrieved Each author independently 
+assessed the eligibility of the articles and in cases of a disa
+greement resolved differences by discussion
+Data Extraction and Risk of Bias Assessment
+Data were extracted with the use of a standard data extrac
+tion form The extracted data included study year country 
+design population definition of exposure definitions of 
+cases and controls  definition of 
+outcome  results confounding factors 
+and data collection methods We extracted and reported all 
+the data using the same terminology as the authors of the 
+original articles
+Risk of bias was assessed using the Newcastle–Ottawa 
+Scale   in which the reviewers 
+assign stars in all predefined bias domains In the com
+parability domain the reviewers have to assign 0 1 or 2 
+stars on the basis of the number and types of confounding 
+factors controlled for Multiple important confounding fac
+tors may play a role in studies on the antibioticASD asso
+ciation including those related to different demographics 
+pregnancyrelated complications mothers’ obstetrical histo
+ries child characteristics at birth infections environmental 
+exposures and healthcare use  The NOS 
+requires the reviewers to assign stars depending on two cho
+sen most important factors After the literature search and 
+discussion we found no rationale to decide whether any of 
+the abovementioned factors was more important than the 
+others Therefore we decided to assign zero stars to stud
+ies in which no confounding factors were controlled for or 
+the adjustment was unclear and two stars to studies which 
+controlled for any confounding factors Additionally for 
+informative purposes we present confounders identified in 
+each study in a separate table We decided to present risk 
+of bias only descriptively and no collective score for the 
+included studies was counted
+Data Analysis
+A metaanalysis of the findings was performed if at least two 
+studies of the same type  reported the 
+adjusted odds ratios  or adjusted hazard ratios  
+of ASD being diagnosed in participants exposed to antibi
+otics during the same life period  We 
+performed the metaanalyses using the Review Manager 53 
+software by the Cochrane Collaboration Generic inverse 
+variance with the random effects model was used Addition
+ally the fixed effects model was applied to see how it would 
+influence the results To enable a graphic presentation of the 
+findings in studies which didn’t report OR or HR we calcu
+lated crude ORsHRs and 95 confidence intervals  
+of ASD being diagnosed after antibiotic exposure provided 
+the data were sufficient
+Journal of Autism and Developmental Disorders  493866–3876
+Results
+Overall Characteristics
+In total we identified 6820 records by the database search 
+and 891 records by reference screening After exclusion 
+of duplicates and title and abstract screening the full 
+texts of 63 articles were assessed for eligibility Thirty
+seven observational studies on risk factors for autism were 
+excluded because they did not report antibiotic exposure 
+Reasons for exclusion of the remaining 15 studies are 
+listed in Online Resource 2 After fulltext assessment 
+11 articles ultimately met the inclusion criteria for this 
+review The flow diagram of the selection process is pre
+sented in Online Resources 3 and 4 present characteristics and 
+main results of the included studies Four of those studies 
+were cohort studies and seven of them were case–con
+trol studies Among the included cohort studies three 
+Danish studies Atladottir et al 2012 Wimberley et al 
+2018 Axelsson et al 2019 were performed in overlap
+ping populations Five studies examined prenatal antibiotic 
+exposure five assessed early childhood antibiotic exposure 
+and 1 study examined both types of exposure Wimberley 
+et al 2018 In the majority of included studies use of any 
+antibiotic for any indication and duration and at any dose 
+within the defined time period was analyzed Addition
+ally all of the cohort studies and two of the case–control 
+studies included a number of secondarysensitivity analy
+ses taking antibiotic type spectrum timing number of 
+courses andor indication into account
+Overall three out of four included cohort studies earned a 
+maximum number of stars and only one study lost one star 
+in one of the NOS domains In contrast all of the case–con
+trol studies carried a considerable amount of bias mostly 
+concerning case definitions control for confounding factors 
+and ascertainment of exposure Details of risk of bias assess
+ment for cohort and case–control studies respectively are 
+presented in Online Resource 5 Additionally we listed all 
+the confounding factors used in adjusted analyses in Online 
+Resource 6
+Prenatal Antibiotic Exposure
+Cohort Studies
+Prenatal antibiotic exposure as a risk factor for autism was 
+examined in two large Danish cohort studies performed 
+in overlapping populations The studies involved respec
+tively 96736 children including 976 with ASD Atladot
+tir et al 2012 and 780547 children including 9352 with 
+autism  Population of the first study 
+was most likely contained within the population of the sec
+ond therefore we didn’t perform a metaanalysis The first 
+study reported a borderline significant increase in the risk 
+of ASD after use of any antibiotics anytime during preg
+nancy adjusted hazard ratio  12 95 confidence 
+interval  10–14 A stronger association of prenatal 
+antibiotic exposure with the risk of ASD was reported for 
+the use of sulfonamides anytime during pregnancy aHR 
+15 95 CI 10–22 and use of penicillins during the sec
+ond  and third  
+trimester Similar results were observed for infantile autism 
+ with 
+the strongest association reported for the use of macrolides 
+anytime during the pregnancy  
+Confounding factors controlled for in adjusted model were 
+as follows gender maternal age parity maternal smoking 
+during pregnancy paternal age parental psychiatric history 
+and parents’ educational status
+The second study reported a significant positive asso
+ciation between exposure to any antibiotic anytime during 
+pregnancy and subsequent risk of autism in the offspring 
+ The analysis was adjusted 
+only for sex and age Assessment of this association was not 
+a primary focus of the study and it was only reported as a 
+secondary analysis in the supplementary materials
+Case–Control Studies
+Four of the included case–control studies examined risk of 
+ASD after prenatal antibiotic exposure Among them two 
+clinicbased studies  
+were available for a metaanalysis They were conducted in 
+groups of children of 343  and 314 136 
+with ASD respectively None of those studies found sig
+nificant associations between antibiotic use and ASD with 
+pooled odds ratio from random effect model of 124 95 
+CI 053–292 tors used for the analysis were not described George et al 
+2014 while the second study controlled for a number of 
+perinatal gestational and socioeconomic variables Guisso 
+et al 2018
+In one study conducted in 288 Polish children includ
+ing 96 with autism  the results 
+were presented as the percent of cases versus percent of con
+trols exposed to prenatal antibiotics The univariate model 
+revealed significantly higher exposure to antibiotics in the 
+autism group  However for unde
+scribed reasons the antibiotics were analyzed only collec
+tively with other medications in the multivariate model
+The last study was performed in 415 Swedish children 
+including 206 with ASD  In the sta
+tistical model autism was regressed on antibiotic use dur
+ing pregnancy The data were presented as logistic regres
+sion betas in the form of log odds β  − 015 standard 
+error  045 p  005 in regular regression β  178 stand
+ard error  104 p  005 in fixed effects regression and 
+were reported by the authors as not statistically significant
+None of the aforementioned case–control studies investi
+gated type of antibiotic duration of antibiotic therapy or its 
+timing during pregnancy All ORs and HRs for ASD after 
+use of prenatal antibiotics versus nonexposed group are pre
+sented graphically in Early Childhood Antibiotic Exposure
+Cohort Studies
+Early childhood antibiotic exposure as a risk factor for 
+autism was examined in three cohort studies One study 
+performed in 214834 Canadian children including 2965 
+with ASD  reported a trend towards a 
+reduced risk of ASD in children exposed to any antibiot
+ics during the first year of life after adjusting for relevant 
+demographic prenatal perinatal and postnatal factors aHR 
+091 95 CI 084–099 Stratifying the analysis by sex and 
+region resulted in a statistically significant association in 
+males  and in children from 
+urban regions  In secondary 
+analyses a borderline significance was found for the associa
+tion of specific antibiotic groups with ASD namely peni
+cillin  and macrolides aHR 
+087 95 CI 077–099 The number of antibiotic courses 
+and duration of therapy were not associated with ASD risk 
+In additional analysis of siblingcontrolled design antibiot
+ics use was not associated with risk of developing ASD
+Journal of Autism and Developmental Disorders  493866–3876
+Two other cohort studies were nationwide register
+based studies of the Danish population Both of these stud
+ies derived data from the same registers and covered similar 
+time periods so their populations largely overlapped In 
+one study in 677403 children including 8267 with autism 
+ a slightly increased risk of autism 
+was observed in children exposed postnatally to penicillin 
+ as well as to broaderspec
+trum antibiotics  compared 
+to children unexposed to antibiotics in the standard model 
+However a significant association was no longer observed 
+in the betweenwithin sibling model aHR 105 95 CI 
+093–118 and aHR 105 95 CI 095–116 for penicillin 
+and broaderspectrum antibiotics respectively In another 
+study performed in 780547 children including 9352 with 
+autism  the risk of autism increased 
+after broadspectrum antibiotic exposure before the age of 
+5  Moreover risk of autism 
+was higher after exposure to broadspectrum and moder
+atespectrum antibiotics anytime during childhood aHR 
+151 95 CI 133–172 and aHR 122 95 CI 113–132 
+respectively Both of these studies controlled for a range 
+of potential confounders including different demographic 
+pregnancy and neonatal factors parental psychiatric history 
+and parity
+Since at least two studies of the same type reported the 
+aHR of ASD after antibiotic exposure a metaanalysis was 
+feasible However the two Danish studies were performed in 
+highly overlapping populations so pooling of their data was 
+not justifiable To perform a metaanalysis we used the data 
+from the 1 of the 2 Danish studies in which the exposure 
+and its timing were consistent with those in the Canadian 
+study  Pooling of the data did not yield 
+any significant association between antibiotic exposure and 
+subsequent diagnosis of ASD either in the standard model 
+ or in 
+the sibling model summary effect estimate 105 95 CI 
+096–114 both in random effects  and fixed 
+effects analysis
+Case–Control Studies
+Three case–control studies examined association between 
+ASD and childhood antibiotic exposure One internet sur
+veybased study performed in 1515 children 1001 with 
+ASD  which reported the data in 
+the form of logistic regression OR found a positive associa
+tion between the number of antibiotic courses taken during 
+the first 2 years of life and subsequent diagnosis of ASD in 
+all performed analyses including the final multifactor model 
+ The study controlled for 
+age of the child ethnicity maternal education and region
+Another study performed in a group of 214 children 73 
+with autism  reported crude ORs of 
+autism in children exposed postnatally to antibiotics com
+pared to unexposed unrelated controls OR 243 95 CI 
+09–652 and unexposed healthy siblings OR 203 95 
+CI 040–91 Additionally a multivariable modeling of data 
+was performed with use of the AutoCM artificial neural net
+work—a method that does not generate numerical results but 
+rather provides a map of associations of strength between all 
+variables in the data set According to the authors’ interpre
+tation the proximity of ‘early antibiotic use’ to the ‘autism 
+node’ observed on the map may suggest a significant asso
+ciation between the two
+In one case–control study involving 99 children 75 with 
+autismASD  the mean number of 
+antibiotic courses taken before the age of 2 years was sig
+nificantly higher in the autismASD group compared to the 
+control group  Data provided by the 
+authors were insufficient to calculate ORs
+None of these case–control studies assessed specific types 
+of antibiotics nor the duration of therapy within the analyses 
+ORs and HRs of ASD in exposed versus unexposed groups 
+for these studies are presented on Discussion
+In this review on pre and postnatal antibiotic exposure and 
+subsequent risk of autismASD a total of 11 observational 
+studies were included In two identified cohort studies on 
+prenatal antibiotic exposure performed in overlapping pop
+ulations a slightly increased risk of ASDinfantile autism 
+after the use of various antibiotics was observed However 
+3 of 4 identified case–control studies did not report any sig
+nificant association between prenatal antibiotic exposure 
+and autism risk whereas one reported a positive association 
+based only on univariate analysis Three identified cohort 
+studies on early childhood antibiotic exposure reported con
+flicting evidence In one cohort study a small trend towards 
+a reduced risk of ASD in infants exposed to various antibi
+otics in their first year of life was observed which was not 
+significant in secondary analyses based on siblingcontrolled 
+design In another cohort study a borderline increased 
+risk of ASD was observed with exposure to certain types 
+of antibiotics in a standard model but no association was 
+observed in a betweenwithin sibling model Finally in the 
+third study on a cohort overlapping with the previous one a 
+significantly higher risk of autism after exposure to various 
+classes of antibiotics was observed Data from case–control 
+studies on antibiotic exposure during childhood were more 
+consistent All three of them reported significant positive 
+associations between antibiotic use and later ASD diagnosis
+To our knowledge no previous systematic review has 
+examined antibiotic use during pregnancy and early child
+hood as a potential risk factor for ASD A number of meta
+analyses have reported data on various infections preced
+ing ASD diagnosis  and some 
+have found significant positive associations with infections 
+occurring during pregnancy Jiang et al 2016 Gardener 
+et al 2009 Additionally one of those systematic reviews 
+reported increased risk of ASD after prenatal exposure to 
+different medications including antibiotics which were 
+however not assessed separately  In 
+another metaanalysis no associations between early post
+natal infections and subsequent risk of ASD were found 
+ On the other hand some observa
+tional studies have found evidence of a higher risk of mental 
+disorders after various infections in older children and in 
+adults  Recently 
+more scientific attention is being drawn towards effects of 
+earlylife antibiotic exposure on longterm health outcomes 
+Journal of Autism and Developmental Disorders  493866–3876
+including reports of its negative influence on neurocognitive 
+development  and risk of obesity 
+
+The main strength of this review is its novelty as no 
+previous systematic review has focused on the association 
+between earlylife antibiotic exposure and ASD Our study 
+utilized a broad search strategy complemented by an exten
+sive reference hand search so the possibility of missing 
+important published data is low A relatively narrow clini
+cal question allowed us to focus in detail on the included 
+studies and enabled a clear and meticulous presentation of 
+findings However this review also has considerable limita
+tions Compared to the number of other potential environ
+mental risk factors for ASD antibiotic exposure turned out 
+to be rarely assessed Wang et al 2017 Modabbernia et al 
+2017 Thus only 11 studies were finally included in the 
+review the majority of which were of case–control design 
+After division into groups depending on study type and tim
+ing of exposure small groups of 2 to 4 studies were created 
+Methods of data reporting in these studies were heterogene
+ous further limiting the capacity to perform either qualita
+tive or quantitative synthesis of the data Moreover each 
+of the included case–control studies was characterized by a 
+significant potential risk of bias Another limitation of this 
+study is the inclusion of only published data creating a risk 
+of publication bias Finally we excluded a number of studies 
+in which infections were explored as potential risk factors 
+for ASD Some types of these infections are almost always 
+treated with antibiotics eg urinary tract infections dur
+ing pregnancy severe infections in newborns so we could 
+have assumed them to be a proxy for antibiotic exposure 
+However we decided to use only direct data on exposure
+Results of the included studies do not provide conclusive 
+evidence to support the hypothesis that prenatal antibiotic 
+exposure is associated with ASD Although a number of 
+positive associations was reported in two large cohorts Atl
+adottir et al 2012 Wimberley et al 2018 their popula
+tions were largely overlapping so they cannot be treated as 
+independent studies for the purpose of this review Moreo
+ver authors of the study with borderline significant results 
+ emphasize that within their analysis 
+they made 106 comparisons with no adjustments for multi
+ple testing so this borderline significant association between 
+prenatal antibiotic exposure and ASD could have been a 
+chance finding While this study was specifically designed 
+to examine prenatal risk factors of autism and tested for a 
+wide range of potential confounders the other one focused 
+on postnatal factors and hardly performed any adjustment 
+in the prenatal exposure analysis Because of that in our 
+opinion the results of the former study are more meaningful
+On the other hand all of the case–control studies reported 
+no association between prenatal antibiotic exposure and 
+ASD except for one that reported higher risk of autism in 
+exposed patients  However 
+this study was performed in a relatively small group of chil
+dren and strangely its finding concerning antibiotic expo
+sure was not explored in a multivariate analysis Moreover 
+compared to the literature Santos et al 2010 de Jonge 
+et al 2014 an unexpectedly low percentage of women in 
+the control group  was reported to have used antibiot
+ics during pregnancy which may suggest a bias within the 
+exposure data
+Results of studies on postnatal antibiotic exposure are 
+conflicting One cohort study reported a reduced risk of 
+ASD in children after antibiotic use  
+However since the main model was based only on data from 
+administrative databases the authors performed second
+ary analyses based on a siblingcontrolled design In those 
+analyses antibiotic use was not associated with the risk of 
+developing ASD hence the authors concluded that the mar
+ginal association observed in the main model was unlikely 
+to be meaningful In another cohort study Axelsson et al 
+2019 the betweenwithin sibling design analysis did not 
+confirm the findings from the standard design analysis of 
+higher ASD risk after use of certain types of antibiotics We 
+used data from these two studies to perform a metaanalysis 
+and its results revealed no significant association The final 
+included cohort study  reported a 
+positive association between postnatal antibiotic exposure 
+and autism risk However since its population largely over
+lapped with that of the previous cohort the two cannot be 
+treated as independent studies for the purpose of this sys
+tematic review Besides the lack of a sibling analysis in the 
+latter cohort the difference in results might have originated 
+from the differences in the exposure assessment The authors 
+of the latter study defined ‘antibiotic use preceding the diag
+nosis of autism’ as the antibiotic received before the first 
+diagnosis of autism registered in the national healthcare 
+databases Median age for the first autism diagnosis in this 
+study was 71 years which is much later than both median 
+age of ASD diagnosis reported in the literature and median 
+age of first developmental concerns in ASD children Baio 
+et al 2018 Therefore even for the subgroup of children 
+exposed to antibiotics before fifth birthday it is unclear if the 
+symptoms of autism were absent before the first antibiotic 
+administration In our opinion this might have introduced 
+considerable bias
+All of the remaining case–control studies reported a posi
+tive association between postnatal antibiotic exposure and 
+ASD All of these studies were characterized by consider
+able potential sources of bias including small sample sizes 
+ selfselection 
+bias  reflect
+ing differences between those who choose to participate in 
+a study and those who do not potentially biased control 
+group selection  
+andor lack of verification if the ASD diagnosis in the case 
+group was made by a professional  
+Also in all of these studies the exposure data were based 
+on parental reports so a risk of recall bias  
+especially overreporting the exposure in ASD groups and 
+underreporting in control groups cannot be ruled out
+Data on specific antibiotic types and risk of ASD are also 
+inconsistent In one study an increased risk of ASD was 
+reported after prenatal exposure to sulfonamides penicil
+lins and macrolides but not cephalosporins Atladottir et al 
+2012 This is consistent with the evidence that macrolides 
+induce distinctive changes in the microbiome composition of 
+children  On the other hand expected 
+microbiota alterations after the use of cephalosporins should 
+be at least as strong as those after use of penicillins due to 
+cephalosporins’ broader spectrum Biedermann and Rogler 
+2015 Accordingly another study reported a stronger asso
+ciation between ASD and both pre and postnatal exposure 
+to broad spectrum antibiotics cephalosporins tetracycline 
+trimethoprimsulfonamide combination aminoglycosides 
+and quinolones compared to moderatespectrum antibiot
+ics  However no significant asso
+ciations were found between autism risk and exposure to 
+narrowspectrum antibiotics including macrolides In two 
+other cohort studies no significant associations between 
+ASD and individual types of antibiotics were described 
+ Individual anti
+biotic types were analyzed and reported differently in each 
+of the studies included in our systematic review therefore 
+a metaanalysis was not possible According to the avail
+able evidence some patterns of microbiota composition in 
+individuals with ASD have been identified mostly regarding 
+the abundance of different Clostridia and Bacteroidetes spe
+cies and an altered BacteroidetesFirmicutes ratio Rosenfeld 
+2015 Such changes may be induced both by macrolides 
+and broadspectrum antibiotics  On 
+the other hand microbiota alterations in different individuals 
+might not follow a specific pattern even after use of the same 
+antibiotic  Apart from the disturbance 
+of the microbiomegutbrain axis to our knowledge no well
+documented alternative explanations for the antibioticASD 
+association have been proposed
+A question concerning all of the included studies is the 
+difficulty in differentiating whether the observed effects 
+were due to the antibiotics themselves or were due to the 
+antibiotics acting as a proxy or mediator of an underlying 
+infection Only two of the included studies controlled for 
+infections occurring during the same period as antibiotic 
+exposure  None 
+of the included studies investigated differences in risk of 
+autism resulting from specific indications for antibiotic ther
+apy Three included studies reported a higher risk of autism 
+after maternal respiratory infections Atladottir et al 2012 
+George et al 2014 fever episodes and influenza Atladottir 
+et al 2012 or “infections” in general  
+two studies found significant positive associations between 
+early childhood otitis media episodes and autism Wimber
+ley et al 2018 Niehus and Lord 2006 Such associations 
+of prenatal and earlylife infections with autism have been 
+documented before  
+and they may also be supported by underlying biological 
+mechanisms Singh 2009 Ponzio et al 2007 Rosenhall 
+et al 1999
+All of the included studies in which the assessment of 
+exposure was based on parental reports collected after diag
+nosis of ASD have the possibility of recall bias Knowledge 
+of a variety of potential exposures that are considered as 
+risk factors for ASD is common among parents of children 
+with ASD  thus they may tend to ana
+lyze the previous medical history of their children more and 
+report medication use more often than parents of the control 
+children This is a similar effect to the one observed after 
+past claims of the supposed vaccinationautism association 
+ This may suggest a greater reliability 
+of antibiotic exposure data collected prospectively or derived 
+from medical records
+Yet another problem in the interpretation of possible 
+antibioticASD associations is the fact that despite stable 
+antibiotic use in Europe and USA in recent years Euro
+pean Centre for Disease Prevention and Control 2018 Klein 
+et al 2018 the prevalence of ASD is actually rising in these 
+regions  Nevertheless given the hetero
+geneous etiology of autism it is difficult to exclude the pos
+sibility that reduced antibiotic use is outweighed by other 
+environmental factors contributing to ASD risk
+Journal of Autism and Developmental Disorders  493866–3876
+Conclusions
+Currently available data from observational studies do 
+not conclusively support the hypothesis that prenatal or 
+postnatal exposure to antibiotics as a group is a risk fac
+tor for ASD However a portion of the results from large 
+cohort studies may suggest a possible trend towards higher 
+risk of ASD after use of certain types of antibiotics More 
+studies most preferably of a prospective cohort design 
+controlling adequately for potential confounding factors 
+including infections are needed to verify this association
+Acknowledgments  Ruth Baron Sarphati Amsterdam Amsterdam 
+The Netherlands Isolde Besselingvan der Vaart Sarphati Amsterdam 
+Amsterdam The Netherlands Dorota GieruszczakBiałek Department 
+of Paediatrics The Medical University of Warsaw Żwirki i Wigury 
+63A 02091 Warsaw Poland Andrea Horvath Department of Paediat
+rics The Medical University of Warsaw Żwirki i Wigury 63A 02091 
+Warsaw Poland Jan Łukasik Department of Paediatrics The Medical 
+University of Warsaw Żwirki i Wigury 63A 02091 Warsaw Poland 
+Maciej Kołodziej Department of Paediatrics The Medical University 
+of Warsaw Żwirki i Wigury 63A 02091 Warsaw Poland Bernadeta 
+PatroGołąb Department of Paediatrics The Medical University of 
+Warsaw Żwirki i Wigury 63A 02091 Warsaw Poland Małgorzata 
+PieścikLech Department of Paediatrics The Medical University of 
+Warsaw Żwirki i Wigury 63A 02091 Warsaw Poland Jaap Seidell 
+Sarphati Amsterdam Amsterdam The Netherlands Agata Skórka 
+Department of Paediatrics The Medical University of Warsaw Żwirki i 
+Wigury 63A 02091 Warsaw Poland Hania Szajewska Department of 
+Paediatrics The Medical University of Warsaw Żwirki i Wigury 63A 
+02091 Warsaw Poland Meron Taye Sarphati Amsterdam Amster
+dam The Netherlands Joanne Ujcic Sarphati Amsterdam Amsterdam 
+The Netherlands Arnoud Verhoeff Sarphati Amsterdam Amsterdam 
+The Netherlands
+Author Contributions  HS conceptualized the study and participated in 
+its design and interpretation of the data JŁ conceptualized the study 
+participated in its designcoordination data collection and interpreta
+tion and drafted the manuscript BPG participated in the design and 
+coordination of the study as well as data collection and interpretation 
+AH participated in the design of the study and data collection RB 
+participated in design of the study All authors read and approved the 
+final manuscript
+Compliance with Ethical Standards 
+Conflict of interest  The authors declare that they have no conflict of 
+interest
+Open Access  This article is distributed under the terms of the Crea
+tive Commons Attribution 40 International License httpcreat iveco 
+mmons orglicen sesby which permits unrestricted use distribu
+tion and reproduction in any medium provided you give appropriate 
+credit to the original author and the source provide a link to the 
+Creative Commons license and indicate if changes were made

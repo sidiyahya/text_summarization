@@ -1,0 +1,75 @@
+SUMMARY SPACY 
+
+
+
+Oudin et al 2019 and other European countries Guxens
+et al 2016 and Asia for 3 studies 
+Israel  China 
+
+incremental risk When available  we computed three models for each metaanalysis a global model using all risks listed in included articles a pessimistic
+model using only the less favorable data and an optimistic model using only the most favorable 95CI 95 conﬁdence intervals Each metaanalysis is represented in the forest
+plot by a dot on a horizontal line with the corresponding number of articles  included within the metaanalysis The white dots represent the odds ratio 
+and the length of each line around the dots represent its 95 conﬁdence interval  An overall summary pooledestimate  is
+represented by a blue lozenge at the end of the graph The black solid vertical line represents the null estimate  Horizontal lines that cross the null vertical
+line  represent nonsigniﬁcant studies
+the optimistic model only an increased risk during pregnancy with
+both the global and optimistic models and an increased risk
+regardless of the model used during the postnatal period
+37 Metaregressions and sensitivity analyses
+Using categorical levels of exposure PM25 tended to lead to
+greater increased risk of having a child with ASD compared with
+exposure to PM10 
+NOx  and solvents
+ No other differences
+between air pollutants exposure were noted nor between peri
+conceptional periods or trimesters Neither parental age or gender
+of newborns were found to inﬂuence the risk of ASD insufﬁcient data other sociodemographic variables were not
+We demonstrated that global air pollution exposure in the
+perinatal period is a risk factor for ASD in newborns Supplementary
+is the ﬁrst to report a risk based on consideration of all air pollut
+ants As exposures are in general multiple when quantifying risk it
+is likely that overall risk is of most interest as reported by other
+authors  ASD
+was ﬁrst described as a disorder in children with problems relating
+to others highly sensitive to changes in their environment Kanner
+1968 Prevalence of ASD appears to have increases over time
+ possibly due to
+a modiﬁed deﬁnition of ASD enhanced awareness and improved
+diagnosis  but
+also to a global increase in air pollutants in most megalopolis
+ The rigorous
+and sensitive statistical approach used in this metaanalysis
+Environmental Pollution 278  116856
+available  we computed three models for each metaanalysis a global model using all risks listed in included articles a pessimistic model using only the less
+favorable data and an optimistic model using only the most favorable 95CI 95 conﬁdence intervals Each metaanalysis is represented in the forestplot by a dot on a horizontal
+line with the corresponding number of articles  included within the metaanalysis The white dots represent the odds ratio  and the length of each line
+around the dots represent its 95 conﬁdence interval  An overall summary pooledestimate  is represented by a blue lozenge at
+the end of the graph The black solid vertical line represents the null estimate  Horizontal lines that cross the null vertical line  represent non
+signiﬁcant studies
+allowed analysis of several included studies presenting different
+data for the same risk eg several models adjusted on different
+covariables There are presently no guidelines on how to manage
+this issue  To avoid potential limitations we
+created three models for each metaanalysis a global model based
+on all risks reported in included articles a pessimistic model using
+less favorable risks only  and an optimistic
+model using the most favorable risks only Unsurprisingly use of
+optimistic models led to stronger results but notably we were
+unable to demonstrate an increased risk using the pessimistic
+model based on all air pollutants
+42 PM25 a public health issue
+Risk of developing ASD in newborns increased using the global
+and optimistic models only for all air pollutants with a strong high
+risk following exposure to PM25 whatever the model Even use of
+the pessimistic model based on the least favorable data those with
+the least increased risk revealed a minimum increased risk of 6
+ Nearly all individual studies
+showed that maternal exposure to PM25 was associated with
+increased risk of newborns with ASD Becerra
+The ma
+jority of studies were conducted in the USA Kalkbrenner et al
+2018 Becerra et al 2013 Dickerson et al 2016 Dickerson et al
+2015 Kalkbrenner et al 2010 Kalkbrenner et al 2015 Kaufman
+et al 2019
+
+----------------FIN------------------

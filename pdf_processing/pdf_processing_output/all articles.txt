@@ -1,0 +1,2819 @@
+We systematically reviewed evidence from observational studies on the associations between autism spectrum disorders
+
+(ASD) and early-life antibiotic exposure. Eleven articles were included in the review. Prenatal antibiotic exposure was associ-
+ated with a slightly increased risk of ASD in two cohort studies on overlapping populations and in one case–control study;
+
+in three other case–control studies, no signifcant association was found. One cohort study found a slightly reduced risk of
+ASD after postnatal antibiotic exposure, while two other cohort studies on overlapping populations and three case–control
+studies reported an increased risk. Meta-analysis of the eligible studies showed no signifcant associations. Current data are
+conficting and do not conclusively support the hypothesis that early-life antibiotic exposure is associated with subsequent
+ASD development.
+
+Autism spectrum disorders (ASD) are a group of neurodevelopmental conditions characterized by persistent defcits
+in social communication and restricted, repetitive patterns of behavior, interests, or activities, beginning in the
+developmental period  Currently used term ‘ASD’ is an umbrella diagnosis for a group of conditions, namely: autistic disorder,
+Asperger syndrome, childhood disintegrative disorder and
+pervasive developmental disorder-not otherwise specifed
+
+The World Health Organization estimates
+that approximately one in 160 children has ASD . However, according to recent
+studies, the current prevalence of ASD in certain communities may fall between 1 and 2% . Moreover, the prevalence of autism has
+steadily risen during the last decades . The etiology of ASD is heterogeneous . Multiple genetic factors, a variety of environmental
+
+factors , and a complex interplay between these factors have
+
+been proposed and extensively studied. A recent rise in the
+prevalence of ASD suggests a major role of the environment.
+Since the symptoms of ASD typically occur during early
+childhood, potential causative factors are most likely to act
+during the prenatal and early postnatal periods.
+One of the investigated risk factors for ASD is exposure
+to antibiotics during pregnancy and childhood. It has been
+
+suggested that the intestinal microbiota afects brain function and human behavior, through the so-called microbiome-gut-brain axis . Antibiotics
+
+are one of the factors known to disturb the composition of
+
+the microbiota in infancy . Additionally, a number of studies have confrmed that individuals
+
+with ASD have diferent intestinal microbiome compositions
+compared to those of healthy individuals . In regard to potential efects of antibiotics on ASD,
+improvement of ASD symptoms after antibiotic use was
+reported in two case studies. However, high use of diferent antibiotics in children
+who subsequently developed autism was shown in a number of observational studies. Hypothetically, these observed
+efects could be attributable to microbiota alterations, triggering a disturbed immune response and the release of
+cytokines, thus, afecting the function of the central nervous system . Recently, a number of observational studies have assessed a possible association of
+early-life antibiotic exposure and subsequent development
+of ASD. Here we aimed to systematically document available evidence on the association between early life antibiotic
+
+exposure and the prevalence of ASD later in in childhood.
+Cohort studies, case–control studies, and cross-sectional
+studies were eligible for inclusion in this review. The
+included studies needed to investigate an association
+
+between pre- and/or postnatal antibiotic exposure and subsequent diagnosis of ASD. We included studies in which
+
+women during any trimester of pregnancy or infants and/
+or children underwent antibiotic treatment. We focused on
+early-life antibiotic exposure that preceded a diagnosis of
+ASD, which is usually established after the second year of
+life (Mandell et al. 2005). Studies on antibiotic exposure in
+breastfeeding mothers and subsequent risk of ASD in their
+children were not included. Since the hypothesized link
+
+between ASD and antibiotic use is based on the aforementioned microbiome-gut-brain axis mechanism, only stud-
+ies which reported data on systemic and/or oral antibiotic
+
+therapy were taken into an account. Any antibiotic types
+
+and doses, as well as any treatment durations and indications were admissible, as long as the therapy fulflled the
+
+aforementioned criteria. Studies that reported data on antibiotic use collectively (e.g., along with other medications)
+
+or that did not report numerical data were excluded. Studies
+in which the data on antibiotic use was collected only for the
+purpose of baseline characteristic of participants, with no
+analysis of the association between antibiotic use and ASD
+were also excluded.
+Our outcome of interest was the diagnosis of ASD during
+
+childhood. Studies in which the diagnosis was made according to established criteria, such as those described in the
+
+Diagnostic and Statistical Manual of Mental Disorders-V
+ as well as studies in which ASD was reported by parents, caregivers or
+
+doctors without any described specifc criteria, were available for inclusion. Studies that reported data on ASD only
+collectively with other neurodevelopmental disorders , were
+excluded. Only studies that compared children with ASD up
+to 18 years of age to generally healthy children without this
+diagnosis were included.
+A systematic literature search was performed on 28th of
+
+August 2018, with no language or publication date restrictions. The databases searched were PubMed, Embase, and
+
+PsycINFO. After drafting the frst version of the manuscript,
+we ran a search update on the 11th of December 2018. The
+full search strategies for PubMed and Embase are presented
+
+in Online Resource 1. Additionally, reference lists of identifed observational studies and relevant review articles were
+manually screened.
+Three authors/reviewers  independently
+screened the title of each study identifed with the search
+
+strategy as well as the abstracts of potentially relevant articles. Subsequently, the full text for each study potentially
+
+relevant after abstract screening, as well as that for studies of
+unclear relevance, was retrieved. Each author independently
+
+assessed the eligibility of the articles and, in cases of a disagreement, resolved diferences by discussion.
+Data were extracted with the use of a standard data extraction form. The extracted data included study year, country,
+
+design, population, defnition of exposure, defnitions of
+cases and controls, defnition of
+outcome, results, confounding factors,
+and data collection methods. We extracted and reported all
+the data using the same terminology as the authors of the
+original articles.
+Risk of bias was assessed using the Newcastle–Ottawa
+Scale, in which the reviewers assign stars in all predefned bias domains. In the com-
+parability domain the reviewers have to assign 0, 1, or 2
+
+stars on the basis of the number and types of confounding
+
+factors controlled for. Multiple important confounding factors may play a role in studies on the antibiotic-ASD asso-
+ciation, including those related to diferent demographics,
+
+pregnancy-related complications, mothers’ obstetrical histories, child characteristics at birth, infections, environmental
+
+exposures, and healthcare use (Lyall et al. 2017). The NOS
+
+requires the reviewers to assign stars depending on two chosen, most important factors. After the literature search and
+
+discussion, we found no rationale to decide whether any of
+the above-mentioned factors was more important than the
+
+others. Therefore, we decided to assign zero stars to studies in which no confounding factors were controlled for or
+
+the adjustment was unclear, and two stars to studies which
+controlled for any confounding factors. Additionally, for
+informative purposes, we present confounders identifed in
+each study in a separate table. We decided to present risk
+of bias only descriptively and no collective score for the
+included studies was counted.A meta-analysis of the fndings was performed if at least two
+studies of the same type reported the
+adjusted odds ratios (aOR) or adjusted hazard ratios (aHR)
+
+of ASD being diagnosed in participants exposed to antibiotics during the same life period (pre- or postnatally). We
+
+performed the meta-analyses using the Review Manager 5.3
+software by the Cochrane Collaboration. Generic inverse
+
+variance with the random efects model was used. Additionally, the fxed efects model was applied to see how it would
+
+infuence the results. To enable a graphic presentation of the
+
+fndings in studies which didn’t report OR or HR, we calculated crude ORs/HRs and 95% confdence intervals (95% CI)
+
+of ASD being diagnosed after antibiotic exposure, provided
+the data were sufcient.In total, we identifed 6820 records by the database search
+and 891 records by reference screening. After exclusion
+of duplicates and title and abstract screening, the full
+
+texts of 63 articles were assessed for eligibility. Thirty-
+seven observational studies on risk factors for autism were
+
+excluded because they did not report antibiotic exposure.
+Reasons for exclusion of the remaining 15 studies are
+listed in Online Resource 2. After full-text assessment,
+11 articles ultimately met the inclusion criteria for this
+
+Online Resources 3 and 4 present characteristics and
+main results of the included studies. Four of those studies
+
+were cohort studies, and seven of them were case–control studies. Among the included cohort studies, three
+
+Danish studies were performed in overlapping populations. Five studies examined prenatal antibiotic
+
+exposure, fve assessed early childhood antibiotic exposure
+and 1 study examined both types of exposure. In the majority of included studies, use of any
+antibiotic, for any indication and duration and at any dose
+
+within the defned time period, was analyzed. Additionally, all of the cohort studies and two of the case–control
+
+studies included a number of secondary/sensitivity analyses, taking antibiotic type, spectrum, timing, number of
+
+courses, and/or indication into account.
+Overall, three out of four included cohort studies earned a
+maximum number of stars, and only one study lost one star
+
+in one of the NOS domains. In contrast, all of the case–control studies carried a considerable amount of bias, mostly
+
+concerning case defnitions, control for confounding factors,
+
+and ascertainment of exposure. Details of risk of bias assessment for cohort and case–control studies, respectively, are
+
+presented in Online Resource 5. Additionally, we listed all
+the confounding factors used in adjusted analyses in Online
+
+Prenatal Antibiotic Exposure
+Cohort Studies
+Prenatal antibiotic exposure as a risk factor for autism was
+examined in two large Danish cohort studies performed
+
+in overlapping populations. The studies involved, respectively:
+
+was most likely contained within the population of the second, therefore, we didn’t perform a meta-analysis. The frst
+
+study reported a borderline signifcant increase in the risk
+of ASD after use of any antibiotics anytime during pregnancy . A stronger association of prenatal
+antibiotic exposure with the risk of ASD was reported for
+the use of sulfonamides anytime during pregnancy 
+trimester. Similar results were observed for infantile autism
+(defned as ICD-10 code F84.0 assigned to participant), with
+the strongest association reported for the use of macrolides
+anytime during the pregnancy .
+Confounding factors controlled for in adjusted model were
+as follows: gender, maternal age, parity, maternal smoking
+during pregnancy, paternal age, parental psychiatric history,
+and parents’ educational status.
+
+The second study reported a signifcant, positive asso-
+ciation between exposure to any antibiotic anytime during
+
+pregnancy and subsequent risk of autism in the ofspring
+. The analysis was adjusted
+only for sex and age. Assessment of this association was not
+a primary focus of the study, and it was only reported as a
+secondary analysis in the supplementary materials.
+Case–Control Studies
+Four of the included case–control studies examined risk of
+ASD after prenatal antibiotic exposure. Among them, two
+clinic-based studies ,
+were available for a meta-analysis. They were conducted in
+groups of children of 343, respectively. None of those studies found sig-
+nifcant associations between antibiotic use and ASD, with
+
+while the second study controlled for a number of
+perinatal, gestational, and socioeconomic variables
+
+In one study conducted in 288 Polish children including 96 with autism , the results
+
+were presented as the percent of cases versus percent of controls exposed to prenatal antibiotics. The univariate model
+
+revealed signifcantly higher exposure to antibiotics in the
+autism group 
+ However, for undescribed reasons, the antibiotics were analyzed only collectively with other medications in the multivariate model.
+
+The last study was performed in 415 Swedish children,
+
+including 206 with ASD . In the sta-
+tistical model, autism was regressed on antibiotic use during pregnancy. The data were presented as logistic regression betas in the form of log odds and
+
+were reported by the authors as not statistically signifcant.
+None of the aforementioned case control studies investigated type of antibiotic, duration of antibiotic therapy, or its
+
+timing during pregnancy.
+Early childhood antibiotic exposure as a risk factor for
+autism was examined in three cohort studies. One study
+performed in 214,834 Canadian children, including 2965
+with ASD (Hamad et al. 2018), reported a trend towards a
+
+reduced risk of ASD in children exposed to any antibiotics during the frst year of life after adjusting for relevant
+demographic, prenatal, perinatal, and postnatal factors . Stratifying the analysis by sex and
+region resulted in a statistically signifcant association in males and in children from
+urban regions . In secondary analyses, a borderline signifcance was found for the association of specifc antibiotic groups with ASD, namely peni-
+cillin ) and macrolides. The number of antibiotic courses
+and duration of therapy were not associated with ASD risk.
+
+In additional analysis of sibling-controlled design, antibiotics use was not associated with risk of developing ASD.
+Two other cohort studies were nation-wide, registerbased studies of the Danish population. Both of these studies derived data from the same registers and covered similar
+
+time periods, so their populations largely overlapped. In
+one study in 677,403 children, including 8267 with autism
+, a slightly increased risk of autism
+was observed in children exposed postnatally to penicillin
+
+ as well as to broader-spectrum antibiotics compared
+
+to children unexposed to antibiotics in the standard model.
+However, a signifcant association was no longer observed
+in the between-within sibling model . In another
+study performed in 780,547 children including 9352 with
+autism (Wimberley et al. 2018), the risk of autism increased
+after broad-spectrum antibiotic exposure before the age of
+5. Moreover, risk of autism
+
+was higher after exposure to broad-spectrum and moderate spectrum antibiotics anytime during childhood . Both of these studies controlled for a range
+of potential confounders, including diferent demographic,
+pregnancy and neonatal factors, parental psychiatric history,
+and parity.
+Since at least two studies of the same type reported the
+aHR of ASD after antibiotic exposure, a meta-analysis was
+feasible. However, the two Danish studies were performed in
+highly overlapping populations, so pooling of their data was
+not justifable. To perform a meta-analysis, we used the data
+from the 1 of the 2 Danish studies, in which the exposure
+and its timing were consistent with those in the Canadian
+study. Pooling of the data did not yield
+any signifcant association between antibiotic exposure and
+subsequent diagnosis of ASD, either in the standard model
+ or in the sibling model. Three case–control studies examined association between
+ASD and childhood antibiotic exposure. One internet survey-based study performed in 1515 children, which reported the data in
+the form of logistic regression OR, found a positive association between the number of antibiotic courses taken during
+the frst 2 years of life and subsequent diagnosis of ASD in
+all performed analyses, including the fnal multifactor model
+. The study controlled for age of the child, ethnicity, maternal education, and region.
+Another study performed in a group of 214 children  reported crude ORs of autism in children exposed postnatally to antibiotics compared to unexposed unrelated controls  and unexposed healthy siblings . 
+Additionally, a multivariable modeling of data was performed with use of the Auto-CM artifcial neural network a method that does not generate numerical results but
+rather provides a map of associations of strength between all variables in the data set. According to the authors’ interpretation, the proximity of ‘early antibiotic use’ to the ‘autism
+node’ observed on the map may suggest a signifcant association between the two.
+In one case control study involving 99 children, the mean number of
+
+antibiotic courses taken before the age of 2 years was signifcantly higher in the autism/ASD group compared to the
+control group . Data provided by the
+authors were insufcient to calculate ORs.
+None of these case–control studies assessed specifc types
+of antibiotics nor the duration of therapy within the analyses.
+ORs and HRs of ASD
+In this review on pre- and postnatal antibiotic exposure and
+subsequent risk of autism/ASD, a total of 11 observational
+studies were included. In two identifed cohort studies on
+
+prenatal antibiotic exposure performed in overlapping populations, a slightly increased risk of ASD/infantile autism
+
+after the use of various antibiotics was observed. However, 3 of 4 identifed case–control studies did not report any signifcant association between prenatal antibiotic exposure
+
+and autism risk, whereas one reported a positive association
+based only on univariate analysis. Three identifed cohort
+
+studies on early childhood antibiotic exposure reported conficting evidence. In one cohort study, a small trend towards
+a reduced risk of ASD in infants exposed to various antibiotics in their frst year of life was observed, which was not
+
+signifcant in secondary analyses based on sibling-controlled
+design. In another cohort study, a borderline increased
+risk of ASD was observed with exposure to certain types
+of antibiotics in a standard model but no association was
+observed in a between-within sibling model. Finally, in the
+third study on a cohort overlapping with the previous one, a
+signifcantly higher risk of autism after exposure to various
+classes of antibiotics was observed. Data from case–control
+studies on antibiotic exposure during childhood were more
+consistent. All three of them reported signifcant, positive
+associations between antibiotic use and later ASD diagnosis.
+To our knowledge, no previous systematic review has
+
+examined antibiotic use during pregnancy and early childhood as a potential risk factor for ASD. A number of meta analyses have reported data on various infections preced-
+ing ASD diagnosis , and some
+have found signifcant positive associations with infections
+occurring during pregnancy. Additionally, one of those systematic reviews
+reported increased risk of ASD after prenatal exposure to
+diferent medications, including antibiotics, which were,
+however, not assessed separately . In
+
+another meta-analysis, no associations between early post-
+natal infections and subsequent risk of ASD were found
+
+. On the other hand, some observa-
+tional studies have found evidence of a higher risk of mental
+
+disorders after various infections in older children and in
+adults . Recently,
+more scientifc attention is being drawn towards efects of
+early-life antibiotic exposure on long-term health outcomes,
+including reports of its negative infuence on neurocognitive
+development 
+The main strength of this review is its novelty, as no
+previous systematic review has focused on the association
+between early-life antibiotic exposure and ASD. Our study
+
+utilized a broad search strategy, complemented by an extensive reference hand search, so the possibility of missing
+
+important published data is low. A relatively narrow clinical question allowed us to focus in detail on the included
+
+studies and enabled a clear and meticulous presentation of
+
+fndings. However, this review also has considerable limitations. Compared to the number of other potential environ-
+mental risk factors for ASD, antibiotic exposure turned out
+
+to be rarely assessed Thus, only 11 studies were fnally included in the
+review, the majority of which were of case–control design.
+
+After division into groups depending on study type and timing of exposure, small groups of 2 to 4 studies were created.
+
+Methods of data reporting in these studies were heterogeneous, further limiting the capacity to perform either qualita-
+tive or quantitative synthesis of the data. Moreover, each
+
+of the included case–control studies was characterized by a
+signifcant potential risk of bias. Another limitation of this
+study is the inclusion of only published data, creating a risk
+of publication bias. Finally, we excluded a number of studies
+in which infections were explored as potential risk factors
+for ASD. Some types of these infections are almost always
+
+treated with antibiotics , so we could
+
+have assumed them to be a proxy for antibiotic exposure.
+However, we decided to use only direct data on exposure.
+Results of the included studies do not provide conclusive
+evidence to support the hypothesis that prenatal antibiotic
+exposure is associated with ASD. Although a number of
+
+positive associations was reported in two large cohorts, their populations were largely overlapping, so they cannot be treated as
+
+independent studies for the purpose of this review. Moreover, authors of the study with borderline signifcant results
+
+ emphasize, that within their analysis
+
+they made 106 comparisons with no adjustments for multiple testing, so this borderline signifcant association between
+
+prenatal antibiotic exposure and ASD could have been a
+chance fnding. While this study was specifcally designed
+to examine prenatal risk factors of autism and tested for a
+wide range of potential confounders, the other one focused
+on postnatal factors and hardly performed any adjustment
+in the prenatal exposure analysis. Because of that, in our
+opinion the results of the former study are more meaningful.
+On the other hand, all of the case–control studies reported
+no association between prenatal antibiotic exposure and
+ASD, except for one that reported higher risk of autism in
+exposed patients (Mrozek-Budzyn et al. 2013). However,
+
+this study was performed in a relatively small group of children, and strangely, its fnding concerning antibiotic exposure was not explored in a multivariate analysis. Moreover,
+
+compared to the literature an unexpectedly low percentage of women in
+
+the control group (2.1%) was reported to have used antibiot-
+ics during pregnancy, which may suggest a bias within the
+
+exposure data.
+Results of studies on postnatal antibiotic exposure are
+conficting. One cohort study reported a reduced risk of
+ASD in children after antibiotic use .
+However, since the main model was based only on data from
+
+administrative databases, the authors performed secondary analyses based on a sibling-controlled design. In those
+
+analyses, antibiotic use was not associated with the risk of
+
+developing ASD, hence, the authors concluded that the marginal association observed in the main model was unlikely
+
+to be meaningful. In another cohort study , the between-within sibling design analysis did not
+confrm the fndings from the standard design analysis of
+higher ASD risk after use of certain types of antibiotics. We
+used data from these two studies to perform a meta-analysis,
+and its results revealed no signifcant association. The fnal
+included cohort study (Wimberley et al. 2018) reported a
+positive association between postnatal antibiotic exposure
+
+and autism risk. However, since its population largely overlapped with that of the previous cohort, the two cannot be
+
+treated as independent studies for the purpose of this systematic review. Besides the lack of a sibling analysis in the
+
+latter cohort, the diference in results might have originated
+from the diferences in the exposure assessment. The authors
+of the latter study defned ‘antibiotic use preceding the diagnosis of autism’ as the antibiotic received before the frst
+
+diagnosis of autism registered in the national healthcare
+databases. Median age for the frst autism diagnosis in this
+study was 7.1 years, which is much later than both median
+age of ASD diagnosis reported in the literature and median
+age of frst developmental concerns in ASD .Therefore, even for the subgroup of children
+exposed to antibiotics before ffth birthday it is unclear, if the
+symptoms of autism were absent before the frst antibiotic
+administration. In our opinion, this might have introduced
+considerable bias.
+
+All of the remaining case–control studies reported a positive association between postnatal antibiotic exposure and
+
+ASD. All of these studies were characterized by considerable potential sources of bias, including small sample sizes
+
+, self-selection
+
+bias  refecting diferences between those who choose to participate in
+
+a study and those who do not, potentially biased control
+group selection ,
+and/or lack of verifcation if the ASD diagnosis in the case
+group was made by a professional.
+Also, in all of these studies, the exposure data were based
+on parental reports, so a risk of recall bias ,
+especially over-reporting the exposure in ASD groups and
+under-reporting in control groups, cannot be ruled out.
+Data on specifc antibiotic types and risk of ASD are also
+inconsistent. In one study, an increased risk of ASD was
+
+reported after prenatal exposure to sulfonamides, penicillins and macrolides, but not cephalosporins . This is consistent with the evidence that macrolides
+induce distinctive changes in the microbiome composition of
+children . On the other hand, expected
+microbiota alterations after the use of cephalosporins should
+be at least as strong as those after use of penicillins, due to
+cephalosporins’ broader spectrum  Accordingly, another study reported a stronger association between ASD and both pre- and postnatal exposure
+
+to broad spectrum antibiotics  compared to moderate-spectrum antibiotics . However, no signifcant asso-
+ciations were found between autism risk and exposure to
+
+narrow-spectrum antibiotics, including macrolides. In two
+other cohort studies, no signifcant associations between
+ASD and individual types of antibiotics were described
+. Individual anti-
+biotic types were analyzed and reported diferently in each
+
+of the studies included in our systematic review; therefore,
+
+a meta-analysis was not possible. According to the available evidence, some patterns of microbiota composition in
+
+individuals with ASD have been identifed, mostly regarding
+the abundance of diferent Clostridia and Bacteroidetes species and an altered Bacteroidetes/Firmicutes ratio . Such changes may be induced both by macrolides
+and broad-spectrum antibiotics. On
+the other hand, microbiota alterations in diferent individuals
+might not follow a specifc pattern even after use of the same
+antibiotic. Apart from the disturbance
+
+of the microbiome-gut-brain axis, to our knowledge no well documented alternative explanations for the antibiotic-ASD
+
+association have been proposed.
+A question concerning all of the included studies is the
+difculty in diferentiating whether the observed efects
+were due to the antibiotics themselves or were due to the
+antibiotics acting as a proxy or mediator of an underlying
+infection. Only two of the included studies controlled for
+infections occurring during the same period as antibiotic
+exposure . Noneof the included studies investigated diferences in risk of
+
+autism resulting from specifc indications for antibiotic ther-
+apy. Three included studies reported a higher risk of autism
+after maternal respiratory infections (Atladottir et al. 2012;
+George et al. 2014), fever episodes and infuenza (Atladottir
+et al. 2012), or “infections” in general (Guisso et al. 2018);
+two studies found signifcant positive associations between
+early childhood otitis media episodes and autism  Such associations
+of prenatal and early-life infections with autism have been
+documented before ,
+and they may also be supported by underlying biological
+mechanisms
+All of the included studies in which the assessment of
+exposure was based on parental reports collected after diagnosis of ASD have the possibility of recall bias. Knowledge
+
+of a variety of potential exposures that are considered as
+risk factors for ASD is common among parents of children
+with ASD thus, they may tend to analyze the previous medical history of their children more and
+report medication use more often than parents of the control
+children. This is a similar efect to the one observed after
+past claims of the supposed vaccination-autism association
+ This may suggest a greater reliability
+of antibiotic exposure data collected prospectively or derived
+from medical records.
+Yet another problem in the interpretation of possible
+antibiotic-ASD associations is the fact that, despite stable
+antibiotic use in Europe and USA in recent years , the prevalence of ASD is actually rising in these
+regions . Nevertheless, given the heterogeneous etiology of autism, it is difcult to exclude the possibility that reduced antibiotic use is outweighed by other
+environmental factors contributing to ASD risk.
+Conclusions
+Currently available data from observational studies do not conclusively support the hypothesis that prenatal or postnatal exposure to antibiotics as a group is a risk factor for ASD. However, a portion of the results from large cohort studies may suggest a possible trend towards higher
+risk of ASD after use of certain types of antibiotics. More studies, most preferably of a prospective cohort design,
+controlling adequately for potential confounding factors The Netherlands, Arnoud Verhoef: Sarphati Amsterdam, Amsterdam, The Netherlands. Author Contributions HS conceptualized the study and participated in
+its design and interpretation of the data; JŁ conceptualized the study, participated in its design,coordination, data collection and interpretation, and drafted the manuscript; BPG participated in the design and
+coordination of the study, as well as data collection and interpretation; AH participated in the design of the study and data collection; RB participated in design of the study. All authors read and approved the fnal manuscript.
+Compliance with Ethical Standards Conflict of interest The authors declare that they have no confict of interest. Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License  which permits unrestricted use, distribu tion, and reproduction in any medium, provided you give appropriate
+credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.
+Autism spectrum disorder is a complex group of developmental disorders characterized by difficulties in communication
+and social interaction and the presence of repetitive body movements or behaviors that can persist throughout life 
+According to the Centers for Disease Control and Prevention 
+and the Environmental Protection Agency  of the US, recently more children are being diagnosed with ASD. The overall preva-
+lence of ASD increased from 1.1% in 2012 to 1.7% in 2014, based on an analysis of medical and school records of 8-year-olds from 11
+monitoring sites across the US  Some of the increase in the preva-
+lence of ASD may be related to increased monitoring and a broadening of diagnostic criteria  It is unclear whether and to what extent environmental factors
+have contributed to the recent increase in ASD. Previous studies suggested that both genetic and environmental factors might play a
+role in ASD (Flores-Pajot et al., 2016). One environmental risk factor of interest in the etiology of ASD is exposure to ambient air
+pollution. There are six common air pollutants, called criteria pollutants, identified by the US Clean Air Act of 1970: ground-level ozone , lead, particulate matter , carbon monoxide
+, nitrogen dioxide , and sulfur dioxide , which are the only air pollutants under national air quality standards.
+PM is a complex mixture classified by size into PM2.5  and PM10  that vary by place and time
+depending on local industries and infrastructure. Main emission  sources of the others have been known chemical reactions, trans-
+portation, and other combustion products . While a few studies in Europe have reported no association
+, a number of studies in the US and other countries have reported associations
+between maternal exposure to ambient air pollution and ASD in children The different findings may be related to several factors: ASD
+ascertainment method, air pollutant and study population. The European studies took into account autistic traits and also examined NOx and PM10 instead of NO2 and PM2.5, or multi countries
+which would be more heterogeneous than a single country. Thedifferences between US and Europe could be explained by differences on air pollution levels and sources.
+Even though epidemiologic studies found maternal exposure to air pollutants associated with the ASD, the mechanism underlying
+this association was not clearly understood. Recent animal experiments with mice found that exposure to unhealthy levels of particulate matter during pregnancy could cause subtle changes in the
+structure of the cerebral cortex , as seen in the brains of autistic patients
+. A possible mechanism is related to increased neuroinflammation, which leads to decreased expression of the
+protein reelindwhich activates a signaling pathway required for proper positioning of neurons in the braindboth events common
+with autism . Some studies on human pregnancy have found that prenatal
+exposure to air pollution during the developmental stage of the
+central nervous system may be linked to a systemic inflammatory
+response, which could result in neuronal injury Other studies have also
+reported that prenatal exposure to environmental toxicants may be
+associated with ASD. However, the relationship between exposure time
+and fetal development remains unclear. There have been some differences in findings and approaches by
+previous systematic reviews and meta-analyses . Lam et al. concluded that there was limited evidence for associations between overall air pollution exposure in early life and ASD, but they found sufficient
+evidence, most notably, between prenatal exposures to PM2.5 or PM10 and ASD. Flores-Pajot et al. investigated varied exposure times
+and found evidence that prenatal exposure to PM2.5 and ozone and
+postnatal exposure to PM2.5 and NO2 were associated with ASD.
+Yang et al. pointed out that a semi-Bayesian logistic model might
+improve the plausibility and stability of estimates. They discussed
+the need for some well-designed studies with a large sample, less
+misclassification or measurement of individual-level exposures,
+and consideration of multiple confounders.
+For meta-analysis there are four areas for further investigations
+
+regarding associations between air pollutants and ASD development in children: which pollutant ,
+
+to what extent , what method, and when . Adverse health effect of maternal exposures to ambient air pollution on children may vary
+according to the exposure time. A natural question is: if there is a
+critical time window of exposure that is more associated with ASD
+development in children. In this systematic review, we conducted a systematic search of
+literature on maternal exposure to ambient air pollution and ASD
+since 2007, which resulted in an ultimate focus on PM2.5, PM10, NO2,
+and ozone. This focus was mainly due to eligible studies’ availability, not our preference for the four pollutants. We also examined
+the exposure time by trimester, considering fetal development
+during pregnancy.
+The protocol of this study was registered in PROSPERO. A systematic literature search
+in Medline, Embase, and Web of Science was performed using the
+combination of Medical Subject Headings  related to ASD
+and maternal exposure  to air pollution since 2007. We included criteria air contaminants, haz-
+ardous air pollutants and related pollutants , persistent organic pollutants ,
+heavy metals, and toxicants. We used several keywords for HAP with the help of a librarian at the Ottawa
+Hospital. Searches were limited to studies with an abstract published in the English language with a publication date between
+We used Covidence  to screen studies based on title and abstract. Covidence is a Cochrane technology platform that
+enables the whole review team to collaborate remotely by keeping
+full records of who voted to include a study and capturing reasons
+for exclusion so reviewers can resolve any disagreements. We 
+identified eligible articles for this study using the following inclusion criteria:  study design was observational, including
+ecological, case-control, and cohort studies; study participants
+included children and/or mothers;  ASD diagnosis was made
+based on clinical assessments, self-report questionnaires or structured interviews;  measure of air pollution exposure or during
+conception and pregnancy  or at the time of birth (perinatal exposure) or during childhood 
+and (5) information on the sample size and air pollution. The
+exclusion criteria were: studies that used animal models;  full
+article not in English; and  abstracts, case reports, comments,
+reviews, conference proceedings, or book chapters. After reviewing abstracts, we short-listed full-text articles for
+the eligibility assessment, uploading all the original studies to
+Covidence and extracting data. Extracted information included:
+authors, year of publication, title, journal, study location ,
+study design, study population, case and control ,
+exposure time and measurement method, ASD ascertainment
+method, outcome, analysis model, covariates, and main findings
+from each full-text article.
+. Assessment of risk of bias Risk of bias was assessed using the Newcastle-Ottawa Quality
+Assessment Scale   and Lam et al.’s navigation guide . The NOS consists of eight items to evaluate
+sources of bias, such as definition and selection of case and controls,
+adequate sample size, comparability of cases and controls on the
+basis of the design or analysis, and non-response rate. Studies were
+given a maximum of 1 point for each of the seven items and 2
+points for comparability only, making the maximum score 9 points.
+Higher scores suggested a lower risk of bias. According to Lam
+et al.’s navigation guide, we also rated each study as “high quality”,
+
+“moderate quality” and “low quality” in terms of exposure assess-
+ment, selective outcome reporting, and confidence in effect esti-
+mates. We set up a cut-off score of 7 with the NOS and “moderate
+quality” with the navigation guide for this review study to maintain
+low risk of bias.
+First, we categorized eligible studies by air pollutant , exposure time , study design, and modelling . The 4 exposure time periods were included to assess time-
+varying associations. Second, we derived meta-estimates for ASD
+associated with the 4 air pollutants. We applied both frequentist
+and Bayesian approaches for fixed effect model and random effects
+model for each air pollutant and each exposure time to calculate
+the pooled odds ratios  per 10 units of that pollutant: PM2.5
+and PM10 in mg/m3 and NO2 and ozone in parts per billion .
+Since we were concerned with the small number of studies
+included for each air pollutant, we employed a Bayesian random
+effects model in addition to frequentist fixed and random effects
+models. The Bayesian pooling method can reflect more uncertainty
+of pooled OR than frequentist pooling . For a given
+air pollutant, we assumed that the observed study-specific ORs were normally distributed with unknown true study-specific
+mean and variance, and that the true study-specific means were
+normally distributed with unknown air pollutant-specific mean 
+and variance, which indicated the heterogeneity among the
+Since information on both mean (mi) and variance ðs2
+it was limited, non-informative priors, diffused over a large range for each
+mean and standard deviation, were applied. In this study the median of the posterior distribution of the mean mi will be reported as
+the meta-analysis pooled log  along with 95% posterior interval
+Various tests for heterogeneity using I2 and Q-statistic with
+degrees of freedom as well as the p-value of the test were done. In
+addition, we included Egger test and Funnel plots to show the
+publication bias since publication of positive findings has been an
+important concern in meta-analytic reviews of the literature. The
+degree of symmetry found in funnel plots indicates absence of
+publication bias .
+Sensitivity analyses over study design and exposure time were
+also undertaken to assess the robustness of the results. All statistical analyses for this study were conducted using statistical
+software R Stan and Metafor 
+were identified through the search strategy, of which 994 publications were included once duplicates were removed. After
+excluding studies that were non-human or non-air pollutant, 62
+articles were short-listed for the full-text assessment, which
+resulted in further exclusion of 37 articles for various reasons.
+Finally, 25 eligible articles were included in our review.
+ shows the characteristics of the included studies sorted
+by publication year. The 25 eligible studies were conducted in 11
+countries: USA , Sweden, Netherlands , Italy , Spain ,
+Taiwan , China , Canada  Denmark , Iran , and Israel
+ While 24 studies were done for a single country, a study by
+Guxens et al. was conducted in the 4 countries in Europe simulta-
+neously. As for study design, there were 21 case-control studies, 3
+cohort studies, and 1 ecological study. While the case-control and
+cohort designs were based on individual level data, the ecological
+design used either exposure or ASD occurrence at group level.
+Studies published between 2007 and 2019 were initially searched
+to minimize discrepancy in their ASD definition and diagnosis
+methods, considering recent year studies more comparable. Of
+
+those, studies for 2010e2019 were considered for systematic review based on the four selected air pollutants, and studies for
+were included for meta-analysis based on the exposure
+time (trimesters and prenatal period), given the sudden increase in
+the prevalence of ASD that might be related to broadening diagnostic criteria (Rice et al., 2012; Dawson and Bernier, 2013). This is
+desirable for meta-analysis because it reduced between-study differences related to diagnosis methods.
+Among the 25 eligible studies, 23, specifically assessed prenatal air pollution,
+and of those, 11 included trimester-specific analyses. The most
+commonly assessed air pollutant was PM10, which was included in 14 studies, followed by PM2.5 , NO2 , ozone , traffic-related air pollution , and SO2 . Nineteen studies identified ASD cases using records from
+existing autism databases, such as the US Autism and Develop mental Disabilities Monitoring  Network, the California
+Department of Developmental Services  and the British
+Columbia Autism Assessment Network. Other studies utilized ASD
+screening tools, such as the Autism-Tics, ADHD, and other Comorbidities ( inventory, to ascertain cases to be included in the
+studies. The other 2 studies used maternal reports and validated by
+Autism Diagnostic Interview .
+See more details on model covariates, air pollutant concentration
+measurement methods, and ASD ascertainment methods in
+Table A1 in Appendix. We looked at the studies by study period
+since the prevalence of ASD has risen dramatically in recent years
+and there is a need to see how air pollution might be contributing
+to the increased prevalence. However, recent studies with recent
+birth cohort show that there is no association between maternal air
+pollution exposure and ASD indicating that little was known about
+the potential association between exposure and ASD.
+We applied both the NOS and Lam
+et al.’s navigation guide to the 25 eligible studies based on their
+characteristics in Table 1 and Table A1. By inclusion/
+exclusion criteria we found that four air pollutants had at least 3 comparable studies with comparable
+
+exposure time, which were required for meta-
+analysis. We excluded 11 studies since they reported other air
+
+pollutants , examined pre-conception or post-natal
+period , or other reasons  , from which 14 studies remained for our meta-analysis. Both
+screening tools resulted in the same quality of the 14 selected
+studies for the meta-analysis. The 14 studies had a median score of
+8 (out of 9) from the NOS, and high or moderate quality from the
+navigation guide, indicating low bias.
+3.4. Study findings from systematic review: association between air
+pollutants and ASD per 8.87 mg/m3
+
+, respectively. In 2018, however, 2 other studies,
+Goodrich et al. and Kerin et al., found no association, even though
+their study populations also consisted of Californian children. In
+2015, Raz et al. found an increased OR of 1.42  per
+4.40 mg/m3 especially for trimester 3 based on the Nurses’ Health
+Study II. Furthermore, in 2017 Kim et al. found PM2.5 and total copy
+number variations (CNV), a type of genomic changes that
+contribute to autism susceptibility, together were associated with a
+higher risk of ASD than PM2.5 alone. There is also evidence to
+suggest an association between postnatal PM2.5 exposure and ASD.
+In 2018, Chen et al. found that PM2.5 exposure in the 2nd and 3rd
+year of life resulted in an OR of 1.50 (1.01, 2.22) and 1.78 (1.05, 3.02),
+respectively, per 3.4 mg/m3
+
+. As well, in 2018 Ritz et al. reported that
+at 9 months of age, there is an OR of 1.04  per 3.61 mg/m3
+.
+Excluding 4 studies  due to ecological study designs,
+different methods of ascertaining cases and controls, or longer
+exposure time (e.g., prenatal and postnatal period combined), we
+
+included the remaining 9 studies for our meta-analysis. Meta-an-
+alyses with 11 studies with postnatal studies were done in the sensitivity analysis later.
+Association between PM10 and ASD. Nine studies were
+considered for the meta-estimate and Table C2 summarizes the
+study-specific ORs. While 4 studies estimated the OR for each
+trimester and the prenatal period, 1 study (Kalkbrenner et al., 2015)
+did for T1, T2 and T3 separately only, and 2 studies (Gong et al.,
+2017; Guxens et al., 2016) did for T4 only. The heterogeneity test
+
+(Q(df 1⁄4 8) 1⁄4 20.33, p-val 1⁄4 .0092, I2 1⁄4 74.96%) suggests consider-
+able heterogeneity among the studies. The meta-estimates from 3
+
+methods (Fig. 3) indicate no significant ORs (See Fig. F2 for log-scale
+in Appendix F.).
+3.5.1.3. Association between NO2 and ASD. Seven studies were
+considered for the meta-estimate and Table C3 summarizes the
+
+study-specific ORs. The heterogeneity test (Q(df 1⁄4 6) 1⁄4 17.58, p-
+val 1⁄4 .0074, I2 1⁄4 58.31%) suggests considerable heterogeneity
+
+among the studies. The meta-estimates show no significant ORs
+(Fig. 4). The frequentist fixed and random models returned same
+and significant ORs, but the Bayesian random effects model did not:
+1.02 (1.01, 1.03), 1.02 (1.01, 1.04), and 1.02 (1.00, 1.05) per 10 ppb
+from fixed, random and Bayesian models, respectively (See Fig. F3
+for log-scale in Appendix F.).
+3.5.1.4. Association between ozone and ASD. Four studies were
+considered for the meta-estimate and Table C4 summarizes the
+
+study-specific ORs. The heterogeneity test  suggests no heterogeneity. The meta-estimates
+
+of ozone returned inconsistent results between frequentist and
+Bayesian models 
+3.5.2. Time-specific associations with ASD
+3.5.2.1. During pregnancy . Guxens et al. reported the ORs for
+the prenatal period only  for EU and 4 individual countries. We
+
+considered this particular study as one for meta-
+analysis. We checked publication bias through funnel plots for
+
+prenatal period (only (not shown). None displayed considerable
+publication bias, as all plots showed symmetric distributions. In
+addition, Egger’s test  was not statistically
+significant, so there’s no evidence of publication bias according to
+this test (Egger et al., 1997). Among the 4 air pollutants, PM2.5 and
+ozone returned the highest and lowest OR, respectively .
+The two frequentist fixed and random effects models returned
+significant pooled OR for PM2.5 and ozone, but not for PM10 and NO2
+. No Bayesian model
+returned significant pooled OR.
+
+3.5.2.2. First trimester . Table C5 summarizes the meta-
+estimates for trimester 1. PM2.5 and ozone returned the highest
+
+and lowest OR, respectively. Both frequentist models returned significant OR for PM2.5 and NO2,
+whereas Bayesian random effects models did not for PM10, NO2 and
+ozone 
+
+3.5.2.3. Second trimester . Table C6 summarizes meta-
+estimates for trimester 2. Again PM2.5 and ozone returned the
+
+highest and lowest OR, respectively. Both frequentist models
+3.5.2.5. Temporal changes in associations over trimesters.. 6
+displays eight studies with inconsistent temporal patterns and a
+meta-estimate for PM2.5 only. Overall, they showed most and least
+consistency for T1 and T3, respectively. Combining the 8 studies,
+the Bayesian meta-estimates returned a slightly increasing trend
+but not statistically significant changes in the ORs: 1.02, 1.04, and
+1.04, for trimesters 1 to 3, respectively.
+
+For PM2.5, PM10, NO2, and ozone, Table C8 summarizes meta-
+estimates. Overall, except for NO2, an increasing trend over the
+
+trimester was in common among the 4 air pollutants.
+. Sensitivity analysis.  overall shows little bias
+
+of publication.  demonstrates each study’s relative contri-
+bution to the meta-estimates for each air pollutant. We found 1 to 3
+
+studies contributed at least 20% of each pollutant: two out of 9
+studies (Volk et al., and Ritz et al.) for PM2.5; three out of 9 studies
+To focus on maternal exposure, our meta-analysis excluded two
+studies in Table 1 because they reported the ORs for a postnatal
+period only (Jung et al., 2013) or a combined period with prenatal
+
+period (Kim et al., 2017) but included 5 studies that reported pre-conception or post-natal periods along with prenatal period
+
+
+If one study included before  and after post-natal)the prenatal period , respectively, we included the study
+
+as 3 individual studies with each exposure time. Thus the number
+of studies is bigger than reported in Table C9. The meta-estimates of
+ORs within each air pollutant are consistently higher for the period
+of prenatal or post-natal combined but lower for the period of
+prenatal or pre-conception combined. Overall meta-estimates of
+the prenatal combined with postnatal period appeared to be higher
+than the prenatal period only.
+temporal trend in associations during pregnancy cannot be
+
+concluded due to the discrepancies between studies and the dis-
+agreements in significance between meta-analysis methods (sig-
+nificance by frequentist vs insignificance by Bayesian).
+
+It is widely recognized that the etiology of ASD is complex and
+
+related to many factors, including genetic background, environ-
+mental risk factors, and gene-environment interactions (Landrigan
+
+et al., 2012; Dawson and Bernier, 2013). Earlier research on the
+cause of ASD focused largely on genetic changes or mutations
+(Autism Genome Project Consortium et al., 2007; Landrigan et al.,
+2012; Von Ehrenstein et al., 2014). However, it is now understood
+that the perinatal period is critical for brain development. Thus
+exposure to environmental chemicals during this time could
+disturb normal neurodevelopment (Eskenazi et al., 2007;
+
+Landrigan et al., 2012; Ye et al., 2017), therefore providing a plau-
+sible link between environmental risk factors and ASD. Our sys-
+tematic review, which is updated by including more recent studies,
+
+provides similar findings to the previous studies (Becerra et al.,
+2013; Raz et al., 2015). While there was some evidence indicating
+maternal exposure to PM2.5 may increase the risk of ASD, evidence
+for the effect of ozone, PM10, and NO2 on ASD is weak or limited. An
+increase in the number of studies for a future meta-analysis would
+improve statistical power to identify associations between air
+pollutants and ASD.
+This systematic review summarized 25 studies that examined
+
+the association between maternal exposure to ambient air pollut-
+ants and ASD in children. The study findings were inconsistent and
+
+meta-analyses were applied to pool the study results. We grouped
+the study-specific ORs by air pollutant (PM2.5, PM10, NO2, and
+ozone) and exposure time (trimesters), and found limited evidence
+for positive associations. Among the four air pollutants, PM2.5
+resulted in the highest OR for the prenatal period: 1.06(1.01,1.11)
+and 1.06(1.00,1.13) from frequentist and Bayesian random effects
+model, respectively. The odds of ASD in children were 6% higher
+through maternal exposure to PM2.5. However, PM2.5 is a mixture of
+various fine particles, and thus further investigations to examine
+specific PM components linked to ASD are necessary to analyze this
+difference between PM2.5 and the other three pollutants.
+Exposure time differences in 4 pre-determined periods
+
+(trimester 1 to 3 and prenatal) and 2 more extended periods to pre-
+conception and postnatal period were examined under sensitivity
+
+analysis. All meta-estimates were comparable, implying little dif-
+ference regarding exposure time related to pregnancy. However,
+
+there was an uncertain indication that postnatal exposures might
+be more linked to the ASD than pre-conception, which was
+
+consistent among the 4 pollutants. The trend in the trimester-
+specific ORs was investigated. Trimester 3 was found to be more
+
+associated with the ASD than the others. The myelin sheath is a
+plasma membrane extension that is laid down in regularly spaced
+segments along axons of the nervous system. This process involves
+extensive changes in oligodendrocyte cell shape and membrane
+architecture. Myelination starts around 24e25 weeks of gestation
+and reaches its peak by 1 year of age (Purves et al., 2012). Imaging
+and biopsy of the brains of autistic children have shown a deficit in
+myelination as compared to normal children (Aoki et al., 2013;
+Zikopoulos and Barbas, 2010). Such a diminution would weaken the
+operation of the axon-target synapse, thereby accounting for the
+malfunction of areas of the brain involved in behavior. This would
+include the prefrontal and temporal areas of the brain. As the
+myelination process starts late second trimester, it could have more
+impact on the third trimester. This might explain a finding of this
+study that the associations between air pollution and the ASD are
+likely higher for the third trimester compared to the others A temporal trend in associations during pregnancy cannot be
+
+concluded due to the discrepancies between studies and the dis-
+agreements in significance between meta-analysis methods (sig-
+nificance by frequentist vs insignificance by Bayesian).
+
+It is widely recognized that the etiology of ASD is complex and
+
+related to many factors, including genetic background, environ-
+mental risk factors, and gene-environment interactions (Landrigan
+
+et al., 2012; Dawson and Bernier, 2013). Earlier research on the
+cause of ASD focused largely on genetic changes or mutations
+(Autism Genome Project Consortium et al., 2007; Landrigan et al.,
+2012; Von Ehrenstein et al., 2014). However, it is now understood
+that the perinatal period is critical for brain development. Thus
+exposure to environmental chemicals during this time could
+disturb normal neurodevelopment (Eskenazi et al., 2007;
+
+Landrigan et al., 2012; Ye et al., 2017), therefore providing a plau-
+sible link between environmental risk factors and ASD. Our sys-
+tematic review, which is updated by including more recent studies,
+
+provides similar findings to the previous studies (Becerra et al.,
+2013; Raz et al., 2015). While there was some evidence indicating
+maternal exposure to PM2.5 may increase the risk of ASD, evidence
+for the effect of ozone, PM10, and NO2 on ASD is weak or limited. An
+increase in the number of studies for a future meta-analysis would
+improve statistical power to identify associations between air
+pollutants and ASD.
+4.1. Difference by exposure time
+The five studies in 6 show difference between trimesters. In
+
+practice, the difference can be detected when the maternal expo-
+sure concentrations vary over time or when some effect modifiers
+
+including behaviors (physical and mental) changes over time. For
+example, the former can be explained if the mothers avoided going
+outside during a specific trimester, and the latter can result if they
+were on medications or dietary supplements for a specific
+trimester.
+While two air pollution studies (Kalkbrenner et al., 2015; Raz
+et al., 2015) concluded ASD associations to be specific to the third
+trimester, the mechanism remains largely unknown. Weisskopf
+et al. (2015) speculated that women working outside the home
+may be more focused on prescribed rest or maternal leave in the
+third trimester. This work-pattern change may open more time for
+outside activities which in turn could affect the amount of PM
+exposure, However, other potentially relevant studies on physical
+and mental behavior changes suggest varied results, often in
+different trimesters with involvement of certain biological events
+or personal behavior (Weisskopf et al., 2015; Ng et al., 2017).
+
+Attempts were made to quantify changes in leisure-time phys-
+ical activity (LTPA) during the first half of pregnancy compared with
+
+the year prior to pregnancy (Amezcua-Prieto et al., 2013). After
+studying 1175 healthy pregnant women, it was concluded that
+pregnancy involved a decrease in LTPA, not only in frequency, but
+also duration and intensity. Physical activity can be further reduced
+due to musculoskeletal pain in the back, hand-wrist and hip, factors
+which complicate pregnancy and mobility especially in the third
+trimester (Kesikburun et al., 2018). As pregnancy progresses, a
+period of emotional and behavioral changes (Lagadec et al., 2018)
+ensues. This can include: different nutritional choices, efforts to
+quit smoking and gestational weight gain (Levine et al., 2015). An
+
+increase in stress can follow causing a depletion of metabolic re-
+sources. Seebacher et al. (2013) concluded that in late-stage preg-
+nancy, the metabolic cost of activity or behavior could render
+
+reproduction sensitive to environmental changes.
+It should be noted that the maternal exposures by trimester are
+
+correlated, which would reduce statistical power to detect differ-
+ences in ASD development of children by trimester. Studies focusing on time-varying associations will be necessary before a
+conclusion can be reached regarding a critical time window of
+exposure associated with an increased risk of ASD development.
+Identifying the critical exposure time may become an important
+step in guiding and counseling pregnant women.
+Strengths of this review
+Our approach for systematic review in this study is not much
+different from other systematic studies on the ASD. For example,
+search strategy and meta-analysis are comparable. However, we
+
+focused on five areas including study publication time, environ-
+mental cause of the ASD, target population, meta-analysis method
+
+and time-varying associations. (1) We examined more recent
+studies published by April 2019 and thus could update study
+findings. (2) The environmental causes of the ASD are still unknown
+
+and we focused on specific ambient air pollution. (3) As the diag-
+nosis methods ASD have changed, we focused, in particular, on
+
+children to reduce the discrepancy in diagnosis ASD. (4) As
+mentioned in Discussion, we compared three meta-analysis
+methods: frequentist fixed and random effects models, and
+Bayesian random effect model. (5) We demonstrated inconsistent
+time-varying associations over trimesters between air pollutants
+and between studies. We believe that this study added updated
+findings in these five areas.
+Applying a Bayesian random effects model and its associated
+
+rigors is the primary strength. While the fixed effects model con-
+siders sampling variation within individual studies only, the
+
+random effects model also consider between-study variations, thus
+
+producing larger standard error of estimates (wider interval esti-
+mates). There are 2 approaches for the random effects model, the
+
+frequentist and Bayesian methods. Typically, the frequentist
+random effects model has been applied to most meta-analysis: for
+example, recently by Lam et al. (2016) and Flores-Pajot et al. 
+
+A small sampling of studies often results in considerable discrep-
+ancies between these methods. When discrepancies appear, . 2e5, the Bayesian estimates are more reliable in
+integrating multiple studies on the same or comparable research
+
+questions, even though they return weaker evidence than the fre-
+quentist estimates. In addition, there is another reason to consider
+
+the Bayesian model: when there are unusually higher or lower
+study estimates than the others. For example, Volk et al.
+returned higher ORs with relatively smaller intervals compared to
+
+the other studies. The influence of this specific study on the meta-
+estimate is reduced by the Bayesian model. This is also a preferred
+
+feature for integrating multi-study results by reducing bias in meta-
+analysis.
+
+Secondly, the differences in exposure-time during pregnancy for
+each pollutant was evaluated. The time variation pattern can differ
+among pollutants. While one could be more critical to the earliest
+stage of pregnancy, others could affect later stages of pregnancy.
+Previous studies centered mainly on the entire pregnancy period
+and assumed the association constant with pregnancy. While
+Flores-Pajot et al.  captured critical exposure windows during
+pregnancy  the conclusion
+
+was that there is a need to track residential mobility during preg-
+nancy to account for changes in exposure. Similarly, Lam et al.
+
+ highlighted the inaccuracy of exposure assessment
+methods in their study limitations. Flores-Pajot et al. and Lam et al.
+considered misclassifications of exposures during pregnancy. To
+understand observed differences between trimesters, this study
+considered maternal changes in physical, behavioral and emotional
+aspects.
+Lyall et al. confirm that several studies have shown sig-
+nificant increases in ASD risk associated with particulate matter
+
+and heavy metals. However, diesel exhaust, chemicals from traffic-
+related pollutants and heavy metals could not be examined since
+
+many studies reported the 4 air pollutants only. Studies
+with long-term exposure time  were
+excluded since many mainly reported the prenatal period. We
+reviewed articles in English only and thus our meta-analysis
+excluded other study results reported in non-English languages.
+This could bring in unexpected and unmeasurable bias in our meta-
+estimates, which is also a limitation of this review.
+In a scoping review for environmental factors associated with
+ASD, Ng et al.  summarized the risk factors as: traffic-related
+air pollutants; advanced parental age; preterm birth; low birth
+weight; hyperbilirubinemia and clustering of pregnancy compli-
+cations; and maternal immigrant status. These factors for the meta-
+analysis could not be considered due to limited studies. Due to
+these limitations, this study focused on the 4 air pollutants for
+prenatal period only.
+This study reports meta-estimates of the OR based on several
+case-control studies, which is the ratio of odds of exposure among
+the cases to that of the controls. The OR approximates the relative
+risk, which estimates the magnitude of the association between
+exposure to the specified ambient air pollutants and the ASD. While
+the OR provides relative difference between exposed and unex-
+posed groups, another measuredattributable riskdindicates ab-
+solute difference in the incidence of the ASD between the two
+groups. It quantifies the incidence of the ASD in the exposed group
+that could be reduced if not exposed. However, this study cannot
+provide the attributable risk, since the incidence could not be
+determined from the case-control studies examined in this study.
+With the small, barely significant ORs , we
+expect the contribution of the specified pollutants to the overall
+prevalence of ASD is quite small.
+Our meta-analysis on the association between maternal exposure to ambient air pollution during the prenatal period and ASD in
+children has produced some evidence for PM2.5, weak evidence for
+NO2, little evidence for PM10, and inconclusive evidence for ozone
+. The time-varying effects of
+maternal exposure over the 3 trimesters were inconsistent, and our
+meta-analysis returned insignificant changes over trimester.
+However the noticeable difference in the trimesters among studies
+merits further investigation.
+
+Air pollution is a major public health and economic issue. associated with increased risk of mortality and morbidity in multiple diseases, such as cancer , inflammatory , neurological  and respiratory and cardiometabolic diseases . Despite the considerable number of studies demonstrating the adverse health effects of air
+
+pollution, exposure to ambient air pollution surrounding pregnancy and the risk for Autism Spectrum disorder in newborns remains controversial. Genetic and environmental
+
+factors specifically during perinatal periods have been found to increase risk of pathology and malformation in children . Air pollution is composed of a wide range of pollutants
+such as particulate matter , nitrogen oxide , volatile
+organic compounds, pesticides, ozone  and metals. Though few studies have focused
+on pregnancy and risk of ASD, air pollutants such as PM , appear to have the
+highest levels of toxicity . Among PM10, PM2.5 which have
+an even smaller aerodynamic diameter 2.5 mm are particularly harmful, penetrating more rapidly, easily and deeply into the organism . 
+
+Despite a recent article , no metaanalysis to date has
+provided an overview or comparison of the effects of classes of air
+pollutants , or the effects of sociodemographic risk factors such as parental ages, gender of newborns, or smoking.
+In addition, there are no published guidelines as yet on how to
+manage different data relating to a same risk within an included
+article and no meta-analysis presented both risks quantified either as continuous or
+as categorical variables.
+We hypothesized that there was an increased risk of developing
+
+ASD associated with air pollution during pregnancy. This metaanalysis focused on the association between children with ASD
+
+and exposure to air pollutants during the perinatal period and involved three models
+for each meta-analysis by air pollutant; a global model using all
+risks listed in included articles, a pessimistic model using less
+favorable data only, and an optimistic model using the most
+favorable data only. We also investigated related sociodemographic
+influences.
+
+We reviewed all studies reporting an association between air
+pollutants and ASD. The PubMed, Cochrane Library, ScienceDirect
+
+and Embase databases were searched for all original articles published up to July 2020, using the keywords “air pollution” and “autism” or synonyms. Inclusion criteria included articles written in English or French, and that described our primary outcome variable i.e. the
+association between perinatal exposure to ambient air pollution
+and risk of ASD. The perinatal period included the preconception
+period to the second year of life. Studies were required to report
+risk estimates in the form of odds ratios  with 95% confidence
+interval or to provide data that allowed OR calculation. In
+order to identify studies not found through our database search
+strategy, a manually search of new articles was carried out using
+reference lists from all publications meeting inclusion criteria and
+systematic reviews. Our search strategy is presented in and Two authors separately conducted all
+literature searches, collated and, reviewed the abstracts based on
+selection criteria and decided on the suitability of articles for inclusion. When questions arose over article suitability, a third author
+reviewed the articles. Having reached a consensus, all
+included articles were reviewed by the three authors.
+The methodological quality of the studies was further evaluated
+using the Scottish Intercollegiate Guidelines Network model
+for case control and cohort studies.
+The following 15 items were assessed: appropriate and clearly
+focused question, selection bias , performance bias , attrition bias , detection bias , confusion
+bias , presence of confidence intervals, and general level of
+evidence . Similar items were used to evaluate case control
+studies . We also used the Newcastle-Ottawa Quality
+Assessment Scale model with the following 9
+items: selection bias, comparability bias and
+outcome bias . Each item was assigned a judgment of , or with the exception of item 2.1 and the final item concerning evidence level
+of the SIGN checklist, which was assigned . Any
+disagreements over suitability were discussed with a third author and a consensus reached. Assessment of article quality was
+carried out for the two checklists by two authors .
+
+The following data from articles were recorded: title, name of
+first author, journal and year of publication, main objective, time of
+
+exposure to air pollution , type and concentration of pollutants, crude and/or
+adjusted OR and lower and upper limits, and population characteristics 
+ Characteristics of pollutant exposure, of individuals or other variables were reported
+for each study as mean ± standard-deviation (SD) and number (%)
+for continuous and categorical variables respectively.
+When data could be pooled, we conducted random effects meta-
+analyses on the risk of ASD in newborns following air
+pollutants exposure, centered at one. Particular attention was paid
+to the type of statistics retrieved from the included articles . Air pollutants exposure were quantified
+
+either as a continuous  or as categorical variables . For the highest level
+
+of proof, we first normalized all OR for a standardized increment in
+pollutant concentration . We took into account the original increment of the
+pollutant and we assumed a linear exposure outcome relationship
+(Shah et al., 2013b) using the following equation. When air pollutant levels were expressed in
+parts per billion (ppb), we transformed those levels in mg/m3The effects expressed as interquartile (or quintile, or
+
+percentile differences) were converted into effects per concentra-
+tion unit increase with the previous equation  Meta-analyses were computed by type of air pollutants
+periconceptional periods, and pregnancy trimester where sufficient data were available. For
+each meta-analysis, three models were used Finally, we computed the aforementioned
+meta-analyses categorical using OR based on categorical exposure
+ For air pollutants that were the most reported, we also computed sensitivity analyses depending on the
+methods to measure air pollutants. Heterogeneity between studies
+was evaluated through forest plots, and their confidence intervals
+(CI), and I-squared For example, a significant heterogeneity may be due to the
+variability between the characteristics of the studies, such as the
+exposure to air pollutants (type of air pollutants), periconceptional
+periods (preconception, pregnancy, postnatal), pregnancy
+trimester (first, second, third), characteristics of individuals (age of
+mothers and fathers, smoking, gender of newborns, etc). To ensure
+the robustness of our results, we conducted sensitivity analysis by
+searching for potential publication bias through funnel plots
+
+ of aforementioned meta-analyses. Then, we reper-
+formed meta-analyses without the studies that were not evenly
+
+distributed around the funnel base . When sample
+size allowed, meta-regressions were performed to investigate the
+relationship between risk of ASD in newborns following air
+pollutant exposure and putative variables such as type of air
+
+pollutant, periconceptional period, pregnancy trimester and population characteristics. Results were expressed as regression coefficients and 95% CI.
+
+Use of the SIGN model, notably revealed selection and attrition
+bias in included studies. Most studies had a high level of evidence.
+Detailed characteristics of methodological quality assessment for
+each included study are provided in Fig. 2. Overall, for the SIGN
+model, most studies were shown to have a high level of evidence
+but performed, with lowest performance found response rate. The
+NOS model was also used to analyse the quality of included articles
+Aims of included studies, study designs, and settings
+All studies shared a similar objective i.e. the association of
+exposure to air pollution  during the perinatal period and the development of
+ASD.  the optimistic model only, an increased risk during pregnancy with
+both the global and optimistic models, and an increased risk
+regardless of the model used during the postnatal period.
+The main findings revealed that air pollution particularly that of
+PM2.5 during the periconception period was associated with an
+increased risk of ASD in newborns, in all models used. The level of
+
+evidence is poor for other air pollutants. Exposure during preg-
+nancy  and postnatal periods may be the
+
+most at-risk periods. The increased risk of ASD following exposure
+
+to air pollutants surrounding pregnancy was not linked with soci-
+odemographic factors.
+We demonstrated that global air pollution exposure in the
+perinatal period is a risk factor for ASD in newborns
+perinatal period is a risk factor for ASD in newborns . Despite a previous meta-analysis , there
+
+is the first to report a risk based on consideration of all air pollutants. As, exposures are in general multiple when quantifying risk, it
+
+is likely that overall risk is of most interest as reported by other
+authors
+allowed analysis of several included studies presenting different
+data for the same risk. There are presently no guidelines on how to manage
+this issue. To avoid potential limitations, we
+created three models for each meta-analysis; a global model based
+on all risks reported in included articles, a pessimistic model using
+less favorable risks only , and an optimistic
+model using the most favorable risks only. Unsurprisingly, use of
+optimistic models led to stronger results, but notably, we were
+unable to demonstrate an increased risk using the pessimistic
+model based on all air pollutants.
+Risk of developing ASD in newborns increased using the global
+and optimistic models only for all air pollutants, with a strong high
+risk following exposure to PM2.5 whatever the model. Even use of
+the pessimistic model based on the least favorable data (those with
+the least increased risk) revealed a minimum increased risk of 6%
+(up to 15% using the optimistic model). Nearly all individual studies
+showed that maternal exposure to PM2.5 was associated with
+increased risk of newborns with ASD
+Thus indicating the
+high level of evidence concerning the deleterious effects of PM2.5
+and related risk of ASD. PM2.5 particles appear to be the most
+dangerous pollutant due to their small size, and high volatility
+able to be transported over longer distances . They also have a lower sedimentation velocity than other
+larger particles such as PM10 69. PM are primarily composed of
+toxic particles such as PAHs, inorganic particles, or organic carbon metals
+Late pregnancy and early postnatal periods were found to be the
+most at-risk periods for developing ASD following air pollution
+
+exposure. These periods are crucial in the development of the infant , and can influence long-term health
+
+outcomes. Late pregnancy is important for placental function, fetal growth and brain developments
+
+and is also the period when maternal and fetal complications can
+occur, such as gestational diabetes, pre-eclampsia, hypoxia or brain
+injury (Dugan and Ma-Crawford, 2019; Ellery et al., 2018;
+Schumacher et al., 2020; Ridder et al., 2019). Our result showing
+increased risk of ASD during late pregnancy is in accordance with
+previous meta-analyses . Similarly, the early
+postnatal period can also impact health outcomes as has been
+
+shown with breastfeeding which may impact a wide range of parameters such as cognition, brain structure, structural development
+
+of the heart and lungs, bone health, or atopy . In comparison with the meta-analysis of Chun
+et al., we highlighted the detrimental effects of air pollution leading
+
+to increased risk of ASD during the postnatal period, being previously analyzed in relation to the prenatal period. Our results show
+
+that the most at-risk periods for ASD were early and late pregnancy
+and the early postnatal period. These results are in accordance with
+other studies on air pollution that have showed these periods to
+
+also be the most at-risk for other birth outcomes such as hyper-
+tension, preeclampsia, pre-term birth, or low birthweight . Both late pregnancy
+neurodevelopmental outcomes such as ASD. In our meta-analysis,
+neither parental age or newborn genders were found to influence
+
+risk following exposure to air pollutants. However, our meta-
+regressions analyzed whether air pollution modifies this risk
+
+depending on parental age or newborn genders. Other investigated
+putative risk factors for ASD include maternal food intake , low birthweight or preterm birth. As these factors were not assessed in
+the articles included in our meta-analysis, further analyses were
+precluded.
+
+Our study has some limitations. Despite the large number of
+studies, some air pollutants were only included in a few studies.
+
+Common air pollutants such as PM2.5, PM10, or NOx, were however commonly assessed and as we included a large sample of 395
+
+615 newborns, this allowed the greater generalizability of our results. Our meta-analysis inherited the limitations of the 28 included
+
+studies and was therefore subject to individual bias such as bias of
+measures of exposure to air pollutants and bias of reporting of ASD.
+Despite the quality of research reflected in the studies included in
+our meta-analyses, ASD covers a wide range of severity that was not
+reported within included articles. Diagnostic method for ASD also
+differed, limiting quality of data and precluding further analyses,
+
+although, most articles used National ASD databases thus guaranteeing data accuracy. A further limitation concerns a possible underestimation of our results. Diagnostic evidence of ASD can be
+
+underestimated but is unlikely to be overestimated. Similarly,
+methods for detection or measurement of air pollutant exposure
+differed between studies, thus precluding assessment of dose
+
+response effects. In addition despite similarities, population characteristics between studies were not identical. Data were collected
+
+in various countries, but excluded developing countries. The majority of studies were conducted in the USA
+
+from Africa, Asia, and Oceania reduces potential generalizability of
+our results, though. All ethnicities were included. Generalizability
+of our results may also be lessened due to analysis of single-site
+studies, even if the majority of included studies were multi-site.
+As studies differed in their study design, we performed sensitivity
+analyses allowing demonstration of similar results whatever the
+design. In our meta-analysis global model, some included studies
+appeared several times, with different data for the same outcome
+depending on adjustment models. In the absence of clear
+
+consensus and despite having more effect sizes within each meta analyses when compared with studies included in several highlyregarded published articles published
+
+articles published, the weight of studies may have required
+
+ponderation  This is one of the reasons for use of optimistic and pessimistic models when only one
+
+data is available for each included article. A further limitation of our
+meta-analysis concerns included studies using OR adjusted on
+different factors between studies, even if adjusted OR may limit
+
+confusion bias. Finally, causality may also be a limitation in retro-
+spective or case-control studies.
+
+Exposure to air pollution, notably PM2.5 during pregnancy was
+associated with an increased risk of ASD in newborns regardless of
+
+the model used. The level of evidence concerning other air pol-
+lutants is however poor. Exposure during pregnancy and the
+
+postnatal period appear to be the most at-risk periods.
+Declaration of competing interest
+The authors declare that they have no known competing
+financial interests or personal relationships that could have
+appeared to influence the work reported in this paper.
+The dreams of many infertile couples to have offspring(s) have been made possible by assisted reproductive technology . Through its constant development, morbidity
+due to infertility has been massively decreased . Every technique, such as intracytoplasmic sperm injection  and frozen embryo transfer, is designed as solutions for specific problems. For example, in cases where two previous conventional in vitro fertilization  failed, or if the
+
+majority of sperms are immotile, ICSI is the technique
+that offers the highest possibility to acquire pregnancy  Meanwhile, when couples preferred to obtain
+pregnancy, cryopreservation enables
+them to freeze embryos for implantation at later times .
+Studies on prenatal and postnatal outcomes in ART,
+such as the risks of multiple pregnancies and congenital
+malformations, have already been comprehensively
+reviewed and meta-analyzed on previous publications
+
+[4–10]. Conversely, lesser number of studies have fo-
+cused on the neurodevelopmental aspects of children
+
+from ART. The nature of certain neurodevelopmental
+disorders that might not be visible until later stage in
+children’s lives, difficulties in obtaining long-term
+follow-up, and the fact that many disorders can only be
+diagnosed and treated in a multidisciplinary fashion
+might be some of the reasons that caused limitation in
+the number of studies on neurodevelopmental outcomes
+in these children. Nonetheless, several studies have been
+published to date, and it is important to gain consensual
+conclusions on the actual risks of neurodevelopmental
+disorders among these children.
+
+This study aims to assess the risks of neurodevelopmental abnormalities in children from ART treatments,
+
+in comparison to naturally conceived children through
+
+meta-analysis. As different ART treatments may translate into different pathophysiology, the neurodevelop-
+mental outcomes in children from different ART
+
+techniques are also compared.
+Methods
+Literature search and identification
+This systematic review and meta-analysis was conducted
+according to the Preferred Reporting Items for Systematic Reviews and Meta-analyses 
+reporting guidelines. PubMed, Scopus, and Google
+scholars’ databases were used to collect publications up
+to January 16, 2020. The following search terms were
+applied: reproductive techniques, assisted OR assisted
+reproductive OR in vitro fertilization OR in vitro
+
+fertilization AND Child development OR adolescent de-
+velopment OR long term follow-up OR Developmental
+
+disabilities OR Developmental disability OR Language
+disorders OR Language disorder OR Neurodevelopment
+
+OR mental disorder OR mental disorders OR neuro-
+psychiatry. Additional studies were identified through
+
+screening of the reference lists.
+Inclusion and exclusion criteria
+
+Studies were included if they ) compared any neurode-
+velopment aspects in ART children to children from
+
+natural conceptions, and  described the neurodeve-
+lopment in children from common ART techniques, in-
+cluding conventional IVF, ICSI, cryopreserved, and fresh
+
+embryo transfers, then compared them to either children
+in general population or children conceived by different
+
+treatment modalities. Studies were excluded if  infor-
+mation were insufficient, particularly related to the sub-
+jects and parameters in the study, not including
+
+original data, such as reviews, systematic reviews, com-
+ments, or editorial letters, not including control
+
+group, or could not ascertain the used
+fertility treatment, and not written in English.
+Data collection and analysis
+The title and abstract of every article were independently
+reviewed by 3 authors . If the abstract
+
+met the inclusion criteria, the full-text article was thoroughly reviewed. Reference lists on the identified publications were screened for previously unidentified but
+
+relevant studies. The following information were re-
+trieved: author, country, publication year, number of pa-
+tients, criteria of neurodevelopmental disorders, and the
+
+patients’ neurodevelopmental outcomes. The quality of
+methodology was assessed using the risk of bias criteria
+that were specified in Newcastle-Ottawa Scale 
+Based on the final ratings, high-quality studies
+ were included in the meta-analyses.
+Statistical analysis
+Meta-analysis was performed using Mantel-Haenszel
+
+risk ratio  with 95% confidence interval for dichot-
+omous data. Meta-analysis was performed on subgroup
+
+analysis based on the types of the acquired neurodevelopmental disorders, including cerebral palsy, intellectual
+
+disability, autism spectrum disorder, and behavioral
+
+problems. To describe the overall risk of neurodevelopmental disorders, a meta-analysis of the overall data was
+
+also conducted. The RevMan version 5.3 software
+ was used for these purposes
+Inconsistency index  test, which ranges from 0 to
+100%, was calculated to evaluate heterogeneity across
+studies. Values above 50% or p value < 0.10 indicate a
+significant heterogeneity. Regression-based Egger’s test
+was used to evaluate small study effect and the risk of
+publication bias. p values less than 0.05 were considered
+as significant bias. Cochrane Risk of Bias Assessment
+tool  was used to assess the
+
+risk of bias. Certainty of the evidence quality was evaluated by using the Guideline Development Tool by GRADEpro.
+
+
+The literature searches identified 1511 studies. Addition-
+ally, 32 studies were identified through reference screen-
+ing . In total, 181 full-text articles were reviewed,
+
+and only 17 articles fulfilled the inclusion criteria. Based
+on the Newcastle-Ottawa scale ratings, 7 studies 
+were excluded. Thus, 10 studies  were included
+
+in the meta-analyses, including 8 cohorts and 2 case-
+control studies. Newcastle-Ottawa Scale results for the
+
+cohort studies are described on Supplemental Table 1,
+while descriptions of the case-control studies are
+reviewed . Characteristics of
+the included studies are presented 
+ART vs natural conception
+Risk of cerebral palsy
+Prevalence of cerebral palsy was reported in 5 studies
+ with an absolute
+risk of 7 per 1000 births at ART group and 4 per 1000
+births at baseline population. No risk of publication bias  and no small study bias
+Risk of intellectual disability was reported in 5 studies  Risk of intellectual dis-
+ability in children born after ART treatments was not
+different from the risk in children from natural conceptions, with the same absolute risk of 3 per
+1000 births . Risk of publication
+bias  and small-study bias  were undetected
+
+Risk of autism spectrum disorder
+Six studies reported the risk of ASD
+
+One study  was excluded as it did not include children from natural conceptions as control. The risk of acquiring ASD in ART children is insignificantly different
+
+with its risk in naturally conceived children
+
+with identical absolute risk at 6 per 1000 births Risk of publication bias and small-study biaswere unidentified 
+Behavioral problems
+Risk of behavioral problems was reported in 2 studies
+ and the results showed no differences in this
+risk between ART and naturally conceived group 
+. The absolute risk is 19 children per 1000 births at ART group and 18 per 1000 births at naturally conceived group . Risk of bias and
+small-study effects could not be estimated due to limited
+studies 
+Meta-analysis on the overall data showed that ART
+children have a higher overall risk of neurodevelopmental disorders. Heterogeneity was identified for the
+
+overall studies, and this might be due to cofounder effects. The overall studies showed no risk of publication
+biasand no small-study bias
+ The absolute risk effect showed no increase in number of children born with neurodevelopmental disorders with a baseline population risk of 3 per 1000
+
+births (Supplemental Table 5).
+ICSI vs conventional IVF 
+Risk of cerebral palsy
+Prevalence of cerebral palsy in children from ICSI and
+conventional IVF was reported in 2 studies. ICSI
+
+procedure causes no increase in the prevalence of cere-
+bral palsy compared to conventional Risk of intellectual disability
+
+Risk of intellectual disability   was reported
+
+in 5 studies Risk of intellectual disability in children born after ART treatments was not
+
+different from the risk in children from natural concep-
+tions, with the same absolute risk of 3 per
+1000 births . Risk of publication
+bias (and small-study bias were undetected 
+
+Risk of autism spectrum disorder
+Six studies reported the risk of ASD
+
+One study [24] was excluded as it did not include children from natural conceptions as control. The risk of acquiring ASD in ART children is insignificantly different
+
+with its risk in naturally conceived children
+
+with identical absolute risk at 6 per 1000 births Risk of publication bias  and small-study bias were unidentified (Supplemental Table 4).
+Behavioral problems
+Risk of behavioral problems was reported in 2 studies
+[20, 29], and the results showed no differences in this
+risk between ART and naturally conceived group
+The absolute risk is 19 children per 1000 births
+
+at ART group and 18 per 1000 births at naturally conceived group  Risk of bias and
+
+small-study effects could not be estimated due to limited
+studies .
+Meta-analysis on the overall data showed that ART
+
+children have a higher overall risk of neurodevelopmen-
+tal disorders Heterogeneity was identified for the
+
+overall studies, and this might be due to cofounder effects. The overall studies showed no risk of publication
+
+bias and no small-study bias . The absolute risk effect showed no increase in
+
+number of children born with neurodevelopmental disorders with a baseline population risk of 3 per 1000 births 
+ICSI vs conventional IVF
+Risk of cerebral palsy
+Prevalence of cerebral palsy in children from ICSI and
+conventional IVF was reported in 2 studies [22, 26]. ICSI
+
+procedure causes no increase in the prevalence of cerebral palsy compared to conventional Risk of intellectual disability
+
+Risk of intellectual disability  was reported
+
+in 5 studies Risk of intellectual disability in children born after ART treatments was not
+
+different from the risk in children from natural conceptions  , with the same absolute risk of 3 per
+1000 births. Risk of publication
+bias and small-study bias were undetected 
+
+Risk of autism spectrum disorder
+Six studies reported the risk of ASD.
+
+One study [24] was excluded as it did not include children from natural conceptions as control. The risk of acquiring ASD in ART children is insignificantly different
+with its risk in naturally conceived children
+
+with identical absolute risk at 6 per 1000 births Risk of publication bias and small-study bias  were unidentified 
+Behavioral problems
+Risk of behavioral problems was reported in 2 studies
+ and the results showed no differences in this
+risk between ART and naturally conceived group 
+ The absolute risk is 19 children per 1000 births
+
+at ART group and 18 per 1000 births at naturally conceived group. Risk of bias and
+
+small-study effects could not be estimated due to limited
+studies 
+Meta-analysis on the overall data showed that ART
+
+children have a higher overall risk of neurodevelopmental disorders. Heterogeneity was identified for the
+overall studies, and this might be due to cofounder ef-
+fects. The overall studies showed no risk of publication
+
+bias  and no small-study bias
+ The absolute risk effect showed no increase in
+
+number of children born with neurodevelopmental dis-
+orders with a baseline population risk of 3 per 1000
+
+births .
+ICSI vs conventional 
+Risk of cerebral palsy
+Prevalence of cerebral palsy in children from ICSI and
+conventional IVF was reported in 2 studies 
+
+procedure causes no increase in the prevalence of cere-
+bral palsy compared to conventional 
+ICSI
+group, while IVF population risk is 4 per 1000 births
+. The risk of bias statistic and
+
+small-study effects could not be estimated
+Risk of intellectual disability
+Prevalence of intellectual disability was reported in 3 studies An increased risk of intellectual disability was identified in the ICSI group compared to
+
+conventional IVF , with absolute risk at
+ICSI group is 5 per 1000 births, while in IVF group is 3 per 1000 births . No risk of publication bias  and small study bias
+Risk of autism spectrum disorder
+The number of children diagnosed with ASD was reported in 2 studies . There is an increased risk of
+
+ASD in children born after ICSI procedure compared to
+conventional IVF , with an absolute risk effect of 1 more children per 1000 births compared to IVF
+
+population risk of 2 per 1000 births). The risk of bias statistic and small-study effects could
+not be calculated
+The overall evaluation showed higher prevalence of
+neurodevelopmental disorders in children from ICSI
+compared to children from conventional IVF
+Frozen vs fresh embryo transfer (6 studies)
+Risk of cerebral palsy
+Prevalence of cerebral palsy was reported in 3 studies
+
+. Risk of cerebral palsy in children from fro-
+zen embryo transfer was similar to fresh embryo transfer
+, with an absolute risk of 64 children in fro-
+zen group and 66 children in fresh group per 1000 births
+
+or 2 less children at risk compared to fresh group . The high number of children at risk
+Overall analysis showed that the children from frozen
+
+embryo transfer do not develop higher risk of neurodevelopmental disorders compared to children from fresh
+
+embryo transfer . The risk of neurodevelopmental disorder in children from frozen embryos is at 14 per 1000
+
+births while in fresh embryos was 16 per 1000 births
+
+Additionally, potential cofounders to the results were also
+evaluated. Two cofounders’ effects were confirmed by
+meta-analysis, including preterm birth and low birth body
+
+weight. The results showed that the risk of neurodevelopmental disorders is higher in children with history of preterm birth  with the absolute risk is 6
+
+more children born with neurodevelopmental disorders in every 1000 births 
+Meanwhile, the risk of neurodevelopmental disorders in children with history of low birth body weight
+ is also higher compared to
+children without any history of low birth body weight
+, with the absolute risk is 6
+
+more children born with neurodevelopmental disor-
+ders in every 1000 births .
+
+ART procedures have the potentials to cause higher
+rates of multiple birth
+
+To our knowledge, a meta-analysis on the neurodevelopmental outcomes in children from ART has never been
+
+performed. This study aimed to make consensual conclusions from all studies that investigated the neurodevelopmental outcomes in children from ART, including
+
+ICSI, conventional IVF, frozen embryo transfer, and
+
+fresh embryo transfer. The results of this study are expected to provide the reliable information for the patients and healthcare workers to consider before starting
+
+As seen in Fig. 2, without taking specific details of the
+ART treatments into account, the results show that ART
+children develop an increased risk of cerebral palsy, but
+not intellectual disability, ASD, or behavioral problems.
+Cerebral palsy is a permanent neurological disorder
+characterized with disability to coordinate muscle tones
+and movements. This condition is caused by the damage
+
+or dysgenesis of brain part(s) that are involved in the coordination and movements of the body. It has been consensually accepted that the common risk factors for
+
+cerebral palsy are preterm birth and low birth body
+weight [31, 32]. In our study, we could confirm that
+these are the most likely risk factors that were presented
+among children from ART with cerebral palsy  The ART procedures are associated with higher preterm birth and low birth body
+weight, as they are also related to higher rates of
+
+multiple birth. ART procedures could cause monozygotic twinning related to zona pellucida manipulation
+
+and extended in vitro culture. Moreover, double embryo transfers during IVF procedures resulted in
+
+higher chance of multiple pregnancy . Since the
+pathogenesis of cerebral palsy could be initiated with
+
+insults during gestation or after delivery, we could
+not conclude if the pathogenesis of cerebral palsy
+among ART children is due to the respiratory distress
+that is caused by immature lungs, which eventually
+
+lead to cerebral hypoxia after birth, or as a consequence of dysgenesis of part(s) of the brain that is re-
+lated to movements and coordination. Nonetheless, these findings revealed the importance of optimum
+prenatal and neonatal care for ART children.
+
+Interestingly, when the neurodevelopmental out comes in children from ICSI were compared to the
+
+outcomes in children from conventional IVF, increased risks of intellectual disability and ASD were
+
+identified in the ICSI group. It is widely known that
+in some cases, intellectual disability and cerebral palsy
+are overlapping clinical conditions [34]. However, as
+the differences in the prevalence of cerebral palsy in
+
+children from ICSI and conventional IVF are statisti-
+cally insignificant, we speculate that in these cases, in tellectual disability is more likely due to inert
+
+factor(s), such as genetics. Furthermore, ASD has
+been associated with numerous genetic disorders, and
+
+has never been indicated as a result of neonatal in sults. Thus, we argue that the cause of higher risks of
+
+intellectual disability and ASD in children from ICSI
+is genetic related.
+As we know, ICSI is intended to prevent fertilization
+
+failure. One of the indications that becomes practi tioners’ common consideration when suggesting ICSI is
+
+sperm immotility . Despite successes of achieving
+
+pregnancies after ICSI using immotile or morphologic-
+ally abnormal spermatozoa , reports have suggested that the rates of DNA fragmentation in immotile
+
+spermatozoa are higher than in normal spermatozoa
+
+[40]. Furthermore, poor-quality oocytes, advanced maternal age, and unexplained infertility have also been
+
+used as indications to perform ICSI  Each of the
+previously mentioned indication has also been associated
+with higher rates of DNA fragmentation; hence, this
+might be related to neurodevelopmental disorders. Study
+
+by Porokhovnik et al. correlates infantile autism with elevated DNA damage degree [41]; thus, our findings
+
+might be related to any of these factors.
+As cryopreservation became more integrated to the
+
+common ART practice nowadays, the comparison between children from frozen embryo transfer with children from fresh embryo transfer was also performed.
+
+As previous reports have suggested, the risk of ac-
+quiring DNA fragmentations during cryopreservation
+
+and thawing processes might be associated with re-
+duced numbers and proportion of trophectoderm cells , higher prevalence of neurodevelopmental disorders in children from frozen embryo transfer is expected. To our surprise, the meta-analysis results
+showed that there are no significant differences between the risks of neurodevelopmental disorders in
+
+children from frozen embryo transfer compared to the risk in children from fresh embryo transfer. Previous studies also reported that frozen embryo transfer
+
+resulted in increased live birth rate and higher neo-
+natal birth body weight . The improvement of
+
+cryopreservation techniques, such as vitrification and
+elective frozen embryo transfer, might result in better
+pregnancy and neonatal outcome
+
+The present study has several limitations. First, the num-
+ber of studies that reported neurodevelopmental out-
+comes from different ART procedures is limited. This
+limitation correlates with the limited number of patients
+and the possibilities that some of the findings might be
+population specific. Secondly, singleton and multiple
+births could not be differentiated in some studies. Previ-
+ous studies suggested that multiple pregnancy carries
+higher risks of prematurity and low birth body weight
+, both could potentially contribute to the risks of
+neurodevelopmental disorders  Third, the
+matched case-control studies could introduce potential
+conclusion bias on the absolute number of children at
+risk in the normal population. To overcome all of these
+limitations, future studies that involve larger populations
+with sufficient background information are required.
+
+In conclusion, children from ART have a higher risk of acquiring cerebral palsy than children from natural conceptions. This increased risk is possibly associated with
+confounding factors, including preterm birth and low
+body birth weight. Based on this finding, it is reasonable
+to perform deliveries of children from ART at facilities
+with available neonatal intensive care unit (NICU); thus,
+treatment of potential cerebral insults after birth can be
+optimized. Furthermore, children from ICSI carry higher
+risks of intellectual disability and ASD than children
+
+from conventional IVF. These findings suggest the importance of long-term follow-up and preimplantation
+genetic screening, particularly in fertilizations by ICSI.
+Lastly, cryopreservation and thawing of embryos did not seem to cause increases in any risks of neurodevelop-
+mental disorders; therefore, freeze-all strategy seemed plausible.
+Autism spectrum disorder (ASD), or autism, are general terms
+
+for a complex series of developmental disability disorders char acterized by impaired communication, lack of awareness, social
+interaction problems, and restricted behavior. ASD manifests in functional deficits, relations and work achievement that last a lifetime . The global prevalence of ASD has been estimated to be one in 132 persons (Baxter et al., 2015), while in the
+US one in 68 eight year old children are thought to be affected
+. The prevalence rates of autism have been shown to vary by region , and although differences in diagnosis may contribute to these discrepancies, findings
+from epidemiological studies suggest that environmental factors
+may play a role . Air pollution has been linked to a number of different health
+conditions. Previous studies point to a plausible biological pathway linked to autism, wherein components of air pollution cause a systematic inflammatory response that can contribute to neuronal
+injury and affect the development of the central nervous system
+.A number of recently conducted epidemiological studies provide further support that traffic-related air pollution  adversely affects neurodevelopmental
+effects . The investigation of environmental exposures during perinatal and
+postnatal stage, through a child's first year of life is essential since these are the periods of brain development during which an environmental chemical insult can perturb neurodevelopment . Exposure to air pollution
+represents an important exposure to consider in the etiology of autism, particularly given its ubiquitous nature and the potential
+at both a population, and individual-level to modify exposure.
+Air pollution is a heterogeneous mixture of gases and particulate matter. Nitrogen dioxide  has been associated with a
+variety of health endpoints, and given its strong correlation with
+roadways it is often used as a surrogate measure of TRAP. Among
+air pollution components, particulate matter  has been seen
+as a major widespread threat and has been heavily implicated in disease. While traffic is an important contributor to ambient PM concentrations, other sources include industrial emissions, secondary aerosols and even
+domestic heating .  include components of various sizes: PM10, which consists of particles with a median
+aerodynamic diameter of less than 10 mm in diameter, and fine particulate PM2.5 whose particles have median aerodynamic diameters of less than 2.5 mm, and are included within the larger
+Herein, we present the results of a meta-analysis that investigated the associations between ambient air pollution and the development of autism. To inform on possible pathways, we felt it
+necessary to examine associations based on periods of exposures. As such, our review focussed on studies that could inform on the
+temporal sequence between exposure and outcome. Therefore, we prioritized our identification of relevant studies to include longitudinal and case-control designs. While some cross-sectional
+studies have examined similar associations, these studies are limited in drawing causal inferences due to the inability to characterize associations temporally.
+We undertook a search in the Cochrane Database of systematic reviews prior to the study to determine whether a previous systematic review had been done on this topic, and did not identify
+One team member (Flores-Pajot) proceeded to conduct the systematic review. Initially, we intended to study the impacts of the environment, urban greenness and air pollution on the development of childhood autism and based on this aim 396 articles
+were found. The search was then restricted to include only those
+studies that looked at associations between three air pollutants
+(NO2, Ozone and PM) and ASD. This restriction was made because
+these represent three major air pollutants that have been most
+commonly studied in relation to human health outcomes. Studies
+
+were identified through PubMed, Web of Science, and Environmental Index databases using a specific search criteria, with boo-
+lean operators AND in combination with search terms including:
+
+Similar combinations using the terms above . Citation lists from these initial articles were also ex-
+amined. Papers had to be written in English, French or Spanish,
+
+before March 30th, 2016. The search yielded a total of 142 articles.
+Abstracts of articles were retrieved and examined if they were
+relevant epidemiological studies and  involving NO2, O3 or
+PM, which reduced the number to 26 articles. The search was then
+narrowed to only consider observational studies and then limited
+to only keep those epidemiological studies that were looking at
+NO2, O3 or PM and ASD for the systematic review, and that were
+either a case-control or cohort design for the meta-analysis. We
+
+excluded cross-sectional and ecological studies due to their limitations to inform on potential causal association. The combined
+
+search strategy outlined above produced 13 studies that were included in the systematic review, from those only one study did not
+
+provide the necessary quantitative data to be included in the
+
+meta-analysis, and from the 12 studies included in the metaanalysis one comprised six population-based cohorts 
+
+To assess the overall quality and potential for bias of the casecontrol and cohort studies, we used the Newcastle-Ottawa Scale
+). This scale was originally developed to evaluate quality of nonrandomized studies in order to support and strengthen the
+interpretation of meta-analytic results . The
+NOS is a nine-point scale that assigns points on the basis of the
+Statistical analysis
+Epidemiological studies that have investigated O3 and NO2, two
+gaseous pollutants, typically have measured exposure in parts per
+billion , parts per million or μg/m3
+
+the measures of association reported in the studies were converted to correspond to an increase in the incidence of autism
+according to a 10 ppb exposure in gaseous pollutants, using a
+conversion factors of 10 μg/m31⁄45.32 ppb for NO2 which is based
+on ambient pressure of 1 atm and a temperature of 25 °C , and 10 μg/m3 for particulate matter.
+Since ASD is a relatively rare condition, within this paper we
+used the odds ratio extracted from several of these studies as an
+
+approximation of risk ratio disease. For the remainder of the papers, and in our tables, we describe the associations between air
+
+pollution and ASD using the risk ratio.
+STATA software  was used to conduct the meta-analysis
+
+of continuous data using inverse-variance weighting. Risk estimates that were adjusted for covariates from the previous studies
+
+were chosen for this review. A random effects model was used for
+the meta-analysis and include an I2 value to estimate the percent
+of the total variance attributable to between studies inconsistency
+
+(DerSimonian and Laird, 1986). Forest and funnel plots were produced to provide a visual representation of the distribution of
+study specific effect estimates, to display the spread of risk estimates across studies, as well as to depict the pooled estimates of risk.
+3. Results
+3.1. Studies included
+Three studies were identified that met the initial inclusion
+criteria through PubMed, one additional study through Web of
+Science two through Environment Index , one study through article refer-
+ences and discussion among co-authors, and one
+
+additional study was suggested through the initial peer-review
+process to be included due to it's relevance. This last one contains
+six population-based cohort within the same study and provides
+the data needed to produce meta-estimates using each individual
+cohort study .
+Table 1 summarizes the seven cohort studies that investigated
+NO2, O3 or PM and autism that were included in the meta-analysis,
+while Table 2 describes the characteristics of the six case-control
+studies. The tables report the main measure of association of individual exposures to PM2.5, PM10, NO2 and O3. The cohort study of
+
+Swedish twins by  met all the inclusion criteria
+
+but could not be included in our meta-analysis as it did not provide sufficient details on the concentration levels of the pollutants
+
+that were studied. The final dataset used in our meta-analysis
+included seven publications that represent 12 different studies
+that satisfied all inclusion criteria
+
+The studies that formed the basis of the meta-analysis employed different strategies to characterize exposure to air pollution. The most common techniques were land use regression (LUR)
+
+and dispersion modeling . Volk et al. used two dif-
+ferent exposure methods, line-source air quality dispersion and
+
+regional air quality data (fixed site monitors) within 50 km of residence. Exposure estimates from regional air quality data was
+
+used in the meta-analysis and forest plots because of the non linear association with dispersion site monitors 
+
+When available, seasonalized estimates were used for this
+meta-analysis in order to take into account temporal variations in
+air pollution concentrations.
+Each study considered the possible confounding influence for a
+number of risk factors. Most studies accounted for the following
+risk factors: age of child, sex, maternal age, maternal place of birth,
+maternal education, race/ethnicity, parental education, type of
+birth, parity, gestational weeks at birth, socio-economic status or
+
+income, and smoking in pregnancy. Table 3 summarizes the different methods used to characterize exposure among study par-
+ticipants, and provides a listing of the risk factors that were considered in each study.
+
+ Entire pregnancy. Eight different studies explored the associations between ASD and exposure to NO2, O3, PM2.5 or PM10
+
+during the prenatal period (Fig. 2). The summary risk meta-estimate of autism in relation to a 10 mg/m3 increase in PM2.5 was 1.34
+
+(95% CI: 0.83, 2.17). There was substantial heterogeneity in this risk
+
+estimate across the 8 studies (po0.0001). The summary risk estimates for a 10 mg/m3 increase in PM10 and a 10 ppb increase in
+
+NO2 were 1.03 respectively. There was a statistical significant association between
+exposure to ozone during pregnancy and autism with a 10 ppb
+increase producing a risk ratio of 1.05.
+
+ Trimester-specific. The forest plots generated from meta-analyses of the associations between autism and ambient . Exposure to PM2.5 was positively associated with autism in each
+
+of the three trimesters though the strength of the association was
+stronger in each successive trimester. Specifically, the risk ratios in
+relation to a 10 mg/m3 increase across the three trimesters were
+1.10, 1.21 and 1.33. In contrast, there was little difference in the
+strength of the association across the three trimesters for NO2 as
+the risk ratios per 10 pbb increase ranged between 1.15 and 1.18.
+3.2.2. Postnatal period
+From the studies looking at exposure to NO2, O3, PM2.5 or PM10
+during the first year of postnatal period , or 1–4 years before ASD diagnosis for Jung et al.
+paper, two
+pollutants were found to be strongly associated with higher risk of
+ASD. The pooled estimate of the relative risk in relation to a 10 mg/
+m3 increase in PM2.5 was 2.43 . The corresponding relative risk for a 10 ppb increase in NO2 was 2.72
+(95%CI: 1.04, 7.07) . Exposures to PM10 during the first
+year of birth did not show a significant association with ASD.
+3.3. Quality assessment
+
+Different funnel plots were created, looking at exposure to individual pollutants during a specific time, to explore the possibility
+
+of publication bias. In the absence of publication bias, it is presumed that the largest studies will be plotted in a funnel plot near
+
+the mean, and smaller studies will be spread evenly on both sides
+of the mean, creating a roughly funnel-shaped distribution . The funnel plots of studies looking at the exposure to
+PM2.5 during the first trimester of pregnancy show a visually
+asymmetrical distribution, supporting the possibility that there
+has been publication bias . These results are similar to the
+funnel plots of the eight studies looking at exposure to PM2.5
+during the entire pregnancy , yet this later funnel plot has a
+relatively symmetric distribution at the top of the funnel, and only
+two smaller null studies at the bottom left, but we cannot rule out
+publication bias. The capacity to detect bias with funnel plots is
+limited due to the very small number of studies and the capacity to
+identify symmetry, therefore the results should be treated with
+caution.
+4. Discussion
+This paper provides a systematic review and meta-analysis that
+
+summarizes findings from epidemiological studies on the association between ambient air pollution and ASD. Overall, the as-
+sociations were largely positive though many of the summary
+
+measures were not statistically significant which is largely influenced by the relatively small number of studies. The strength of
+the associations observed between exposure to PM2.5 during the
+prenatal period and autism is similar to that found for health
+endpoints such as cardiovascular disease and diabetes, for which
+air pollution is a more established risk factor. Our meta-estimates
+of risk were even stronger for exposure to air pollution during the
+last trimester of pregnancy and after birth, though these findings
+
+are tenuous given the very small number of studies that investigated these exposures during this time window. Nonetheless,
+
+these findings are consistent with the observations that it is during
+this time interval that the human brain undergoes the most critical
+development and is most vulnerable to environmental factors
+during this period .
+We also observed positive associations between O3 exposures
+
+during the prenatal period and ASD. Animal studies have suggested that specific O3 exposure during gestation may subtly cause
+
+adverse neurobehavioral effects after birth (Petruzzi et al., 1995;
+Sorace et al., 2001). It is important to note that ozone is highly
+variable across the seasons particularly in regions with extreme
+
+weather changes . Hence, the characterization of the association between prenatal exposure to O3
+
+and autism in these regions should account for the month of birth.
+The studies by Becerra et al. and Volk et al.  were
+both conducted in California which does experience higher ozone
+levels during the summer, however differences in concentration
+levels across seasons are not as large as in more northern cities.
+
+Overall, there was little difference in the strength of the association between PM2.5 and autism between exposures over the
+
+entire pregnancy , and those exposures during the third
+trimester . The risk was slightly attenuated for the early
+part of the pregnancy. We found a similar trend between autism
+risk and increasing gestational age with PM10. There are two possible reasons that could explain stronger associations between
+
+air pollution and autism with exposure occurring in the last trimester. The first explanation relates to the theory that this is a
+
+more vulnerable period. As described by Rice and Barone Jr 
+
+the later trimester of pregnancy represents a period where synapse formation, and neurotransmitter receptors formation are
+
+under development. This in turn may impact neuronal connectivity thereby perturbing signaling pathways which some have
+
+been implicated in the development of autism. Alternatively, previous work suggests that healthy brain development is dependent on the
+functioning of the immune system. As it is well recognized that air
+pollution impacts a number of immune functions such as oxidative
+stress, this represents another pathway by which exposure to fine
+particulate matter late in pregnancy may increase the risk of
+autism. Previous epidemiological studies have suggested stronger
+
+association between PM2.5 and some adverse birth outcomes including low birth weight with exposures occurring during the
+
+third trimester .
+Apart from the third trimester representing a more biologically
+relevant period of exposure, stronger associations may be evident
+
+as a result of exposure misclassification. Many of the studies included in this meta-analysis that looked at differences in risk by
+
+trimester, relied on the place of residence at the time of birth
+. However, the study
+by Volk et al.  has the desired feature of capturing changes
+in place of residence beginning three months before conception.
+As such, it was better positioned to evaluate differences in risk
+across trimesters. Volk et al. employed two distinct exposure
+
+strategies, one that relied on a dispersion model, the other on
+spatially interpolated fixed site monitoring. They found stronger
+associations between exposures in the third trimester and autism
+when compared to other periods of exposure when the former
+
+method was used, but not with the latter. Given the lack of con-
+sistency, and the few studies that have examined differences in
+
+risk across trimester, more studies that fully account for residential
+mobility are needed to better understand trimester-specific risks.
+It is important to recognize that the approaches assigning air
+pollution exposure to study participants use area-level measures
+to infer individual-level exposure. Land-use regression methods
+and dispersion models, which are the most common measures of
+exposures used in the articles, have been proven successful for
+monitoring annual mean concentration of air pollutants over a
+
+specific study area, however small scale spatial variation still remains (Hoek et al., 2008). It is important to note that some pol-
+lutants, such as NO2, exhibit greater spatial resolution within urban areas when compared to PM2.5, which is influenced to a
+
+greater extent by long-range transportation of pollution. Approaches to exposure modeling that are able to partition local
+
+versus distal sources of pollution are ultimately needed to better
+understand how to mitigate air pollution concentrations so as to
+reduce human health risks for multiple conditions, including
+autism.
+Interestingly, a recent commentary on whether the association
+
+between air pollution and autism is casual or explained by confounding, contends that examining ambient air pollution concentration as a proxy for personal exposure helps avoid exposure
+
+misclassification biases that could stem from differences in
+personal behavior. As highlighted by
+Weisskopf et al., confounding may be minimized because while
+changes in individual behaviors over the course of a pregnancy
+would impact personal exposures, there would be no such impact
+for ambient exposures that are based on larger areas. Nonetheless,
+it is important to recognize that some pollutants, such as NO2, are
+more spatially variable within urban areas than others. Ultimately,
+if the association between air pollution and autism is causal,
+models that are able to differentiate between local and distal
+sources of air pollution are needed to develop strategies that can
+
+mitigate health risks. To date, few studies have employed different
+exposure measurement strategies that can shed light on this issue.
+One exception is the study by Volk et al. (2013) who found that
+regionally based measures of air pollution produced somewhat
+
+different measures of association when compared to those generated from the application of a dispersion model. Namely the
+
+strength of the association was stronger, and non-linear for the
+dispersion model when compared to the regional based measures
+of air pollution.
+Our forest plots revealed substantial heterogeneity in the risk
+estimates. While this is undoubtedly due to differences in study
+design, characteristics of participants, and possible biases unique
+to each study, differences in the composition of the air pollution
+likely contributed to variation in risk. The studies included in the
+
+meta-analyses were undertaken in multiple countries with distinct meteorological features, and pollution mixtures. In terms of
+
+the specific sources of pollutions, three identified that the sources
+of the pollutants were specifically related to traffic. Some of the other
+studies highlighted contributions from space heating (Guxens
+et al., 2015), wood smoke and power plants 
+
+Unlike studies of air pollution and several other chronic diseases, ascertainment of ASD is more challenging, as the diagnosis
+
+of autisms is more complicated. The case definition on all studies
+was based on validated instruments, meeting diagnostic criteria
+and/or parental reports; yet two studies used screening tests for a
+boarder range of behavioral disorders . All tests
+
+are valid tools for assessment of children's behavior in epidemiological studies. Diagnostic issues could be
+problematic if bias is implied, for example if people in urban areas
+are more likely to use specialists that correctly diagnose autism
+compared to people who live in rural areas, this would contribute
+to a positive association between air pollution and ASD. However,
+some of the studies used different cut points for identifying autism
+(ex: clinical range of autism versus autistic traits in Guxens et al.
+(2015)) and the results did not substantially change. As highlighted
+by Weisskopf et al. (2015), differential ascertainment of autism by
+socio-demographic status may also introduce some bias, as those
+of lower socio-economic status (SES) may be more prone to live in
+areas of higher air pollution. Most studies in the meta-analysis
+included some adjustment for SES. Others performed a stratified
+analysis to evaluate whether SES modified associations between
+air pollution concentrations and autism. Of note was the finding by
+Becerra et al. (2013) who discovered that LUR-based associations
+were strongest for children of mothers with less than a high school
+education.
+Concentration of many air pollutants, including diesel exhaust
+and PM, are increased near freeway and other major roads; these
+
+pollutants have been shown to affect the brain function and ac-
+tivity in toxicological studies (Hougaard et al., 2008; Ntziachristos
+
+et al., 2007; Perera et al., 2006). To our knowledge, a study of 304
+
+autism cases and 259 typically developing controls based in California is the only one to date to investigate the association between childhood autism and proximity to a freeway. Volk et al.
+
+(2011) found living within 309 m from freeway during pregnancy
+to be positively associated with ASD. A British cross-sectional
+
+study of 2713 individuals compared the prevalence of mental illness, ASD, and behavioral disorder in people living in urban areas
+
+with those living in rural areas, and exposure to pollution and
+
+noise was one of the suggested hypotheses to explain a relationship between mental ill health and urbanization. This study found
+
+that ASD was more common in people living in rural areas. A proposed explanation for this is that there has been a development of higher numbers of specialist residential placements in the
+county to accommodate people with ASD . The
+relationship between urbanization and mental health is an interesting topic worth exploring. More studies should use distance to
+roadways, volume of vehicles or urbanization as markers of exposure to traffic, in order to provide a better understanding of the
+association of ASD with traffic-related air pollutants.
+The studies included in this systematic review and meta-analysis were conducted in diverse settings that capture varied exposure to air pollution. They also differ with respect to the methods used to characterize pollution levels, and the ability to
+account for the influence of other possible risk factors. Despite the
+relatively small number of studies conducted to date, the findings
+from these studies provide compelling support for the hypothesis
+that prenatal exposure to PM2.5 and O3 and postnatal exposure to
+PM2.5 and NO2 increases the risk of ASD.
+Some recommendations for future studies to improve our understanding on the relationship between air pollution and ASD
+
+include: 
+ increasing study size to increase power to detect
+smaller associations,tracking residential mobility during
+pregnancy to account for changes in exposure during this critical
+
+time-period,  incorporating methods to characterize air pollu tion at both a local, and a regional level.
+Autism spectrum disorder is a complex developmental disorder characterized by impairments in social interactions and communi-
+cation and the presence of restricted, repetitive, and stereotyped patterns of behaviors. It is
+associated with lifetime social and emotional hardship for children and their families , as well as economic burdens on families and society . The estimated prevalence of ASD in the United States increased from 0.66%
+in 2002 to 1.85% in 2016 , which is only partly explained by more widespread screening of children and an expanded definition of ASD
+since 2008 to include more mild cases ASD can be diagnosed starting around age 2, but subtle social and communication impairment may be present
+earlier , suggesting determinants occur in utero or in early life. Although studies have shown a substantial heritability in ASD, environmental factors are likely to play an important role in causation.
+In the last decade, many studies have examined associations between ASD and early-life exposure to ambient air pollutants , the near roadway air pollution mixture, and, in the U.S., air toxics derived
+from the National-Scale Air Toxics Assessment. However, results were not uniformly consistent. For example, several studies in the United States showed that prenatal exposure to PM2.5 was associated with increased risk of ASD . In contrast, studies conducted in Europe have reported no association. Some studies of air toxics have found metals , aromatic solvents, and chlorinated
+solvents to be associated with a higher risk of autism, but these findings also have not been consistent.
+Three high-quality systematic reviews and meta-analyses described these inconsistencies and proposed some plausible explanations for differences between studies, including different levels of air pollutant
+exposures, diverse ASD ascertainment methods, and different ASD phenotypes . However, none focused on possible differences in effects due to risk or protective factors that may have increased or decreased the
+susceptibility of some populations. ASD likely has a multifactorial etiology, and in recent years a “second hit”
+hypothesis that exposures such as air pollution would require additional
+risk factor(s) to cause disease has been proposed . Thus, susceptibility to air pollution might occur
+in children with other risk factors for ASD, such as male sex; maternal
+infections, diabetes mellitus, hypertension and other maternal inflam-
+matory conditions, so-called “maternal immune activators”; in children of
+mothers with low nutritional intake of folic acid ,
+medication for neuro- or neuropsychological disorders; or in children from marginalized communities with low
+socioeconomic status . Child’s Genotypic
+variation increasing susceptibility to air pollution may help identify
+biological pathways .Synergistic associations of other risk factors could markedly increase
+the attributable burden of air pollution in concert with these other exposures. In addition, understanding patterns of susceptibility can help
+identify sensitive subpopulations that may benefit most from air pollution emission controls. The Clean Air Act in the United States requires
+that the regulatory standard protects everybody, including the most vulnerable, from adverse impacts of air pollution . Exposure reductions can also reduce environmental health disparities
+, as low socioeconomic status  communities often
+experience greater air pollution exposure and larger effects for some
+outcomes. The purpose of this review was to examine how ASD susceptibility to air pollution has varied among vulnerable subpopulations in studies to
+date. We identified knowledge gaps in our understanding of ASD susceptibility to air pollution and suggest possible approaches for future
+studies to address these gaps.
+This review followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses  checklist . To
+be included in this review, a study met the following criteria:  It was
+published in a peer-reviewed journal;  The exposure was ambient
+criteria  air pollution or airborne toxics, thus, indoor airborne
+chemical and second-hand smoking exposures were not included;  The
+health outcome was ASD or related sub-phenotypes, It was empirical,
+which excluded reviews, comments, replies, protocols, conceptual
+studies, and letters to the editor;  The study was in humans, thus,
+animal studies were not included;  The study was published in English;
+and  Effect modification was evaluated in stratified analyses or in interactions.
+We identified articles published in peer-reviewed journals from
+PubMed and Embase database. The database search was conducted on
+May 1st, 2021. The search keywords were a combination of terms for
+exposures and health outcomes. For exposures, The search syntaxes for the two da-
+tabases were shown in Supplementary Table S1 and Table S2. We also reviewed references cited in eligible studies to identify additional articles for inclusion; no additional eligible publications were added from 
+The study selection was conducted in two steps. Step 1 involved
+screening titles and abstracts to identify human studies of ambient air
+pollution and ASD. Studies were identified sequentially according to the
+first six eligibility criteria . If a study failed to meet an
+eligibility criterion, there was no further review of other inclusion
+criteria. For Step 2, full-text was reviewed to select articles reporting
+effect modification or interactions of air pollution with other factors in
+association with ASD. In this step, all 7 inclusion criteria were evaluated.
+Because there were few studies with comparable exposures and effect
+modifiers, we did not conduct a meta-analysis.
+Two major categories of data were extracted from studies selected.
+The first included study characteristics including year, study design,
+study population, sample size, exposure measurement, outcome ascertainment, modifiers, and covariates. The second focused on effect sizes
+for effect modification. For stratified analyses, the estimated effect size
+and corresponding confidence interval from each modifying category
+were recorded. When interactions were tested, results of additive and
+multiplicative tests were also extracted.
+For each study, the assessment of risk of bias was based on the nine point Newcastle-Ottawa Quality Assessment Scale. For case-control studies, the scale consists of three evaluation
+sections corresponding to the possibility of bias in selection of cases
+and controls  comparability of cases and controls and
+treatment of confounders on the basis of study design or data analysis , and  the quality and completeness of exposure assessment . For cohort studies, the three sections correspond to (a) the
+assessment of possible bias in the selection of both exposed and nonexposed participants ,  the comparability between
+exposed and nonexposed participants and treatment of confounders on
+the basis of study design or data analysis , and (the evaluation of potential bias in assessment of the outcome and in follow-up . A higher score represents a higher quality of study. A common
+cut-off score for an acceptable quality study 
+Additionally, we assessed the risk of bias for each study according to
+the qualitative guidelines developed by Lam et al. These
+guidelines are based on the GRADE principles . Five
+items from the guidelines were applicable for this study, including the
+source population representativeness, the misclassification of exposures
+and outcomes, the comprehensiveness of potential confounders, and the
+selective reporting of results. We added an evaluation of misclassification of effect modifiers , using similar rules to those for
+misclassification of pollution exposure. Each item was rated with 4 risk
+levels .  Effect modifiers evaluated based on the literature review included
+ child’s sex, (2) markers for socioeconomic status,  maternal factors (nutrition, maternal immune activa-
+tors, such as diabetes), and (4) genetics. We summarized the results of
+effect modification from each study.
+Additive or multiplicative interaction effects between the modifier
+and air pollution exposure were reported, if available. For studies that
+showed only results from stratified analyses by susceptibility factors,
+evaluation of effect modification was based on comparison of each
+subgroup’s effect size, as described by Altman and Bland . We calculated the original coefficients and standard errors from the reported odd ratios or hazard ratios and corresponding 95% confidence
+intervals reported in most studies. The difference between the original
+regression coefficients was assessed with the Wald test using the pooled
+Studies identified and then excluded at each step of selection are
+shown in the PRISMA flow chart. A total of 1272 publications  were identified through
+the database search, of which 296 were duplicates. The remaining 976
+articles were screened by title and abstract and 937 publications that
+were not empirical human studies on the association between air
+
+pollution and ASD were excluded. A total of 39 articles studied the association between ambient air pollution and ASD were identified. In the
+
+full-text assessment, another 20 studies were excluded because they did
+not examine any effect modifiers . A total of 19 publications were included in this review.
+A description of the 19 included studies is shown in Supplementary
+Table S6. All studies that evaluated effect modification were published
+since 2010. The majority (N = 15) were conducted in the United States,
+including 7 based on populations in California. There were four studies
+from other countries, one each from Sweden, Israel, Denmark, and
+Canada. Studies from other countries were not included because they
+did not examine effect modifiers. There were 13 case-control studies, 4
+cohort studies and 2 ecological studies. The most widely examined air
+pollutant was particulate matter (PM); 11 publications studied the effect
+of PM2.5 and 10 studied PM10. Nitrogen oxides  were
+examined in 12 articles, ozone ) in 6 studies, sulfur dioxide (SO2) in 1
+study, and carbon monoxide in 1 study. Nine studies examined
+
+more than one regulated air pollutant. In addition, three studies exam-
+ined effects of the near-roadway air pollution mixture, and 5 examined
+
+effects of airborne toxicants. Except for two ecological studies, all
+studies examined exposure during pregnancy (N = 17) and 10 of these
+assessed trimester-specific effects. Five studies assessed pre-pregnancy
+effects, and 7 examined effects of postnatal exposure. Methods for
+
+ASD ascertainment were varied, including detailed clinical and neuro-
+psychological evaluations, extraction from electronic medical records,
+
+and questionnaire surveys. Six studies further divided ASD into subphenotypes based on comorbidities.
+Both the NOS and the navigation guide from Lam et al. (2016) provided criteria for assessing bias in individual level observational studies.
+Therefore, two ecological studies were excluded from the assessment of bias. NOS scores (the last
+column of Supplementary Table S6) for all the 17 observational studies
+with individual level data passed the cut-off score of 7 for acceptable
+quality.
+The assessment of risk of bias corresponding to the guide from Lam is
+shown in Supplementary Table S7. Most studies were rated as “low” or
+“probably low” on all 6 criteria for bias, with some exceptions. For
+example, the source population representativeness had “probably high”
+bias in Kalkbrenner et al. (2018), because the study population was
+volunteers. Three studies of air toxics were rated as “probably high” risk
+of exposure misclassification bias because this dataset has high uncer-
+tainty in the exposure estimates .
+Among the effect modifiers, the measure of folic acid intake in Goodrich
+et al. (2018) had “probably high” bias, because the assessment of folic
+acid intake was based on retrospective recall in a telephone interview.
+The potential misclassification of urbanicity in Kalkbrenner et al. 
+was classified as “probably high” because there was no description of
+how the “urbanicity” modifier was defined or obtained.
+A total of 11 papers (7 of regulated pollutants and 4 of air toxics)
+examined effect modification by child’s sex; 3 examined modification by
+maternal or family education level. Two studies assessed variation in air
+pollution effects by neighborhood deprivation and one by urbanicity.
+Effect modification by race and income were only evaluated in the two
+ecological studies.
+• Child’s sex:
+Most studies reported that the effect estimates of early life exposures
+to both PM10 and PM2.5 were stronger in boys than in girls 
+Only Jo et al. (2019b)found that the hazard ratio in boys for the first
+trimester average PM2.5 [ was statistically different from that in girls ;
+p-interaction = 0.03. Larger but not significantly different PM2.5 effects
+were observed in boys in the third trimester, for the entire pregnancy
+average exposure, and during the first year of life.
+ASD-associated sex interactions with other regulated pollutants were
+not statistically significant (Table 1). One study found no association of
+NO2 during pregnancy with ASD risk in girls [OR = 1.00 and a positive effect in boys , but
+interaction was not significant (Pagalan et al., 2019). NO exposure
+during pregnancy had a similar pattern of interactions with sex in the
+
+same study. Another study found average NO2 exposure during preg-
+nancy was associated with increased risk in girls but decreased risk in boys
+and the difference in the effect estimates was significant (  One ecological study reported no significant effect modi-
+fication by sex in the association between exposure to unhealthy air and ASD prevalence 
+Four studies assessed the interaction of child’s sex with air toxics
+exposure. More than 100 air toxics were studied. Therefore, we show
+only those for which there were significant interactions . With exceptions of ethylidene dichloride and polyaromatic
+hydrocarbons (von Ehrenstein et al., 2014), there was a consistent
+pattern of larger air toxics effects sizes for boys than girls. Two studies
+reported airborne lead to be a risk factor for ASD in boys but not in girls
+. Other metals  and volatile organic compounds were
+also reported as risk factors for ASD in boys not for girls 
+Three studies (2 case-control and 1 ecological design) demonstrated
+no consistent pattern of effect modification of the air pollution-ASD
+association by education level  Becerra et al.  found
+
+that the effect of traffic-related NO2 during pregnancy on ASD was statistically significantly higher in children whose mothers did not graduate from high school than in children whose mothers graduated high
+school. However, in the same study, stronger associations of CO and NO2
+exposure during pregnancy were observed in children with maternal
+education level greater than high school compared with those with less
+than high school, and these differences in point estimates were statistically significant. A Swedish study reported that associations of
+traffic-related NOx and PM10 exposure during pregnancy and the first
+year of life were stronger in the more educated subgroup, but neither main effects nor interactions
+were statistically significant . An ecological study on
+air toxics found that the association of mercury with ASD risk was
+significantly higher in census tracts with below-average percentage of
+college educated households .
+Two case-control studies examined the modifying effect of neighborhood deprivation, based on an index including income, education,
+unemployment and other socioeconomic characteristics in small socio-
+economically homogeneous areas (Table 3). One U.S. study found that
+children living in the mo during the first year
+of life  . When modeling PM2.5 as a continuous variable,
+the interaction between neighborhood deprivation level also was not
+significant in the same study . In contrast, a Swedish study
+found that traffic-related NOx and PM10 exposure during the first year of
+
+life were more strongly associated with ASD in less deprived neighborhoods  Kalkbrenner et al.
+
+(2010) reported that there were no modifying effects of census tract
+urbanicity (100% rural, mixed, and 100% urban) on the association of
+air toxics with ASD. Dickerson et al. (2016) found that children from
+census tracts with higher poverty rates had stronger associations of a
+combined metals index with ASD.
+• Race
+Racial differences in effects were examined in only one ecological
+study, in which there was an association of ASD with unhealthy air
+quality (AQI >100) only among Asians, which was not significant  after adjustment for confounders (Al-Hamdan et al., 2018).
+
+Two studies reported effect modification by maternal factors . In a case-control study,
+Goodrich et al. had stronger associations of ASD with NO2 than mothers with sufficient folic
+acid intake 
+Jo et al.  reported increased ASD risk associated with
+first trimester O3 exposure among mothers with gestational diabetes
+mellitus  diagnosed <24 weeks’ gestation  compared to mothers without dia-
+betes. No O3 associations with ASD were observed among children of
+
+mothers with later onset GDM or with pre-existing diabetes.
+3.4.3. Genetic factors
+Two studies of interactions with genetic factors were identified
+(Table 5). Kim et al. examined 15 interactions between 3 types of
+copy number variation (CNV) burden 
+and 5 air p. Only interactions of O3 exposures during pregnancy with CNV duplication burden per increase of 1,356,513 base
+pairs were significant. In another study, ASD risk
+was increased in association with an interaction of exposure to high
+PM10, NO2, and dispersion-modeled near-roadway pollution  with the MET receptor
+tyrosine kinase rs1858830 CC genotype 
+Since Windham et al. (2006) published the first study of the association between prenatal air toxics and the risk of ASD in 2006, more than
+
+30 papers have examined air pollution-ASD association in diverse populations and regions. In the last decade, studies have begun to examine
+
+susceptibility to air pollution. This approach has the potential to identify
+susceptible populations and potentially to explain some inconsistency in
+
+the main effects of air pollution. However, we found only limited evidence that male sex, low education, maternal folate deficiency and
+
+gestational diabetes, and child’s copy number and MET receptor tyro-
+sine kinase genotypic variation may increase risk of ASD associated with
+
+air pollution. There were few studies that examined each susceptibility
+characteristic, except sex of the child, and little consistency of findings
+across studies.
+4.1. Susceptibility by sex
+
+The most widely examined effect modifier was child’s sex. In gen-
+eral, epidemiological studies found stronger effects of early life PM2.5
+
+and air toxics exposure on the risk of ASD in boys than girls. These
+findings are consistent with toxicological studies showing that the
+activation of microglial cells induced by neuroinflammation may lead to
+synapse dysfunction involved in ASD (Bolton et al., 2017; Hammond
+et al., 2018). Males may be more sensitive to PM or other inflammatory
+
+insults because they have more microglia than females during gestational and early postnatal periods  An
+
+alternative explanation is that higher prenatal testosterone levels during
+fetal brain development activate microglia, making males more
+vulnerable to air pollutants or other inflammatory insults (Auyeung
+et al., 2013; McCarthy, 2016). In human studies, the small sample of
+girls in many studies of air pollution and ASD limited ability to detect
+small differences between effects in boys and girls. For example, one
+study with 441 ASD cases in girls reported larger effect estimates in boys
+In another study, a considerably larger PM2.5 effect in boys 
+Sparse and inconsistent findings limit our ability to draw conclusions
+about how SES modifies air pollution effects. For example, Becerra et al.
+showed that the associations of NO2 with ASD were stronger for children
+of mothers without high school degrees, but for CO stronger associations
+were observed among children of better educated women. Reasons for
+these findings are unclear. However, in general, larger effects among
+lower educated mothers might be expected if low-educated mothers
+were more likely to be at home (Cohn et al., 2014) and so residential
+exposure estimates during pregnancy were more accurate. More
+educated mothers may be more likely to work in indoor office jobs and
+in buildings that filter ambient pollution and therefore have little
+exposure. Highly educated mothers may be more likely to have diets
+supplemented with folate or rich in antioxidants that could diminish the
+effect of air pollution (Croft et al., 2018; Lim et al., 2019). One potential
+explanation for why smaller effects of ambient air pollution might be
+
+observed in children of less educated mothers comes from the cumulative risk model, based on a hypothesis that large effects of co-occurring
+
+other relatively high adverse exposures or social stressors may result in
+little additional risk from ambient air pollution (O’Neill et al., 2003).
+
+One challenge in assessing effects of SES is that SES can have inde-
+pendent effects at both the individual level and the area level (O’Neill
+
+et al., 2003). Neighborhood SES markers such as average education,
+income, employment, rates of poverty or home values in the census tract
+have sometimes been found to more strongly modify effects of air
+pollution on cardiovascular outcomes than individual level education,
+occupation and income (Chi et al., 2016). According to the “double
+jeopardy” conceptual model (O’Neill et al., 2003), in addition to the
+
+generally greater concentrations of air pollution associated with
+neighborhood SES, deprived neighborhoods may be lacking in features
+such as healthy food availability and green space, contributing to a
+higher risk of chronic conditions, such as diabetes and obesity, which
+may increase susceptibility to ambient pollutants.
+4.3. Susceptibility by maternal health conditions and nutrition intake
+One study reported that increased ASD risk was associated with first
+trimester O3 among mothers with gestational diabetes mellitus (GDM)
+diagnosed before 24 weeks’ gestation (Jo et al., 2019a). Diabetes is one
+example of many conditions that cause maternal immune activation
+(MIA), including viral and bacterial infections (Jiang et al., 2016; Zerbo
+et al., 2013), asthma (L. A. Croen, Grether, Yoshida, Odouli and Van de
+Water, 2005), and preeclampsia (Dachew et al., 2018) that have been
+associated with higher risk of ASD. Common biological pathways of
+effects of MIA, O3 and PM2.5 include systemic inflammation and
+oxidative stress that are associated with increased reactive oxygen
+species in the placenta and fetus (Bonini and Sargis, 2018; Brown et al.,
+
+2001; Chen and Lippmann, 2009; Cuffe et al., 2017). Thus, it is biologically plausible to hypothesize that the presence of MIA during crit-
+ical time windows may have synergistic effects with early-life air
+
+pollution on ASD, a “second hit” resulting in disease (Bilbo et al., 2018;
+Estes and McAllister, 2016). This hypothesis has the potential to identify
+new approaches to prevention based either on treatment, for example
+dietary approaches to reducing gestational diabetes, in addition to
+regulation of pollutant levels. Parenthetically, in the United States,
+regulated air pollutant exposure has been declining during the period of
+increasing rates of ASD (Sullivan et al., 2018). Therefore, it is not
+plausible that these air pollutant exposures alone are increasing the risk
+of ASD. However, increasing prevalence of maternal characteristics such
+as gestational diabetes that are known risk factors for ASD (Xiang et al.,
+2015) have the potential to increase the fraction of ASD attributable to
+air pollution even in the context of stable or decreasing regional
+pollutant levels.
+We acknowledge that some MIA triggers, such as diabetes, may also
+be potential mediators in the association between air pollution and ASD.
+One recent study found little evidence of mediation effects of maternal
+immune biomarkers in the association between prenatal NO2 exposure
+and ASD in children (Volk et al., 2020). However, the study did not
+examine interactions. Future research might examine both mediating
+and modifying roles of MIA in air pollution-associated ASD risk.
+Because diet can be modified, dietary susceptibility to air pollution
+effects could have major public health significance 
+Sufficient folic acid and vitamin intake during pregnancy has been
+associated with reduced ASD risks in children (Levine et al., 2018;
+
+Schmidt, 2013; Schmidt et al., 2019). However, only one study exam-
+ined the role of folic acid intake as a factor protecting against air
+
+pollution effects on autism (Goodrich et al., 2018). The timing of the
+largest protective effect of folic acid, during first trimester, suggests a
+window of vulnerability to pollution. Epigenetic dysregulation caused
+by air pollution is one pathway that may explain such effects (Lin et al.,
+2016; Marsit, 2015). Antioxidants in maternal diets can reduce the
+oxidative stress induced by air pollution (Block et al., 2012; Kannan
+et al., 2006). Other nutritional factors including vitamin D (Stubbs et al.,
+2016) and polyunsaturated fatty acids are also antioxidants and may
+improve autism symptoms in children with ASD. These also merit investigation as potential modifiers of air
+pollution effects.
+. Genetic susceptibility to air pollution-associated ASD
+There is substantial heritability in ASD (Tchaconas and Adesman,
+2013; Tick et al., 2016). Hundreds of genes have been identified in
+biological pathways that may contribute to ASD (Chaste and Leboyer,
+2012; Wisniowiecka-Kowalnik and Nowakowska, 2019). However, we
+identified only two studies that examined gene-environment interaction
+(air pollution with CNVs and with MET CC genotype) on the risk of ASD.
+CNV duplication and deletion burden increased the prenatal ozone
+exposure association with ASD risk in children  A few
+animal studies have provided evidence for ozone-induced oxidative
+stress and autism-like behavior (Bignami et al., 1994; Block et al., 2012;
+Sorace et al., 2001). In humans, oxidative stress is a key feature of the
+ASD phenotype  It is possible that
+CNVs contribute to genes altering reactive oxygen species. Thus, CNVs and prenatal air pollution exposure can
+potentially share common biological pathways leading to ASD. Another
+study found interactions of a specific functional polymorphism, MET
+receptor tyrosine kinase rs1858830 CC genotype, with prenatal
+near-roadway air pollution and regional PM2.5, PM10, and NO2. Genetic
+studies have shown that children with MET CC genotype had decreased
+expression of MET protein in brain, which is associated with ASD
+. Animal experiments have
+also shown that prenatal exposure to PAH  causes both decreased MET protein
+expression in the brain and autism-like behavior in mouse offspring
+
+. Therefore, it is plausible that decreased MET protein expression is a biological pathway common to air pollution exposures and ASD, and MET genotype may play a role in the air pollution
+
+association with ASD. Future studies may investigate the interaction
+between air pollution and ASD polygenic risk.
+One reason for the paucity of research on the interaction between
+genes and air pollution is that obtaining both genetic and environmental
+data for the same study population is expensive and time consuming
+(Kim et al., 2017). Opportunities exist for assigning early-life air Overall, most studies included in this review were rated as “low” or
+“probably low” in risk of bias, especially for the relatively low bias in the
+measurements of air pollution and of effect modifiers, lending credibility
+to the effects observed. However, some limitations of these studies
+emerged during the review.
+
+Large sample size is required to observe interaction effects for rela-
+tively uncommon diseases like ASD. Studies of air pollution-sex inter-
+action generally did not identify statistically significant effects,
+
+potentially due to the small proportion of ASD cases in girls reducing the
+power to identify interactions. In the U.S., additional studies outside
+California could make the results more representative. Future reviews
+might also include studies of continuous measures of autistic traits,
+which may allow for detection of subtle effect modification in smaller
+sample sizes and reduce potential bias due to disparities in disease
+diagnosis by sociodemographic characteristics.
+The role of effect modification was usually not the main research
+hypothesis for the studies reviewed; thus, the reported interactions may
+reflect selective reporting bias. The absence of a standard approach to
+reporting results of effect modification is another limitation. Some
+studies only reported the results of stratified analyses. Others reported
+the p-values of multiplicative interaction terms from statistical models.
+
+Only a few articles assessed interaction on both the additive and multiplicative scale. Reporting risk measures (relative risks, odds ratios,
+
+hazard ratios) for each stratum of exposure and the interaction on both
+
+additive and multiplicative scales is good practice . The studies by Goodrich et al. and McGuinn et al.
+
+ are examples of reporting additive and multiplicative in-
+teractions. Finally, most studies do not explicitly describe the theoretical
+
+or conceptual frameworks supporting the study hypothesis and design
+for assessing effect modification.
+4.6. Strengths and limitations of this review
+To our knowledge, this is the first systematic review summarizing the
+evidence on effect modifiers of the association between air pollution and
+
+the risk of ASD. The review followed the PRISMA checklist. The literature search was based on two most widely used databases, PubMed and
+Embase. The data extraction was thorough, including complementary
+results reported in supplementary materials. Rigorous assessment of risk
+of bias was conducted considering population representativeness, the
+potential for misclassification of exposure, ASD outcome, effect modi-
+fiers and the potential for selective reporting bias.
+Because there were relatively few studies and results were not uni-
+formly consistent, we did not attempt to conduct meta-analyses, and
+there were few definitive conclusions that could be drawn about how the
+association between air pollution and ASD was modified by the factors
+studied. We only included peer-reviewed studies published in English. It
+is possible that additional relevant information might be available in
+book chapters, non-English and grey literature.
+5. Conclusions
+This review synthesized studies of potential effect modifiers of the
+association between ambient air pollution and the risk of ASD. Maternal
+gestational diabetes, insufficient folic acid intake during pregnancy, low
+maternal education, child male sex and high CNV burden or MET
+rs1858830 CC genotype may increase susceptibility to the effect of
+prenatal air pollution exposure on ASD risk. However, the limited
+number of studies on each modifier precludes definitive conclusions.
+Additional investigation of these susceptibility characteristics would
+
+benefit from consistent definitions across studies with sample sizes
+sufficient to identify interactions and a priori hypotheses, for example
+that exposure to maternal immune activators would increase effects of
+air pollutants on ASD.
+Autism spectrum disorder (ASD) is a neurodevelopmental disorder characterized by
+communication and interaction difficulties as well as repeated and stereotyped behaviors and
+interests . Approximately 66 million individuals worldwide have ASD, and it has been reported to
+begin early in life .
+Although the exact cause of ASD is unknown, genetic factors are key contributors. Further,
+various environmental factors are involved and are considered an important aspect of the increased
+prevalence of ASD . Rapid industrialization and the consequent environmental pollution have
+also increased the risk of exposure to toxic substances via various pathways. Since ASD occurs early in
+life, studies have reported that toxic exposure, such as mercury poisoning in the prenatal or childhood
+period, could cause ASD  Therefore, infant mercury poisoning caused by seafood consumption
+by the mother, pediatric vaccination, and prenatal use of antibiotics has been suggested to cause
+ASD . Moreover, studies have reported that pre-  and postnatal exposure to antibiotics and
+acetaminophen increases the ASD risk
+Although antibiotics are essential for treating some diseases, antibiotic exposure has been
+associated with various diseases. Antibiotic use can cause abnormal changes in the human microbiome.
+Studies have suggested that when the altered microbiome is passed onto the fetus, it increases the risk
+of colitis and ASD by impeding neurological development . Further, antibiotic exposure
+has been reported to be weakly associated with the risk for ASD ; however, this association
+cannot be clearly established given the difficulty of measuring fetal antibiotic exposure. Studies have
+also reported that postnatal antibiotic exposure is associated with ASD; specifically, postnatal use of
+acetaminophen and antibiotics, as well as ear infection, were reported to increase the risk for ASD .
+This indicates that despite continued studies on the association between ASD and antibiotics,
+a definitive conclusion is yet to be reached. Particularly, the lack of consensus on pre- and postnatal
+antibiotic exposure has hindered efforts toward determining this relationship. Therefore, we aimed
+to conduct two-side meta-analyses to clearly determine the relationship between ASD and antibiotic
+use as well as present foundational data for preventive and management strategies for lowering the
+ASD risk.
+Search Strategy and Selection Criteria
+This meta-analysis was performed in accordance with the PRISMA guidelines and was
+approved by the institutional review board of Gachon University .
+We searched PubMed, Embase, Web of Science, and Cochrane Library databases for all relevant
+studies written in English and published before February 2019. The search terms used were  andFor meta-analysis, we included studies that reported the association between ASD and
+pre- or postnatal antibiotic exposure in childhood and excluded studies that did not report the
+antibiotic exposure level as well as the ASD and control group. We included observational studies,
+including case-control, cross-sectional, and cohort studies and excluded commentary, editorial, and
+review articles.
+All authors independently screened and selected relevant data, and any disagreements were
+resolved by discussion. We extracted relevant data, including first author, publication year, study
+design, country, sample size, age of participants, and related outcomes. Moreover, to assess the
+association between ASD and pre- or postnatal antibiotic exposure in childhood, we extracted all
+measurement data including prevalence data of patients with ASD and controls group as well as the
+number and amount of pre- and postnatal antibiotic exposure. The risk estimates of ASD in antibiotic
+exposure and the standardized mean difference  of antibiotic exposure in ASD were analyzed
+via meta-analysis using the Comprehensive Meta-Analysis software version 3 . We assessed the heterogeneity using the Q statistic and I
+model was applied in all analyses to address heterogeneity. Subgroup analyses were performed
+based on group differences in prenatal and postnatal exposure. Publication bias was assessed using
+funnel plots and Egger’s intercept. indicated a significant difference. Furthermore, for
+quality assessment, we used the Newcastle Ottawa Scale to assess the methodological quality
+of the nine included studies . The NOS is a representative tool developed for meta-analysis
+of non-randomized comparative studies, including case-control, cross-sectional, and cohort studies.
+It comprises an adjustment item with the selection of study groups, comparability of the groups, and
+determination of either the exposure or outcome of interest to evaluate the quality of articles included
+in the meta-analyses.
+We initially identified 1877 studies , and after the elimination of duplicates using the
+Endnote reference database, 1459 studies remained. We excluded 1348 articles based on the titles and
+60 articles based on the abstract, and thus were left with 51 articles that were eligible for full-text
+screening. After close review, 42 publications were excluded because of lack of usable data and failure
+to meet the inclusion criteria. Finally, a total of nine articles were identified and included in the
+meta-analysis. Table 1 shows the characteristics of the nine selected studies, which were published
+between 2007 and 2019.  All studies were performed in the USA, Denmark, Italy, Lebanon, Canada, and Sweden. The age of the subjects
+ranged from birth to 18 years. The outcomes of the nine studies were only described as related content
+regarding ASD and antibiotic usage.
+We initially identified 1877 studies , and after the elimination of duplicates using the
+Endnote reference database, 1459 studies remained. We excluded 1348 articles based on the titles and
+60 articles based on the abstract, and thus were left with 51 articles that were eligible for full-text
+screening. After close review, 42 publications were excluded because of lack of usable data and failure
+to meet the inclusion criteria. Finally, a total of nine articles were identified and included in the
+meta-analysis. Table 1 shows the characteristics of the nine selected studies, which were published
+between 2007 and 2019. The outcomes of the nine studies were only described as related content
+regarding ASD and antibiotic usage. In addition, the quality scores ranged from 5 to 8.
+Meta-Analysis Result Relating the ASD Risk in Antibiotic Exposure
+To investigate the association between ASD and antibiotic exposure, the ASD risk was analyzed
+based on the antibiotic exposure and control group. As shown in Figure 2A, meta-analysis results
+indicated that early antibiotic exposure, including pre- and postnatal, significantly increased the
+ASD risk in children ) with moderate heterogeneity
+
+, the results of subgroup analyses showed that prenatal antibiotic
+exposure significantly increased the ASD risk with
+moderate heterogeneity Furthermore, as shown in Figure 2C, postnatal antibiotic
+exposure significantly increased the ASD risk in children. Moderate heterogeneity was identified across all studies; therefore,
+a random-effects model was performed. The funnel plots and Egger’s test  showed significant
+results in seven of the included studies; however, in subgroup analyses, the results of the Egger’ tests
+ were not significant, indicating no publication bias.
+Meta-Analysis Results Related to Antibiotic Exposure in ASD
+To assess the association between ASD and antibiotic exposure in children, we analyzed differences
+in antibiotic exposure between the ASD and control groups. Meta-analysis results showed significantly
+increased early antibiotic exposure, including pre- and postnatal, in children with ASD. Further, there was obvious heterogeneity in the included
+studies therefore, we applied a random-effects model to the analysis. The funnel plots and
+Egger’s test did not give significant results (p = 0.67), indicating no publication bias. In the subgroup
+analyses, prenatal antibiotic exposure was significantly increased in children with ASD  with moderate heterogeneity . However, as shown
+in Figure 3C, there was no significant difference in the postnatal antibiotic exposure between children
+with ASD and controls. there was significant heterogeneity across all studies; therefore, a random-effects model was
+performed. Furthermore, the funnel plots and Egger’s test performed for all studies did not show
+statistical significance , indicating no
+publication bias.
+This study analyzed the relationship between ASD and early antibiotic use in children using
+two-sided meta-analyses. Specifically, we analyzed the relationship between ASD and pre- and
+postnatal antibiotic exposure in children using a systematic method. Our results indicated that pre and postnatal antibiotic use increased the ASD risk. This is consistent with previous reports that pre-
+and postnatal antibiotic use causes ASD in children . In our study, both pre- and postnatal
+antibiotic use increased the ASD risk ; however, only prenatal, but not postnatal, antibiotic
+use was significantly elevated in children with ASD compared to controls . It is difficult
+to compare or discuss the risk levels of prenatal and postnatal antibiotic use because studies on the
+relationship between ASD risk and postnatal antibiotic use did not specify the prenatal antibiotic
+exposure . Further, studies on the relationship between ASD onset and prenatal antibiotic use
+did not specifically mention a follow-up on postnatal antibiotic exposure . However, the results
+of our bidirectional meta-analysis suggest that prenatal antibiotic exposure is a more potent risk
+factor for ASD. This is further indicated by a pre-birth cohort study that examined the association
+between pre- and postnatal smoking exposure and atopic eczema, and reported that only prenatal
+smoking exposure increased the risk of atopic eczema by 7.11 times compared to postnatal smoking
+exposure . Moreover, ASD, which is an early complex neurodevelopmental disorder, is known
+to develop before the age of three. In particular, the fetal period is a crucial period in brain
+development and exposure to harmful environmental factors during this period can substantially
+increase the risk of neurodevelopmental disorders . One study reported that prenatal opiate
+exposure affected brain development  Therefore, prenatal antibiotic exposure is believed to be an
+important risk factor for ASD onset . Indeed, early postnatal antibiotic exposure is known to
+increase ASD risk. However, in our study, the reduced influence of postnatal antibiotic exposure on
+increasing ASD risk could be attributed to the age range of our study population .
+Further studies comparing pre- and postnatal antibiotic use with adjustment for various confounders
+should be conducted to confirm our results.
+Although we systematically analyzed the relationship between ASD and early antibiotic exposure,
+this study has a few limitations. First, although we analyzed various data on antibiotic exposure,
+including the number and amount of exposure as well as diverse antibiotic mechanisms, we could not
+analyze according to antibiotic type due to insufficient data. Further, we did not consider the gestational
+age in prenatal exposure and used a wide age range for postnatal exposure. Second, although we
+used a random-effects model to address the high heterogeneity and indicated no publication bias,
+except for the total results relating to ASD in early exposure, we had a limited sample size. Third,
+postnatal antibiotic exposure remains controversial. Although the test results on publication bias
+showed low statistical significance, they cannot be considered conclusive on their own given the small
+sample size and their closeness to statistical significance. There has been ambiguity in distinguishing
+different periods in previous studies on the effects of pre- and postnatal antibiotic use. Further, small
+experimental and large investigative studies reported contradicting findings due to the difficulty of
+adjusting for various confounders, which were described as limitations. Thus, there is a need for large
+controlled experimental or cohort studies adjusting for potential confounders to clearly determine the
+impact of postnatal antibiotic exposure on ASD.
+Notwithstanding these limitations, this study remains significant since it used two-sided
+meta-analyses to systematically analyze the relationship between ASD and early antibiotic exposure
+and provides more evidence on the association between ASD risk and prenatal antibiotic exposure.
+Subsequent studies should further analyze the association of pre- and postnatal antibiotic exposure
+with ASD to contribute towards lowering the ASD risk and the prevention and management of ASD
+in children.
+
+

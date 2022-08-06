@@ -210,7 +210,7 @@ body_layout = dbc.Container(
                 ##### Data:
                 -----
                 For this demonstration, {len(network_df)} words from articles retrieved from pubmed using a search equation, categorised into
-                {len(network_df.topic_id.unique())+1} articles.
+                {len(metadatas)} articles.
 
                 Each Article is shown in different color on the citation map, as shown on the right.
                 """
@@ -272,22 +272,7 @@ body_layout = dbc.Container(
                     md=8,
                 ),
             ]
-        ),
-        dbc.Row(
-            [
-                dcc.Markdown(
-                    """
-            \* 'Commercial use subset' of the CORD-19 dataset from
-            [Semantic Scholar](https://pages.semanticscholar.org/coronavirus-research)
-            used, downloaded on 2/Apr/2020. The displayed nodes exclude papers that do not
-            cite and are not cited by others in this set.
-
-            \* Data analysis carried out for demonstration of data visualisation purposes only.
-            """
-                )
-            ],
-            style={"fontSize": 11, "color": "gray"},
-        ),
+        )
     ],
     style={"marginTop": 20},
 )

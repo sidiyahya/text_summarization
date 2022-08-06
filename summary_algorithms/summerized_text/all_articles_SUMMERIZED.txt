@@ -1,0 +1,197 @@
+SUMMARY SPACY 
+
+
+
+In contrast a Swedish study 
+found that trafficrelated NOx and PM10 exposure during the first year of 
+life were more strongly associated with ASD in less deprived neighbor
+hoods   Kalkbrenner et al 
+ reported that there were no modifying effects of census tract 
+urbanicity  on the association of 
+air toxics with ASD Dickerson et al  found that children from 
+census tracts with higher poverty rates had stronger associations of a 
+combined metals index with ASD  
+• Race 
+Racial differences in effects were examined in only one ecological 
+study in which there was an association of ASD with unhealthy air 
+quality  only among Asians which was not significant OR 
+359  95CI  087  148  pvalue   007  after  adjustment  for  con
+founders  
+342 Maternal factors 
+Two studies reported effect modification by maternal factors one for 
+folic acid intake and one for maternal diabetes In a casecontrol study 
+Goodrich et al  found that children of mothers with low folic acid 
+intake during the first trimester  had 
+stronger associations of ASD with NO2 than mothers with sufficient folic 
+acid intake  
+ Jo et al  reported increased ASD risk associated with 
+first trimester O3  exposure among mothers with gestational diabetes 
+mellitus  diagnosed 24 weeks’ gestation adjusted HR 150 per 
+157 ppb O3  compared to mothers without dia
+betes No O3 associations with ASD were observed among children of 
+mothers with later onset GDM or with preexisting diabetes 
+343 Genetic factors 
+Two  studies  of  interactions  with  genetic  factors  were  identified 
+ Kim et al  examined 15 interactions between 3 types of 
+copy number variation  burden  
+and  5  air  pollutants  NO2  O3  PM25  and  PM10  and  nearroadway 
+pollution Only interactions of O3  exposures during pregnancy per 
+62 ppb with CNV duplication burden per increase of 1356513 base 
+pairs OR  155  and with total CNV burden OR 
+136  were significant In another study ASD risk 
+was increased in association with an interaction of exposure to high 
+PM10 NO2 and dispersionmodeled nearroadway pollution dichoto
+mized at the 75th percentile of each distribution with the MET receptor 
+tyrosine kinase rs CC genotype compared to MET CG or GG 
+genotype  
+4 Discussion 
+Since Windham et al  published the first study of the associ
+ation between prenatal air toxics and the risk of ASD in 2006 more than 
+30 papers have examined air pollutionASD association in diverse pop
+ulations and regions
+In our study both pre and postnatal
+antibiotic use increased the ASD risk use was signiﬁcantly elevated in children with ASD compared to controls to compare or discuss the risk levels of prenatal and postnatal antibiotic use because studies on the
+relationship between ASD risk and postnatal antibiotic use did not specify the prenatal antibiotic
+exposure  Further studies on the relationship between ASD onset and prenatal antibiotic use
+did not speciﬁcally mention a followup on postnatal antibiotic exposure  However the results
+of our bidirectional metaanalysis suggest that prenatal antibiotic exposure is a more potent risk
+factor for ASD This is further indicated by a prebirth cohort study that examined the association
+between pre and postnatal smoking exposure and atopic eczema and reported that only prenatal
+smoking exposure increased the risk of atopic eczema by 711 times compared to postnatal smoking
+exposure  Moreover ASD which is an early complex neurodevelopmental disorder is known
+to develop before the age of three  In particular the fetal period is a crucial period in brain
+development and exposure to harmful environmental factors during this period can substantially
+increase the risk of neurodevelopmental disorders  One study reported that prenatal opiate
+exposure aﬀected brain development  Therefore prenatal antibiotic exposure is believed to be an
+important risk factor for ASD onset  Indeed early postnatal antibiotic exposure is known to
+increase ASD risk However in our study the reduced inﬂuence of postnatal antibiotic exposure on
+increasing ASD risk could be attributed to the age range of our study population 
+Further studies comparing pre and postnatal antibiotic use with adjustment for various confounders
+should be conducted to conﬁrm our results
+
+Selfreported occupations were coded by an
+occupational medicinecertiﬁed physician 
+Bayesian Maximum entropy geostatistical
+method using data from US EPA monitoring
+stations linked to birth certiﬁcate address 
+Land use regression models using data from
+groundmonitoring stations 
+Nationalscale Air Toxics Assessment  from
+US EPA linked to residence address at pregnancy
+
+Gaussian air quality dispersion model using data
+from historical emission databases with data
+from suburban monitoring stations for
+sensitivity analysis 
+Inverse distance weighting method using data
+from Taiwan EPA monitoring stations 
+Near roadway air pollution  based on
+CALINE4 linesource air quality dispersion
+model
+PM25 PM10 NO2 ozone from US EPA data 
+Near roadway air pollution  based on
+CALINE4 linesource air quality dispersion model
+US EPA data 
+Distance to nearest major roadway 
+ASD ascertainment method dfa
+Maternal reporting with subset of 50 cases
+validated by Autism Diagnostic IntervieweRevised
+ 
+Identiﬁcation through the Danish National
+Patient Register and the Danish Psychiatric
+Central Register 
+Autism Asperger’s or “other autism spectrum”
+by maternal reporting with subset of 50 cases
+validated by Autism Diagnostic Interview
+eRevised  
+Diagnosis of ASD based on DSMIVTR criteria
+Identiﬁcation through ADDM Network 
+Biennial ASD prevalence data for 15 sites within
+USA for the years 2000e Identiﬁcation
+through Autism and Developmental Disabilities
+Monitoring  Network 
+Diagnosis of ASD using AutismTics ADHD and
+other Comorbidities inventory 
+telephone interviews 
+Parent reported questionnaires  the
+Pervasive Developmental Problems 
+subscale of the Child Behavior Checklist for
+Toddlers  or Social Responsiveness
+Scale  or psychologistadministered
+Childhood Autism Spectrum Test  
+Diagnosis of ASD from  a qualiﬁed medical
+professional  qualiﬁcation for special education
+under an autism exceptionality or  autistic
+behaviors that meet Diagnostic and Statistical
+Manual of Mental Disorders  
+Diagnosis of ASD based on DSMIVTR criteria
+Identiﬁcation through ADDM Network 
+Diagnosis of autistic disorder based on
+Diagnostic and Statistical Manual 
+criteria Identiﬁcation through California
+Department of Developmental Services 
+records 
+Diagnosis of ASD based on ADIR with assessment
+of autism severity based on the Calibrated Severity
+Score Identiﬁcations through Autism Genetic
+Resource Exchange  a volunteer research
+repository of families from across the United States
+in which typically two or more siblings have a
+diagnosis of ASD 
+Diagnosis of ASD based on International
+Classiﬁcation of Diseases  or DSMIV
+criteria Identiﬁcation through the National
+Patient Register  the Clinical Database for
+Child and Adolescent Psychiatry in Stockholm
+ the Habilitation Register  and
+the Stockholm Regional Health Care Data
+warehouse  
+Diagnosis of ASD based on ICD9CM criteria
+Identiﬁcation through National Health Insurance
+claims 
+Diagnosis of ASD based on ADOS and ADIR
+Identiﬁcation through California DDS records 
+Diagnosis of ASD based on ADOS and ADIR
+Identiﬁcation through California DDS records 
+Authors
+Model Covariates 
+
+Mother’s age education race smoking child’s
+birth year  and child’s sex 
+Child sex child raceethnicity maximum
+education of parents maternal age  35 years
+vs ≤ 35 years and maternal smoking during
+pregnancy 
+Year of birth raceethnicity number of siblings in
+the family maternal age and census block group
+population densityeducation levelmedian
+rent
+Birth weight gestational weeks disease history
+trauma history maternal age familial mental
+health history parents’ marital status parental
+relationship parenting income parents’
+educational level and smoking status 
+Sex birth month birth year maternal age
+maternal birthplace and neighborhoodlevel
+urbanicity and income band 
+
+
+Maternal age at birth maternal education
+paternal education cousin marriage maternal
+smoking during pregnancy birth order
+gestational age  multiple births
+maternal disease paternal disease
+
+Sex year of birth month of birth maternal age
+at birth paternal age at birth and census income
+
+
+College education smoking race and mom’s age
+
+Maternal age at birth year of birth maternal
+parents’ education Census tract median income
+Census tract  college educated and HAP model
+year 
+
+
+----------------FIN------------------

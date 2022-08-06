@@ -1,0 +1,231 @@
+SUMMARY SPACY 
+
+
+
+The Funnel plots in Fig E1  overall shows little bias
+of publication Fig E2 demonstrates each study’s relative contri
+bution to the metaestimates for each air pollutant We found 1 to 3
+studies contributed at least 20 of each pollutant two out of 9
+studies  for PM25 three out of 9 studies
+
+
+studies  for NO2 and one out of 4
+studies  for ozone This implies the metaestimates
+are overall sensitive to a few speciﬁc studies
+While all studies contained casecontrol designs except 2
+studies Pagalan et al  and Guxens et al  Guxens et al
+used a cohort study for the prenatal period only  for PM25
+PM10 and NO2 reporting the ORs for EU and 4 individual countries
+We approached this study for our metaanalysis in two ways 
+excluding it to include casecontrol studies only and  including it
+as four individual studies meaning a total of 12 studies for PM25 12
+studies for PM10 and 10 studies for NO2 Overall the metaestimates
+were comparable with little difference in signiﬁcance regardless of
+the Guxens study 
+To focus on maternal exposure our metaanalysis excluded two
+studies in Table 1 because they reported the ORs for a postnatal
+period only  or a combined period with prenatal
+period  but included 5 studies that reported pre
+conception or postnatal periods along with prenatal period
+Kalkbrenner et al 2015 Raz et al 2015 2018
+Hispanic
+ethnicity  college educated rural geography
+and  below poverty 
+Selfreported ﬁnancial hardship between 3
+months before pregnancy to time of interview
+ child’s year of birth vitamin A and zinc
+intake during the ﬁrst month of pregnancy
+
+Windham
+et al
+
+Child sex child raceethnicity maximum education
+of parents maternal age 
+and maternal smoking during pregnancy 
+Kalkbrenner
+
+
+Race maternal ageeducation smoking during
+pregnancy marital status census tract median
+household income urbanicity 
+Maternal age education raceethnicity
+maternal place of birth type of birth parity
+insurance type gestational weeks at birth
+
+
+State birth year race maternal ageeducation
+census group median household income census
+group urbanization calendar week of child’s birth
+
+
+Parity gender maternal age during
+pregnancy maternal smoking during pregnancy
+maternal marital status at birth year parental
+education family income and neighborhood
+deprivation at birth year 
+Jung et al
+
+Goodrich
+et al
+
+Kim et al
+
+Maternal characteristics education country of
+birth age at delivery prepregnancy body mass
+index height prenatal smoking and parity child’s
+sex season at child’s birth urbanicity at child’s
+birth address and child’s age at autistic traits
+assessment and evaluator of the autistic traits cos
+proportional hazard
+Sex birth month sibling order maternal age
+paternal age mother’s marital status parents’
+birth countries mother’s education
+employment father’s educationemployment
+disposable income within household and
+neighborhood deprivation unconditional
+logistic
+Sex max education in the home referral center
+race mother’s age prenatal smoking season of
+conception and home ownership 
+H Chun et al  Environmental Pollution 256  113307
+Air pollutant measurement method aca
+Dispersion models using HAP NATA from US EPA
+linked to residence at birth 
+Danish Air Quality Monitoring Program which
+utilizes the geographic information system
+based air pollution and human exposure
+modelling system  
+Spatiotemporal models using data from US EPA
+
+Gaussian air quality dispersion model National
+scale Air Toxics Assessment  from US EPA
+
+US Environmental Protection Agency’s  Air
+Quality Index  PM25 sunlight and max heat
+index over the period 1992e
+Selfreported occupations were coded by an
+occupational medicinecertiﬁed physician 
+Bayesian Maximum entropy geostatistical
+method using data from US EPA monitoring
+stations linked to birth certiﬁcate address 
+Land use regression models using data from
+groundmonitoring stations 
+Nationalscale Air Toxics Assessment  from
+US EPA linked to residence address at pregnancy
+
+Gaussian air quality dispersion model using data
+from historical emission databases with data
+from suburban monitoring stations for
+sensitivity analysis 
+Inverse distance weighting method using data
+from Taiwan EPA monitoring stations 
+Near roadway air pollution  based on
+CALINE4 linesource air quality dispersion
+model
+PM25 PM10 NO2 ozone from US EPA data 
+Near roadway air pollution  based on
+CALINE4 linesource air quality dispersion model
+US EPA data 
+Distance to nearest major roadway 
+ASD ascertainment method dfa
+Maternal reporting with subset of 50 cases
+validated by Autism Diagnostic IntervieweRevised
+ 
+Identiﬁcation through the Danish National
+Patient Register and the Danish Psychiatric
+Central Register 
+Autism Asperger’s or “other autism spectrum”
+by maternal reporting with subset of 50 cases
+validated by Autism Diagnostic Interview
+eRevised  
+Diagnosis of ASD based on DSMIVTR criteria
+Identiﬁcation through ADDM Network 
+Biennial ASD prevalence data for 15 sites within
+USA for the years 2000e Identiﬁcation
+through Autism and Developmental Disabilities
+Monitoring  Network 
+Diagnosis of ASD using AutismTics ADHD and
+other Comorbidities inventory 
+telephone interviews 
+Parent reported questionnaires  the
+Pervasive Developmental Problems 
+subscale of the Child Behavior Checklist for
+Toddlers  or Social Responsiveness
+Scale  or psychologistadministered
+Childhood Autism Spectrum Test  
+Diagnosis of ASD from  a qualiﬁed medical
+professional  qualiﬁcation for special education
+under an autism exceptionality or  autistic
+behaviors that meet Diagnostic and Statistical
+Manual of Mental Disorders  
+Diagnosis of ASD based on DSMIVTR criteria
+Identiﬁcation through ADDM Network 
+Diagnosis of autistic disorder based on
+Diagnostic and Statistical Manual 
+criteria Identiﬁcation through California
+Department of Developmental Services 
+records 
+Diagnosis of ASD based on ADIR with assessment
+of autism severity based on the Calibrated Severity
+Score Identiﬁcations through Autism Genetic
+Resource Exchange  a volunteer research
+repository of families from across the United States
+in which typically two or more siblings have a
+diagnosis of ASD 
+Diagnosis of ASD based on International
+Classiﬁcation of Diseases  or DSMIV
+criteria Identiﬁcation through the National
+Patient Register  the Clinical Database for
+Child and Adolescent Psychiatry in Stockholm
+ the Habilitation Register  and
+the Stockholm Regional Health Care Data
+warehouse  
+Diagnosis of ASD based on ICD9CM criteria
+Identiﬁcation through National Health Insurance
+claims 
+Diagnosis of ASD based on ADOS and ADIR
+Identiﬁcation through California DDS records 
+Diagnosis of ASD based on ADOS and ADIR
+Identiﬁcation through California DDS records 
+Authors
+Model Covariates 
+
+Mother’s age education race smoking child’s
+birth year  and child’s sex 
+Child sex child raceethnicity maximum
+education of parents maternal age  35 years
+vs ≤ 35 years and maternal smoking during
+pregnancy 
+Year of birth raceethnicity number of siblings in
+the family maternal age and census block group
+population densityeducation levelmedian
+rent
+Birth weight gestational weeks disease history
+trauma history maternal age familial mental
+health history parents’ marital status parental
+relationship parenting income parents’
+educational level and smoking status 
+Sex birth month birth year maternal age
+maternal birthplace and neighborhoodlevel
+urbanicity and income band 
+
+
+Maternal age at birth maternal education
+paternal education cousin marriage maternal
+smoking during pregnancy birth order
+gestational age  multiple births
+maternal disease paternal disease
+
+Sex year of birth month of birth maternal age
+at birth paternal age at birth and census income
+
+
+College education smoking race and mom’s age
+
+Maternal age at birth year of birth maternal
+parents’ education Census tract median income
+Census tract  college educated and HAP model
+year 
+
+
+----------------FIN------------------

@@ -1,0 +1,1065 @@
+more children are being diagnosed with ASD The overall preva
+lence of ASD increased from 11 in 2012 to 17 in 2014 based on
+an analysis of medical and school records of 8yearolds from 11
+monitoring sites across the US Baio et al 2018 Dawson and
+Bernier 2013 US EPA 2013 Some of the increase in the preva
+lence of ASD may be related to increased monitoring and a
+broadening of diagnostic criteria Rice et al 2012 Dawson and
+Bernier 2013
+It is unclear whether and to what extent environmental factors
+have contributed to the recent increase in ASD Previous studies
+suggested that both genetic and environmental factors might play a
+role in ASD  One environmental risk factor
+of interest in the etiology of ASD is exposure to ambient air
+pollution There are six common air pollutants called criteria pol
+lutants identiﬁed by the US Clean Air Act of 1970 groundlevel
+ozone  lead particulate matter  carbon monoxide
+ nitrogen dioxide  and sulfur dioxide  which are
+the only air pollutants under national air quality standards
+PM is a complex mixture classiﬁed by size into PM25 25 mm in
+diameter and PM10  that vary by place and time
+depending on local industries and infrastructure Main emission
+sources of the others have been known chemical reactions trans
+portation and other combustion products Roberts et al 2013
+Volk et al 2011 2013 Talbott et al 2015ab US EPA 2018
+While a few studies in Europe have reported no association
+ a number
+of studies in the US and other countries have reported associations
+between maternal exposure to ambient air pollution and ASD in
+children Volk et al 2011 2013 Becerra et al 2013 Roberts et al
+2013 Kalkbrenner et al 2010 2015 Raz et al 2015 Talbott et al
+2015a The different ﬁndings may be related to several factors ASD
+ascertainment method air pollutant and study population The
+European studies took into account autistic traits and also exam
+ined NOx and PM10 instead of NO2 and PM25 or multicountries
+which would be more heterogeneous than a single country The
+differences between US and Europe could be explained by differ
+ences on air pollution levels and sources
+Even though epidemiologic studies found maternal exposure to
+air pollutants associated with the ASD the mechanism underlying
+this association was not clearly understood Recent animal exper
+iments with mice found that exposure to unhealthy levels of par
+ticulate matter during pregnancy could cause subtle changes in the
+structure of the cerebral cortex the outer layer of neural tissue of
+the cerebrum of the brain as seen in the brains of autistic patients
+ A possible mechanism is related to increased
+neuroinﬂammation which leads to decreased expression of the
+protein reelindwhich activates a signaling pathway required for
+proper positioning of neurons in the braindboth events common
+with autism 
+Some studies on human pregnancy have found that prenatal
+exposure to air pollution during the developmental stage of the
+central nervous system may be linked to a systemic inﬂammatory
+response which could result in neuronal injury Sunyer 2008
+Kalkbrenner et al 2015 Kerin et al 2018 Other studies have also
+reported that prenatal exposure to environmental toxicants may be
+associated with ASD Rossignol et al 2014 Wong et al 2015 Ye
+et al 2017 However the relationship between exposure time
+and fetal development remains unclear
+There have been some differences in ﬁndings and approaches by
+previous systematic reviews and metaanalyses Lam et al 2016
+FloresPajot et al 2016 Yang et al 2017 Lam et al concluded that
+there was limited evidence for associations between overall air
+pollution exposure in early life and ASD but they found sufﬁcient
+evidence most notably between prenatal exposures to PM25 or
+PM10 and ASD FloresPajot et al investigated varied exposure times
+H Chun et al  Environmental Pollution 256  113307
+and found evidence that prenatal exposure to PM25 and ozone and
+postnatal exposure to PM25 and NO2 were associated with ASD
+Yang et al pointed out that a semiBayesian logistic model might
+improve the plausibility and stability of estimates They discussed
+the need for some welldesigned studies with a large sample less
+misclassiﬁcation or measurement of individuallevel exposures
+and consideration of multiple confounders
+For metaanalysis there are four areas for further investigations
+regarding associations between air pollutants and ASD develop
+ment in children which pollutant 
+to what extent  what method ﬁxed vs random effects
+model and when  Adverse health effect of
+maternal exposures to ambient air pollution on children may vary
+according to the exposure time A natural question is if there is a
+critical time window of exposure that is more associated with ASD
+development in children
+In this systematic review we conducted a systematic search of
+literature on maternal exposure to ambient air pollution and ASD
+since 2007 which resulted in an ultimate focus on PM25 PM10 NO2
+and ozone This focus was mainly due to eligible studies’ avail
+ability not our preference for the four pollutants We also examined
+the exposure time by trimester considering fetal development
+during pregnancy
+2 Materials and methods
+21 Search strategy
+The protocol of this study was registered in PROSPERO Chun
+et al 2018 No CRD42018104041 A systematic literature search
+in Medline Embase and Web of Science was performed using the
+combination of Medical Subject Headings  related to ASD
+and maternal exposure  to air
+pollution since 2007 We included criteria air contaminants haz
+ardous air pollutants  and related pollutants eg SO2 NOx
+VOCs persistent organic pollutants 
+heavy metals  and toxicants  We used
+several keywords for HAP with the help of a librarian at the Ottawa
+Hospital Searches were limited to studies with an abstract pub
+lished in the English language with a publication date between
+January 1 2007 and April 30 2019 to focus on recent research
+22 Study eligibility criteria
+We used Covidence  to screen studies based on
+title and abstract Covidence is a Cochrane technology platform that
+enables the whole review team to collaborate remotely by keeping
+full records of who voted to include a study and capturing reasons
+for exclusion so reviewers can resolve any disagreements We
+identiﬁed eligible articles for this study using the following inclu
+sion criteria
+including
+ecological casecontrol and cohort studies  study participants
+included children andor mothers  ASD diagnosis was made
+based on clinical assessments selfreport questionnaires or struc
+tured interviews  measure of air pollution exposure or during
+conception and pregnancy  or at the time of
+birth  or during childhood 
+and  information on the sample size and air pollution The
+exclusion criteria were  studies that used animal models  full
+article not in English and  abstracts case reports comments
+reviews conference proceedings or book chapters
+23 Data extraction
+After reviewing abstracts we shortlisted fulltext articles for
+ study design was observational
+24 Assessment of risk of bias
+Risk of bias was assessed using the NewcastleOttawa Quality
+Assessment Scale   and Lam et al’s navi
+gation guide  The NOS consists of eight items to evaluate
+sources of bias such as deﬁnition and selection of case and controls
+adequate sample size comparability of cases and controls on the
+basis of the design or analysis and nonresponse rate Studies were
+given a maximum of 1 point for each of the seven items and 2
+points for comparability only making the maximum score 9 points
+Higher scores suggested a lower risk of bias According to Lam
+et al’s navigation guide we also rated each study as “high quality”
+“moderate quality” and “low quality” in terms of exposure assess
+ment selective outcome reporting and conﬁdence in effect esti
+mates We set up a cutoff score of 7 with the NOS and “moderate
+quality” with the navigation guide for this review study to maintain
+low risk of bias
+25 Metaanalysis
+First we categorized eligible studies by air pollutant PM25
+PM10 NO2 and ozone exposure time all the prenatal period and
+each trimester separately study design cohort casecontrol
+ecological and modelling population covariates and regres
+sion The 4 exposure time periods were included to assess time
+varying associations Second we derived metaestimates for ASD
+associated with the 4 air pollutants We applied both frequentist
+and Bayesian approaches for ﬁxed effect model and random effects
+model for each air pollutant and each exposure time to calculate
+the pooled odds ratios  per 10 units of that pollutant PM25
+and PM10 in mgm and NO2 and ozone in parts per billion 
+Since we were concerned with the small number of studies
+included for each air pollutant we employed a Bayesian random
+effects model in addition to frequentist ﬁxed and random effects
+models The Bayesian pooling method can reﬂect more uncertainty
+of pooled OR than frequentist pooling  For a given
+air pollutant we assumed that the observed studyspeciﬁc ORs log
+scale were normally distributed with unknown true studyspeciﬁc
+mean and variance and that the true studyspeciﬁc means were
+normally distributed with unknown air pollutantspeciﬁc mean 
+and variance s
+i  which indicated the heterogeneity among the
+studies
+Þ was
+limited noninformative priors diffused over a large range for each
+mean and standard deviation were applied In this study the me
+dian of the posterior distribution of the mean mi will be reported as
+the metaanalysis pooled log  along with 95 posterior interval
+
+Since information on both mean  and variance ðs
+Various tests for heterogeneity using I2 and Qstatistic with
+degrees of freedom as well as the pvalue of the test were done In
+addition we included Egger test and Funnel plots to show the
+publication bias since publication of positive ﬁndings has been an
+important concern in metaanalytic reviews of the literature The
+degree of symmetry found in funnel plots indicates absence of
+publication bias 
+Sensitivity analyses over study design and exposure time were
+also undertaken to assess the robustness of the results All
+H Chun et al  Environmental Pollution 256  113307statistical analyses for this study were conducted using statistical
+software R Stan and Metafor 
+3 Results
+31 Search results
+Our study selection process following the PRISMA ﬂow chart is
+shown in were identiﬁed through the search strategy of which 994 publi
+cations were included once duplicates were removed After
+excluding studies that were nonhuman or nonair pollutant 62
+articles were shortlisted for the fulltext assessment which
+resulted in further exclusion of 37 articles for various reasons
+Finally 25 eligible articles were included in our review
+32 Study characteristics
+Table 1 shows the characteristics of the included studies sorted
+by publication year The 25 eligible studies were conducted in 11
+countries USA  Sweden  Netherlands  Italy  Spain 
+Taiwan  China  Canada  Denmark  Iran  and Israel
+ While 24 studies were done for a single country a study by
+Guxens et al was conducted in the 4 countries in Europe simulta
+neously As for study design there were 21 casecontrol studies 3
+cohort studies and 1 ecological study While the casecontrol and
+cohort designs were based on individual level data the ecological
+design used either exposure or ASD occurrence at group level
+Studies published between 2007 and 2019 were initially searched
+to minimize discrepancy in their ASD deﬁnition and diagnosis
+methods considering recent year studies more comparable Of
+those studies for 2010e were considered for systematic re
+view based on the four selected air pollutants and studies for
+2013e were included for metaanalysis based on the exposure
+time  given the sudden increase in
+the prevalence of ASD that might be related to broadening diag
+nostic criteria  This is
+desirable for metaanalysis because it reduced betweenstudy dif
+ferences related to diagnosis methods
+Among the 25 eligible studies 23 with the exception of two on
+the postnatal period speciﬁcally assessed prenatal air pollution
+and of those 11 included trimesterspeciﬁc analyses The most
+commonly assessed air pollutant was PM10 which was included in
+14 studies followed by PM25  NO2  ozone
+ trafﬁcrelated air pollution  and SO2 3
+studies Nineteen studies identiﬁed ASD cases using records from
+existing autism databases such as the US Autism and Develop
+mental Disabilities Monitoring  Network the California
+Department of Developmental Services  and the British
+Columbia Autism Assessment Network Other studies utilized ASD
+screening tools such as the AutismTics ADHD and other Comor
+bidities  inventory to ascertain cases to be included in the
+studies The other 2 studies used maternal reports and validated by
+Autism Diagnostic Interview 
+See more details on model covariates air pollutant concentration
+measurement methods and ASD ascertainment methods in
+Table A1 in Appendix We looked at the studies by study period
+since the prevalence of ASD has risen dramatically in recent years
+and there is a need to see how air pollution might be contributing
+to the increased prevalence However recent studies with recent
+birth cohort show that there is no association between maternal air
+pollution exposure and ASD indicating that little was known about
+the potential association between exposure and ASD
+33
+Inclusion and exclusion of studies for metaanalysis
+We applied both the NOS  and Lam
+et al’s navigation guide to the 25 eligible studies based on their
+characteristics in Table 1 and Table A1  By inclusion
+exclusion criteria we found that four air pollutants PM25 PM10
+NO2 and ozone had at least 3 comparable studies with comparable
+exposure time  which were required for meta
+analysis We excluded 11 studies since they reported other air
+pollutants  examined preconception or postnatal
+period  or other reasons  as summarized in
+screening tools resulted in the same quality of the 14 selected
+studies for the metaanalysis The 14 studies had a median score of
+8  from the NOS and high or moderate quality from the
+navigation guide indicating low bias
+34 Study ﬁndings from systematic review association between air
+pollutants and ASD
+PM25 Of the 13 studies that assessed PM25 exposure 5 found
+signiﬁcant associations with ASD In 2013 Becerra et al and Volk
+et al both used California DDS records for ASD cases and reported
+signiﬁcant ORs 107  per 468 mgm and 208 
+H Chun et al  Environmental Pollution 256  113307
+per 887 mgm respectively In 2018 however 2 other studies
+Goodrich et al and Kerin et al found no association even though
+their study populations also consisted of Californian children In
+2015 Raz et al found an increased OR of 142  per
+440 mgm especially for trimester 3 based on the Nurses’ Health
+Study II Furthermore in 2017 Kim et al found PM25 and total copy
+number variations  a type of genomic changes that
+contribute to autism susceptibility together were associated with a
+higher risk of ASD than PM25 alone There is also evidence to
+suggest an association between postnatal PM25 exposure and ASD
+In 2018 Chen et al found that PM25 exposure in the 2nd and 3rd
+year of life resulted in an OR of 150  and 178 
+respectively per 34 mgm As well in 2018 Ritz et al reported that
+at 9 months of age there is an OR of 104  per 361 mgm
+Excluding 4 studies AlHamdan et al 2018 Kerin et al 2018 Kim
+et al 2017 Chen et al 2018 due to ecological study designs
+different methods of ascertaining cases and controls or longer
+exposure time  we
+included the remaining 9 studies for our metaanalysis Metaan
+alyses with 11 studies with postnatal studies Kim et al 2017 Chen
+et al 2018 were done in the sensitivity analysis later
+PM10 Of the 14 studies that assessed the association between
+PM10 exposure and ASD 3 studies found signiﬁcant associations In
+2013 Volk et al found an increased OR of 217  per
+
+35 hazardous air pollutants HAPs eg diesel PM
+metals solvents assessed by the US EPA National
+Air Toxics Assessment in 1996
+22153 Unhealthy Air Quality Index  level which
+accounts for PM ozone CO and SO2 PM25
+
+
+155 air toxics  assessed by the US
+EPA National Air Toxics Assessment in 1996 1999
+2002 and 2005
+NOx from 1990 1995 2000 2002e PM10
+from 2004
+Ozone CO NO2 PM10 SO2
+48731
+346260 Near roadway air pollution  based on
+CALINE4 linesource air quality dispersion
+model PM25 PM10 ozone NO2 vs folic acid
+supplementation
+158142 Trafﬁcrelated air pollution based on the
+CALINE4 linesource air quality dispersion
+model NO2 ozone PM25 PM10 vs copy number
+variation
+304259 Trafﬁcrelated air pollution  based on
+distance from nearest freeway
+279245 PM25 PM10 NO2 Ozone trafﬁcrelated air
+pollution
+325227 Nearroadway air pollution based on the
+CALINE4 linesource air quality dispersion
+model NO2 ozone PM25 PM10
+
+aeafa146 mgm during prenatal period Two years later in 2015 Kalk
+brenner et al found trimester 3 only associated with an increased
+OR of 140  per 10 mgm In 2017 Kim et al found the
+effects of PM10 combined with the CNV led to a higher OR than
+PM10 alone With regards to postnatal exposures in 2018 Chen
+et al reported an OR of 173  per 49 mgm for PM10
+exposure in the second year of life In contrast the other 10 studies
+Becerra et al 2013 Jung et al 2013 Gong et al 2014 Raz et al
+2015 Guxens et al 2016 Gong et al 2017 Goodrich et al 2018
+Kerin et al 2018 Ritz et al 2018 Youseﬁan et al 2018 found no
+association For metaanalysis  we combined 9 studies after
+excluding 5 studies Jung et al 2013 Kalkbrenner et al 2015 Kim
+et al 2017 Kerin et al 2018 Chen et al 2018 due to a different
+measurement  or postnatal period
+NO2 Of the 12 studies that assessed maternal exposure to NO2
+in relation to ASD 6 studies found signiﬁcant associations In 2013
+Volk et al found signiﬁcant OR of 182  per 141 ppb for
+prenatal period but Jung et al found a signiﬁcant association at
+different time periods depending on ASD diagnosis during the one
+year that preceded a diagnosis at relative risk of 443 
+per 10 ppb In 2018 Ritz et al found NO2 exposure in all trimesters
+to be associated with an increased OR of ASD reporting an OR of
+110  per 1141 mgm increase in NO2 during the entire
+pregnancy period Also in 2018 Kerin et al assessed the association
+with various air pollutants more broadly including ASD severity
+cognitive abilities and adaptive functions
+In the same year
+Goodrich et al assessed NO2 along with diet for mothers with high
+NO2 and found a statistically signiﬁcant difference between low
+and high prenatal folic acid intake On the other hand the other 7
+studies Becerra et al 2013 Gong et al 2014 Guxens et al 2016
+Gong et al 2017 Kim et al 2017 Raz et al 2018 Pagalan et al
+2019 reported no associations We combined 7 studies for meta
+analysis after excluding 5 studies Jung et al 2013 Gong et al
+2014 Gong et al 2017 Kim et al 2017 Kerin et al 2018 with
+longer exposure time than prenatal period or NOx
+Ozone Out of 7 studies that assessed a link between maternal
+exposure to ozone and ASD 2 found signiﬁcant associations In
+2013 Becerra et al found that in a twopollutant model with ozone
+and PM25 the prenatal exposure to ozone resulted in an increased
+OR of 112  per 1154 ppb Jung et al also found an
+increased hazard ratio of ASD for ozone exposure during the one
+year prior to an ASD diagnosis However 5 studies Goodrich et al
+2018 Kerin et al 2018 Kim et al 2017 Volk et al 2013 Kaufman
+et al 2019 found no associations Among the 7 studies we
+included 4 studies for metaanalysis excluding 3 studies Jung
+et al 2013 Kim et al 2017 Kerin et al 2018 with longer expo
+sure time
+35 Metaanalysis
+351 Airpollutantspeciﬁc association with ASD
+3511 Association between PM25 and ASD Nine studies were
+included in the metaestimate of the association between maternal
+exposure to PM25 and ASD While 8 studies estimated the OR for
+each trimester and prenatal period 1 study  did for
+the prenatal period  only Table C1  summarizes
+the studyspeciﬁc ORs and 95 conﬁdence intervals by exposure
+time As displayed in more visible than the differences betweenexposure time for each
+trimester The heterogeneity test  ¼ 17494 pval  0001
+I2 ¼ 9122
+signiﬁcant betweenstudy differences
+ The metaestimates and 95 posterior in
+tervals on the right in results between frequentist and Bayesian models While the fre
+quentist ﬁxed and random models resulted in statistically
+
+H Chun et al  Environmental Pollution 256  113307
+signiﬁcant ORs the Bayesian random effects model resulted in a
+marginally signiﬁcant OR per 10 mgm 108  106 101
+111 and 106  from ﬁxed random and Bayesian models
+respectively 
+3512 Association between PM10 and ASD Nine studies were
+considered for the metaestimate and Table C2 summarizes the
+studyspeciﬁc ORs While 4 studies estimated the OR for each
+trimester and the prenatal period 1 study 
+did for T1 T2 and T3 separately only and 2 studies Gong et al
+2017 Guxens et al 2016 did for T4 only The heterogeneity test
+ ¼ 2033 pval ¼ 0092 I2 ¼ 7496 suggests consider
+able heterogeneity among the studies The metaestimates from 3
+methods 
+3513 Association between NO2 and ASD Seven studies were
+considered for the metaestimate and Table C3 summarizes the
+studyspeciﬁc ORs The heterogeneity test  ¼ 1758 p
+val ¼ 0074
+considerable heterogeneity
+among the studies The metaestimates show no signiﬁcant ORs
+and signiﬁcant ORs but the Bayesian random effects model did not
+102  102  and 102  per 10 ppb
+from ﬁxed random and Bayesian models respectively See Fig F3
+for logscale in Appendix F
+3514 Association between ozone and ASD Four studies were
+considered for the metaestimate and Table C4 summarizes the
+studyspeciﬁc ORs The heterogeneity test  ¼ 564 p
+I2 ¼ 5831
+suggests
+H Chun et al  Environmental Pollution 256  113307
+val ¼ 13 I2 ¼ 554 suggests no heterogeneity The metaestimates
+of ozone returned inconsistent results between frequentist and
+Bayesian models 352 Timespeciﬁc associations with ASD
+3521 During pregnancy  Guxens et al reported the ORs for
+the prenatal period only  for EU and 4 individual countries We
+considered this particular study as one  for meta
+analysis We checked publication bias through funnel plots for
+prenatal period  only  None displayed considerable
+publication bias as all plots showed symmetric distributions In
+addition Egger’s test  was not statistically
+signiﬁcant so there’s no evidence of publication bias according to
+this test  Among the 4 air pollutants PM25 and
+ozone returned the highest and lowest OR respectively 
+The two frequentist ﬁxed and random effects models returned
+signiﬁcant pooled OR for PM25 and ozone but not for PM10 and NO2
+ No Bayesian model
+returned signiﬁcant pooled OR
+ Table C5 summarizes the meta
+3522 First
+estimates for trimester 1 PM25 and ozone returned the highest
+and lowest OR respectively Both frequentist models denoted by
+Fixed and Random returned signiﬁcant OR for PM25 and NO2
+whereas Bayesian random effects models did not for PM10 NO2 and
+ozone 
+ Table C6 summarizes meta
+3523 Second trimester
+estimates for trimester 2 Again PM25 and ozone returned the
+highest and lowest OR respectively Both frequentist models
+trimester
+pregnancy period combining three trimesters  and T4Meta metaanalysis pooled estimates for prenatal period  only  For interpretation of the
+references to colour in this ﬁgure legend the reader is referred to the Web version of this article
+pregnancy period combining three trimesters  and T4Meta metaanalysis pooled estimates for prenatal period  only  For interpretation of the
+references to colour in this ﬁgure legend the reader is referred to the Web version of this article
+returned signiﬁcant OR for PM25 and NO2 whereas the Bayesian
+random effects models did not for all air pollutants Fig D3a and b
+in log scale
+3524 Third trimester  Table C7 summarizes metaestimates
+H Chun et al  Environmental Pollution 256  113307
+for trimester 3 which was different from the two earlier tri
+mesters Both frequentist models returned signiﬁcant ORs for
+PM25 NO2 and ozone However the Bayesian random effects model
+did not show signiﬁcant ORs for all air pollutants Fig D4a and b in
+log scale
+Table 2
+Association between ASD and air pollutant during prenatal period 
+Exposure
+PM25201319
+PM10201318
+NO2201319
+Ozone
+a Fixed frequentist ﬁxed effect model Random frequentist random effects
+model and Bayesian Bayesian random effects model Bold indicates statistical
+signiﬁcance Round off the ORs to two decimal digits
+3525 Temporal changes in associations over trimesters metaestimate for PM25 only Overall they showed most and least
+consistency for T1 and T3 respectively Combining the 8 studies
+the Bayesian metaestimates returned a slightly increasing trend
+but not statistically signiﬁcant changes in the ORs 102 104 and
+104 for trimesters 1 to 3 respectively
+For PM25 PM10 NO2 and ozone Table C8 summarizes meta
+estimates Overall except for NO2 an increasing trend over the
+trimester was in common among the 4 air pollutants
+353 Sensitivity analysis 
+The Funnel plots in Fig E1  overall shows little bias
+of publication Fig E2 demonstrates each study’s relative contri
+bution to the metaestimates for each air pollutant We found 1 to 3
+studies contributed at least 20 of each pollutant two out of 9
+studies  for PM25 three out of 9 studies
+
+
+studies  for NO2 and one out of 4
+studies  for ozone This implies the metaestimates
+are overall sensitive to a few speciﬁc studies
+While all studies contained casecontrol designs except 2
+studies Pagalan et al  and Guxens et al  Guxens et al
+used a cohort study for the prenatal period only  for PM25
+PM10 and NO2 reporting the ORs for EU and 4 individual countries
+We approached this study for our metaanalysis in two ways 
+excluding it to include casecontrol studies only and  including it
+as four individual studies meaning a total of 12 studies for PM25 12
+studies for PM10 and 10 studies for NO2 Overall the metaestimates
+were comparable with little difference in signiﬁcance regardless of
+the Guxens study 
+To focus on maternal exposure our metaanalysis excluded two
+studies in Table 1 because they reported the ORs for a postnatal
+period only  or a combined period with prenatal
+period  but included 5 studies that reported pre
+conception or postnatal periods along with prenatal period
+Kalkbrenner et al 2015 Raz et al 2015 2018 Talbott et al 2015a
+Volk et al 2013 We combined these studies in 3 ways as shown in
+Table C10 to extend exposure time periods
+ T4 preconception period only or T4þpreconception combined
+ T4 postnatal period only or T4þ postnatal period combined
+and
+ T4 preconception period postnatal period or combined period
+If one study included before  and after post
+natal the prenatal period  respectively we included the study
+as 3 individual studies with each exposure time Thus the number
+of studies is bigger than reported in Table C9 The metaestimates of
+ORs within each air pollutant are consistently higher for the period
+of prenatal or postnatal combined but lower for the period of
+prenatal or preconception combined Overall metaestimates of
+the prenatal combined with postnatal period appeared to be higher
+than the prenatal period only
+4 Discussion
+This systematic review summarized 25 studies that examined
+the association between maternal exposure to ambient air pollut
+ants and ASD in children The study ﬁndings were inconsistent and
+metaanalyses were applied to pool the study results We grouped
+the studyspeciﬁc ORs by air pollutant PM25 PM10 NO2 and
+ozone and exposure time  and found limited evidence
+for positive associations Among the four air pollutants PM25
+resulted in the highest OR for the prenatal period 106
+and 106 from frequentist and Bayesian random effects
+model respectively The odds of ASD in children were 6 higher
+through maternal exposure to PM25 However PM25 is a mixture of
+various ﬁne particles and thus further investigations to examine
+speciﬁc PM components linked to ASD are necessary to analyze this
+difference between PM25 and the other three pollutants
+Exposure time differences
+in 4 predetermined periods
+ and 2 more extended periods to pre
+conception and postnatal period were examined under sensitivity
+analysis All metaestimates were comparable implying little dif
+ference regarding exposure time related to pregnancy However
+there was an uncertain indication that postnatal exposures might
+be more linked to the ASD than preconception which was
+consistent among the 4 pollutants The trend in the trimester
+speciﬁc ORs was investigated Trimester 3 was found to be more
+associated with the ASD than the others The myelin sheath is a
+plasma membrane extension that is laid down in regularly spaced
+segments along axons of the nervous system This process involves
+extensive changes in oligodendrocyte cell shape and membrane
+architecture Myelination starts around 24e weeks of gestation
+and reaches its peak by 1 year of age  Imaging
+and biopsy of the brains of autistic children have shown a deﬁcit in
+myelination as compared to normal children Aoki et al 2013
+Zikopoulos and Barbas 2010 Such a diminution would weaken the
+operation of the axontarget synapse thereby accounting for the
+malfunction of areas of the brain involved in behavior This would
+include the prefrontal and temporal areas of the brain As the
+myelination process starts late second trimester it could have more
+impact on the third trimester This might explain a ﬁnding of this
+study that the associations between air pollution and the ASD are
+likely higher for the third trimester compared to the others A
+H Chun et al  Environmental Pollution 256  113307
+temporal
+trend in associations during pregnancy cannot be
+concluded due to the discrepancies between studies and the dis
+agreements in signiﬁcance between metaanalysis methods sig
+niﬁcance by frequentist vs insigniﬁcance by Bayesian
+It is widely recognized that the etiology of ASD is complex and
+related to many factors including genetic background environ
+mental risk factors and geneenvironment interactions Landrigan
+et al 2012 Dawson and Bernier 2013 Earlier research on the
+cause of ASD focused largely on genetic changes or mutations
+Autism Genome Project Consortium et al 2007 Landrigan et al
+2012 Von Ehrenstein et al 2014 However it is now understood
+that the perinatal period is critical for brain development Thus
+exposure to environmental chemicals during this time could
+disturb normal neurodevelopment
+Eskenazi et al 2007
+Landrigan et al 2012 Ye et al 2017 therefore providing a plau
+sible link between environmental risk factors and ASD Our sys
+tematic review which is updated by including more recent studies
+provides similar ﬁndings to the previous studies Becerra et al
+2013 Raz et al 2015 While there was some evidence indicating
+maternal exposure to PM25 may increase the risk of ASD evidence
+for the effect of ozone PM10 and NO2 on ASD is weak or limited An
+increase in the number of studies for a future metaanalysis would
+improve statistical power to identify associations between air
+pollutants and ASD
+41 Difference by exposure time
+The ﬁve studies in practice the difference can be detected when the maternal expo
+sure concentrations vary over time or when some effect modiﬁers
+including behaviors  changes over time For
+example the former can be explained if the mothers avoided going
+outside during a speciﬁc trimester and the latter can result if they
+were on medications or dietary supplements for a speciﬁc
+trimester
+While two air pollution studies Kalkbrenner et al 2015 Raz
+et al 2015 concluded ASD associations to be speciﬁc to the third
+trimester the mechanism remains largely unknown Weisskopf
+et al  speculated that women working outside the home
+may be more focused on prescribed rest or maternal leave in the
+third trimester This workpattern change may open more time for
+outside activities which in turn could affect the amount of PM
+exposure However other potentially relevant studies on physical
+and mental behavior changes suggest varied results often in
+different trimesters with involvement of certain biological events
+or personal behavior 
+Attempts were made to quantify changes in leisuretime phys
+ical activity  during the ﬁrst half of pregnancy compared with
+the year prior to pregnancy  After
+studying 1175 healthy pregnant women it was concluded that
+pregnancy involved a decrease in LTPA not only in frequency but
+also duration and intensity Physical activity can be further reduced
+due to musculoskeletal pain in the back handwrist and hip factors
+which complicate pregnancy and mobility especially in the third
+trimester  As pregnancy progresses a
+period of emotional and behavioral changes 
+ensues This can include different nutritional choices efforts to
+quit smoking and gestational weight gain  An
+increase in stress can follow causing a depletion of metabolic re
+sources Seebacher et al  concluded that in latestage preg
+nancy the metabolic cost of activity or behavior could render
+reproduction sensitive to environmental changes
+It should be noted that the maternal exposures by trimester are
+correlated which would reduce statistical power to detect differ
+ences in ASD development of children by trimester Studies
+42 Strengths of this review
+Our approach for systematic review in this study is not much
+different from other systematic studies on the ASD For example
+search strategy and metaanalysis are comparable However we
+focused on ﬁve areas including study publication time environ
+mental cause of the ASD target population metaanalysis method
+and timevarying associations  We examined more recent
+studies published by April 2019 and thus could update study
+ﬁndings  The environmental causes of the ASD are still unknown
+and we focused on speciﬁc ambient air pollution  As the diag
+nosis methods ASD have changed we focused in particular on
+children to reduce the discrepancy in diagnosis ASD  As
+mentioned in Discussion we compared three metaanalysis
+methods
+frequentist ﬁxed and random effects models and
+Bayesian random effect model  We demonstrated inconsistent
+timevarying associations over trimesters between air pollutants
+and between studies We believe that this study added updated
+ﬁndings in these ﬁve areas
+Applying a Bayesian random effects model and its associated
+rigors is the primary strength While the ﬁxed effects model con
+siders sampling variation within individual studies only the
+random effects model also consider betweenstudy variations thus
+producing larger standard error of estimates wider interval esti
+mates There are 2 approaches for the random effects model the
+frequentist and Bayesian methods Typically
+the frequentist
+random effects model has been applied to most metaanalysis for
+example recently by Lam et al  and FloresPajot et al 
+A small sampling of studies often results in considerable discrep
+ancies between these methods When discrepancies appear as
+shown in Figs 2e the Bayesian estimates are more reliable in
+integrating multiple studies on the same or comparable research
+questions even though they return weaker evidence than the fre
+quentist estimates In addition there is another reason to consider
+the Bayesian model when there are unusually higher or lower
+study estimates than the others For example Volk et al 
+returned higher ORs with relatively smaller intervals compared to
+the other studies The inﬂuence of this speciﬁc study on the meta
+estimate is reduced by the Bayesian model This is also a preferred
+feature for integrating multistudy results by reducing bias in meta
+analysis
+Secondly the differences in exposuretime during pregnancy for
+each pollutant was evaluated The time variation pattern can differ
+among pollutants While one could be more critical to the earliest
+stage of pregnancy others could affect later stages of pregnancy
+Previous studies centered mainly on the entire pregnancy period
+and assumed the association constant with pregnancy While
+FloresPajot et al  captured critical exposure windows during
+pregnancy  the conclusion
+was that there is a need to track residential mobility during preg
+nancy to account for changes in exposure Similarly Lam et al
+ highlighted the inaccuracy of exposure assessment
+methods in their study limitations FloresPajot et al and Lam et al
+considered misclassiﬁcations of exposures during pregnancy To
+understand observed differences between trimesters this study
+considered maternal changes in physical behavioral and emotional
+aspects
+H Chun et al  Environmental Pollution 256  113307
+43 Limitations of this review
+Lyall et al  conﬁrm that several studies have shown sig
+niﬁcant increases in ASD risk associated with particulate matter
+and heavy metals However diesel exhaust chemicals from trafﬁc
+related pollutants and heavy metals could not be examined since
+many studies  reported the 4 air pollutants only Studies
+with longterm exposure time  were
+excluded since many mainly reported the prenatal period We
+reviewed articles in English only and thus our metaanalysis
+excluded other study results reported in nonEnglish languages
+This could bring in unexpected and unmeasurable bias in our meta
+estimates which is also a limitation of this review
+In a scoping review for environmental factors associated with
+ASD Ng et al  summarized the risk factors as trafﬁcrelated
+air pollutants advanced parental age preterm birth low birth
+weight hyperbilirubinemia and clustering of pregnancy compli
+cations and maternal immigrant status These factors for the meta
+analysis could not be considered due to limited studies Due to
+these limitations this study focused on the 4 air pollutants for
+prenatal period only
+This study reports metaestimates of the OR based on several
+casecontrol studies which is the ratio of odds of exposure among
+the cases to that of the controls The OR approximates the relative
+risk which estimates the magnitude of the association between
+exposure to the speciﬁed ambient air pollutants and the ASD While
+the OR provides relative difference between exposed and unex
+posed groups another measuredattributable riskdindicates ab
+solute difference in the incidence of the ASD between the two
+groups It quantiﬁes the incidence of the ASD in the exposed group
+that could be reduced if not exposed However this study cannot
+provide the attributable risk since the incidence could not be
+determined from the casecontrol studies examined in this study
+With the small barely signiﬁcant ORs  we
+expect the contribution of the speciﬁed pollutants to the overall
+prevalence of ASD is quite small
+5 Conclusion
+Our metaanalysis on the association between maternal expo
+sure to ambient air pollution during the prenatal period and ASD in
+children has produced some evidence for PM25 weak evidence for
+NO2 little evidence for PM10 and inconclusive evidence for ozone
+ The timevarying effects of
+maternal exposure over the 3 trimesters were inconsistent and our
+metaanalysis returned insigniﬁcant changes over
+trimester
+However the noticeable difference in the trimesters among studies
+merits further investigation
+Declaration of competing interest
+The authors declare they have no actual or potential competing
+ﬁnancial interests
+Acknowledgments
+The research was funded through Health Canada’s Addressing
+Air Pollution Horizontal Initiative  in Canada Grant ID
+
+Year of birth calendar month of birth population
+group paternal age and census poverty index
+
+Maternal age paternal age location of birth
+neighborhood SESemployment neighborhood
+SEShousing and maternal smoking during
+pregnancy 
+Maximum education level of parents child’s sex
+and child’s ethnicity based on ancestry
+informative markers in the genome
+
+Age anxiety gender intellectual disabilities
+obsessive compulsive disorder phobia preterm
+and SES 
+Gender race smoking socioeconomic status
+
+Census tract  male  White race  Hispanic
+ethnicity  college educated rural geography
+and  below poverty 
+Selfreported ﬁnancial hardship between 3
+months before pregnancy to time of interview
+ child’s year of birth vitamin A and zinc
+intake during the ﬁrst month of pregnancy
+
+Windham
+et al
+
+Child sex child raceethnicity maximum education
+of parents maternal age 
+and maternal smoking during pregnancy 
+Kalkbrenner
+
+
+Race maternal ageeducation smoking during
+pregnancy marital status census tract median
+household income urbanicity 
+Maternal age education raceethnicity
+maternal place of birth type of birth parity
+insurance type gestational weeks at birth
+
+
+State birth year race maternal ageeducation
+census group median household income census
+group urbanization calendar week of child’s birth
+
+
+Parity gender maternal age during
+pregnancy maternal smoking during pregnancy
+maternal marital status at birth year parental
+education family income and neighborhood
+deprivation at birth year 
+Jung et al
+
+Goodrich
+et al
+
+Kim et al
+
+Maternal characteristics education country of
+birth age at delivery prepregnancy body mass
+index height prenatal smoking and parity child’s
+sex season at child’s birth urbanicity at child’s
+birth address and child’s age at autistic traits
+assessment and evaluator of the autistic traits cos
+proportional hazard
+Sex birth month sibling order maternal age
+paternal age mother’s marital status parents’
+birth countries mother’s education
+employment father’s educationemployment
+disposable income within household and
+neighborhood deprivation unconditional
+logistic
+Sex max education in the home referral center
+race mother’s age prenatal smoking season of
+conception and home ownership 
+H Chun et al  Environmental Pollution 256  113307
+Air pollutant measurement method aca
+Dispersion models using HAP NATA from US EPA
+linked to residence at birth 
+Danish Air Quality Monitoring Program which
+utilizes the geographic information system
+based air pollution and human exposure
+modelling system  
+Spatiotemporal models using data from US EPA
+
+Gaussian air quality dispersion model National
+scale Air Toxics Assessment  from US EPA
+
+US Environmental Protection Agency’s  Air
+Quality Index  PM25 sunlight and max heat
+index over the period 1992e Regression
+models from satellitederived and groundlevel
+measurements 
+Dispersion model using data from historical
+emission databases with data from suburban
+monitoring stations for sensitivity analysis 
+Land use regression models using data from air
+monitoring campaigns in the study areas 
+Selfreported occupations were coded by an
+occupational medicinecertiﬁed physician 
+Bayesian Maximum entropy geostatistical
+method using data from US EPA monitoring
+stations linked to birth certiﬁcate address 
+Land use regression models using data from
+groundmonitoring stations 
+Nationalscale Air Toxics Assessment  from
+US EPA linked to residence address at pregnancy
+
+Gaussian air quality dispersion model using data
+from historical emission databases with data
+from suburban monitoring stations for
+sensitivity analysis 
+Inverse distance weighting method using data
+from Taiwan EPA monitoring stations 
+Near roadway air pollution  based on
+CALINE4 linesource air quality dispersion
+model
+PM25 PM10 NO2 ozone from US EPA data 
+Near roadway air pollution  based on
+CALINE4 linesource air quality dispersion model
+US EPA data 
+Distance to nearest major roadway 
+ASD ascertainment method dfa
+Maternal reporting with subset of 50 cases
+validated by Autism Diagnostic IntervieweRevised
+ 
+Identiﬁcation through the Danish National
+Patient Register and the Danish Psychiatric
+Central Register 
+Autism Asperger’s or “other autism spectrum”
+by maternal reporting with subset of 50 cases
+validated by Autism Diagnostic Interview
+eRevised  
+Diagnosis of ASD based on DSMIVTR criteria
+Identiﬁcation through ADDM Network 
+Biennial ASD prevalence data for 15 sites within
+USA for the years 2000e Identiﬁcation
+through Autism and Developmental Disabilities
+Monitoring  Network 
+Diagnosis of ASD using AutismTics ADHD and
+other Comorbidities inventory 
+telephone interviews 
+Parent reported questionnaires  the
+Pervasive Developmental Problems 
+subscale of the Child Behavior Checklist for
+Toddlers  or Social Responsiveness
+Scale  or psychologistadministered
+Childhood Autism Spectrum Test  
+Diagnosis of ASD from  a qualiﬁed medical
+professional  qualiﬁcation for special education
+under an autism exceptionality or  autistic
+behaviors that meet Diagnostic and Statistical
+Manual of Mental Disorders  
+Diagnosis of ASD based on DSMIVTR criteria
+Identiﬁcation through ADDM Network 
+Diagnosis of autistic disorder based on
+Diagnostic and Statistical Manual 
+criteria Identiﬁcation through California
+Department of Developmental Services 
+records 
+Diagnosis of ASD based on ADIR with assessment
+of autism severity based on the Calibrated Severity
+Score Identiﬁcations through Autism Genetic
+Resource Exchange  a volunteer research
+repository of families from across the United States
+in which typically two or more siblings have a
+diagnosis of ASD 
+Diagnosis of ASD based on International
+Classiﬁcation of Diseases  or DSMIV
+criteria Identiﬁcation through the National
+Patient Register  the Clinical Database for
+Child and Adolescent Psychiatry in Stockholm
+ the Habilitation Register  and
+the Stockholm Regional Health Care Data
+warehouse  
+Diagnosis of ASD based on ICD9CM criteria
+Identiﬁcation through National Health Insurance
+claims 
+Diagnosis of ASD based on ADOS and ADIR
+Identiﬁcation through California DDS records 
+Diagnosis of ASD based on ADOS and ADIR
+Identiﬁcation through California DDS records 
+Authors
+Model Covariates 
+
+Mother’s age education race smoking child’s
+birth year  and child’s sex 
+Child sex child raceethnicity maximum
+education of parents maternal age  35 years
+vs ≤ 35 years and maternal smoking during
+pregnancy 
+Year of birth raceethnicity number of siblings in
+the family maternal age and census block group
+population densityeducation levelmedian
+rent
+Birth weight gestational weeks disease history
+trauma history maternal age familial mental
+health history parents’ marital status parental
+relationship parenting income parents’
+educational level and smoking status 
+Sex birth month birth year maternal age
+maternal birthplace and neighborhoodlevel
+urbanicity and income band 
+
+
+Maternal age at birth maternal education
+paternal education cousin marriage maternal
+smoking during pregnancy birth order
+gestational age  multiple births
+maternal disease paternal disease
+
+Sex year of birth month of birth maternal age
+at birth paternal age at birth and census income
+
+
+College education smoking race and mom’s age
+
+Maternal age at birth year of birth maternal
+parents’ education Census tract median income
+Census tract  college educated and HAP model
+year 
+Year of birth mother’s education birth spacing
+maternal prepregnancy BMI and month of
+conception 
+a a monitored only b modelderived  c other models d independent validation e record linkage or based on selfreports and f
+selfreport only or no description Bold indicates those studies included for metaanalysis
+Appendix B Bayesian metaanalysis
+For a given air pollutant i and study j we assumed that the
+distributed with unknown studyspeciﬁc mean  and variance
+observed studyspeciﬁc ORs  were normally
+ and that the unknown studyspeciﬁc means  were nor
+mally distributed with unknown mean  and variance s
+i  which
+indicated the heterogeneity among the studies In equation we
+
+Since information on both mean  and variance s
+Þ was
+limited noninformative priors diffused over a large range for each
+mean and standard deviation  were applied as follows
+mi  Nð0 1000Þ and si  Uð0 10 Þ
+When we considered timevarying associations we needed to
+add one more variable in equations e for the exposure time
+window t For example bij and miare to be changed to bijt and mit
+H Chun et al  Environmental Pollution 256  113307
+Air pollutant measurement method aca
+Near roadway air pollution  based on
+CALINE4 linesource air quality dispersion
+model US EPA data 
+Near roadway air pollution  based on
+CALINE4 linesource air quality dispersion model
+US EPA data 
+Random forests model using ground measured
+PM25 and PM10 data were obtained from 1497
+stations of the China National Environmental
+Monitoring Center  
+Land use regression models at 10m spatial
+resolution with continuous monitoring data
+ from Metro Vancouver’s Air Quality
+Monitoring Network
+Land use regression models based on 23
+monitoring sides around Tehran 
+Dispersion models using data from the air
+pollution monitoring database of the Technion
+Center of Excellence in Exposure Science and
+Environmental Health 
+NATA from US EPA linked to census tract of
+residence at birth 
+Land use regression models using data from air
+monitoring campaigns in the study areas 
+United States EPA’s Fused Air Quality Surface
+Using Downscaling  model was used to
+calculate averages of daily maximum eighthour
+average ozone estimates and 24haverage PM25
+estimates 
+
+
+We then compared mit for t ¼ T1 T2 and T3  to
+cbij  bij and cvij in equation  represent the reported 
+detect any variations associated with the time of exposure
+bijÞ respectively for a chosen air pollutant i
+ance given bij varðbbij
+estimate for studyspeciﬁc log  the unknown true study
+speciﬁc log  and the estimated studyspeciﬁc sampling vari
+and study j Equation  assumes that the withinstudy variation
+ is not ﬁxed varying over the study depending on its sample
+size However equation  assumes a ﬁxed betweenstudy varia
+tion s
+i  for a selected air pollutant which indicates that all studies
+were equally likely far from their mean mi regardless of the study’s
+scale
+In  we consider that the four pollutants can have different
+mean values of log  but all studies for a speciﬁc pollutant are
+from a normal distribution sharing the mean and dispersion ie mi
+and si Here the pollutionspeciﬁc mean miÞ is the main parameter
+to be estimated called pooled or metaestimate In  a random
+sampling of 300000 in addition to 30000 burnin through three
+chains provides the posterior distribution for the pollutionspeciﬁc
+mean and this study reports the 95 highest posterior density
+posterior interval collection of most likely values of the pollution
+speciﬁc mean
+ASD ascertainment method dfa
+Diagnosis of ASD based on ADOS and ADIR
+Identiﬁcation through California DDS records 
+Diagnosis of ASD based on ADOS and ADIR
+Identiﬁcation through California DDS records 
+Diagnosis of ASD based on ADOS and ADIR using
+both DSMIVTR and DSMV criteria Identiﬁcation
+through California DDS records 
+Social Communication Questionnaire  was
+ﬁrst completed by parents and teachers to screen
+for ASD cases Positive screens were then
+diagnosed by experienced pediatricians using
+DSMV criteria 
+Diagnosis of ASD based on ADOS and ADIR
+Identiﬁcation through British Columbia Autism
+Assessment Network 
+Identiﬁcation through 1 Center for Autism
+Diagnosis and Treatment 2 ASD support groups
+and 3 Schoolbased special education services
+
+Identiﬁcation from National Insurance Institute
+of Israel  claims 
+Score ≥ 15 on the Social Communication
+Questionnaire and written documentation from
+a child psychiatristpsychologist of ASD
+diagnosis
+Score  15 on the Social Communication
+Questionnaire and written documentation from a
+child psychiatristpsychologist of ASD diagnosis
+Diagnosis of ASD based on ADOS Identiﬁcation
+through Cincinnati Children’s Hospital Medical
+Center EMR 
+
+

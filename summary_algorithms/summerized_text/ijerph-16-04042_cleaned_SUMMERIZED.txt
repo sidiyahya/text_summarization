@@ -1,0 +1,64 @@
+SUMMARY SPACY 
+
+
+
+An environmental risk index based on the use of antibiotics during
+pregnancy andor the breastfeeding period was associated
+Greater numbers of oral antibiotic ﬁlls during the ﬁrst 3 years of
+enrollment were found to signiﬁcantly increase the hazard rate of
+having a later GIrelated diagnosis in both children with and
+Children with autism showed higher oral antibiotic usage in
+The use of various antibiotics showed an increased risk of
+
+32 MetaAnalysis Result Relating the ASD Risk in Antibiotic Exposure
+To investigate the association between ASD and antibiotic exposure the ASD risk was analyzed
+based on the antibiotic exposure and control group As shown in indicated that early antibiotic exposure including pre and postnatal signiﬁcantly increased the
+ASD risk in children  with moderate heterogeneity
+ As shown in exposure signiﬁcantly increased the ASD risk  with
+moderate heterogeneity  Furthermore as shown in exposure signiﬁcantly increased the ASD risk in children OR  1159 95 CI 1040–1293 p  0008
+I2  5062 Moderate heterogeneity was identiﬁed across all studies therefore as shown in a randomeﬀects model was performed The funnel plots and Egger’s test  showed signiﬁcant
+results in seven of the included studies however in subgroup analyses the results of the Egger’ tests
+children Eﬀects sizes are measured as odds ratio in the antibiotic exposed group compared to that
+in the control group  Forest plot of the ASD risk in early  antibiotic exposure
+Heterogeneity Q  15669 p  0016 I2  61709
+In our study both pre and postnatal
+antibiotic use increased the ASD risk use was signiﬁcantly elevated in children with ASD compared to controls to compare or discuss the risk levels of prenatal and postnatal antibiotic use because studies on the
+relationship between ASD risk and postnatal antibiotic use did not specify the prenatal antibiotic
+exposure  Further studies on the relationship between ASD onset and prenatal antibiotic use
+did not speciﬁcally mention a followup on postnatal antibiotic exposure  However the results
+of our bidirectional metaanalysis suggest that prenatal antibiotic exposure is a more potent risk
+factor for ASD This is further indicated by a prebirth cohort study that examined the association
+between pre and postnatal smoking exposure and atopic eczema and reported that only prenatal
+smoking exposure increased the risk of atopic eczema by 711 times compared to postnatal smoking
+exposure  Moreover ASD which is an early complex neurodevelopmental disorder is known
+to develop before the age of three  In particular the fetal period is a crucial period in brain
+development and exposure to harmful environmental factors during this period can substantially
+increase the risk of neurodevelopmental disorders  One study reported that prenatal opiate
+exposure aﬀected brain development  Therefore prenatal antibiotic exposure is believed to be an
+important risk factor for ASD onset  Indeed early postnatal antibiotic exposure is known to
+increase ASD risk However in our study the reduced inﬂuence of postnatal antibiotic exposure on
+increasing ASD risk could be attributed to the age range of our study population 
+Further studies comparing pre and postnatal antibiotic use with adjustment for various confounders
+should be conducted to conﬁrm our results
+
+Although we systematically analyzed the relationship between ASD and early antibiotic exposure
+this study has a few limitations First although we analyzed various data on antibiotic exposure
+including the number and amount of exposure as well as diverse antibiotic mechanisms we could not
+analyze according to antibiotic type due to insuﬃcient data Further we did not consider the gestational
+age in prenatal exposure and used a wide age range for postnatal exposure Second although we
+used a randomeﬀects model to address the high heterogeneity and indicated no publication bias
+except for the total results relating to ASD in early exposure we had a limited sample size Third
+postnatal antibiotic exposure remains controversial Although the test results on publication bias
+showed low statistical signiﬁcance they cannot be considered conclusive on their own given the small
+sample size and their closeness to statistical signiﬁcance There has been ambiguity in distinguishing
+diﬀerent periods in previous studies on the eﬀects of pre and postnatal antibiotic use Further small
+experimental and large investigative studies reported contradicting ﬁndings due to the diﬃculty of
+adjusting for various confounders which were described as limitations Thus there is a need for large
+controlled experimental or cohort studies adjusting for potential confounders to clearly determine the
+impact of postnatal antibiotic exposure on ASD
+5 Conclusions
+Notwithstanding these limitations this study remains signiﬁcant since it used twosided
+metaanalyses to systematically analyze the relationship between ASD and early antibiotic exposure
+and provides more evidence on the association between ASD risk and prenatal antibiotic exposure
+
+----------------FIN------------------

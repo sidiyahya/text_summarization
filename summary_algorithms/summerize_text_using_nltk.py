@@ -102,7 +102,8 @@ def generate_summary(file_data, sent_word_length, top_n):
     return summarized_text
 
 if __name__ == '__main__':
-    with open('../files/text_articles/test_algo.txt', 'r') as f:
+    #test article: files/text_articles/test_algo.txt
+    with open('/home/mohamedali/PycharmProjects/text_summarization/pdf_processing/pdf_processing_output/abstract of abstracts.txt', 'r') as f:
         file_data = f.read()
     summary = generate_summary(file_data, 30, 3)
     for i in summary:

@@ -1,0 +1,71 @@
+SUMMARY SPACY 
+
+
+
+The present study used a comprehensive search strategy and explored the relationship between maternal smoking 
+during pregnancy and ASD in offspring Three previously published metaanalyses have shown no significant 
+association between maternal smoking and ASD in offspring analyzing 5 or 15 individual studies29–31 Our main 
+analysis which included 22 studies and is the first to include an observational study in an Asian population also 
+showed no significant association between maternal smoking during pregnancy and ASD mine the source of the substantial heterogeneity in our main analysis we performed subgroup analyses using 
+metaregression with various modalities We produced novel findings by comparing results by study location 
+and by using populationlevel measures of tobacco consumption In subgroup analyses a significant positive 
+association between maternal smoking and ASD in the offspring was observed in studies conducted in China 
+and Europe but not those in North America Correlating with these relative rankings the smoking population 
+of adult males in China and the European countries represented in this analysis except Sweden are higher than 
+the adult male smoking populations in the US and Canada  Our metaregression analysis with adult 
+male smoking prevalence in each country as a continuous moderator also indicated a significant correlation with 
+ASD risk smoke exposure reported by youth and adult women sure may indeed increase ASD risk in offspring but that exclusively assessing active maternal smoking under
+estimates total exposure which includes secondhand smoke before or after birth Measures of smoking in the 
+overall population may provide this missing measure of secondhand smoke exposure thereby modulating the 
+relationship between maternal smoking and ASD in offspring to produce significant correlations
+Two important limitations of using the smoking prevalence data should be noted First the 2008 smoking 
+prevalence data were used for all subjects included in the metaanalysis who were born between 1980–2012 
+The 2008 report was chosen because it was the earliest report to comprehensively and systematically measure 
+smoking prevalence in member countries
+The passive smoke exposure in these studies was not 
+exclusive to paternal smoking and included for example exposure from smoking colleagues active maternal 
+smoking data was not reported Together these results suggest that paternal smoking may be an important factor 
+for its impact on maternal smoke exposure during pregnancy rather than for direct effects on the father’s role in 
+
+Male and  female smoking prevalence percentages compared to secondhand smoke exposure reported by 
+youths 13–15 years old for exposures at home and outside the home all extracted from WHO’s 2008 report on 
+the global tobacco epidemic  Male and  female smoking prevalence percentages compared to secondhand 
+smoke exposure reported by female adults for exposures at home and at work according to the Global Adult 
+Tobacco Survey accessed through CDC databases SHS  secondhand smoke
+Importantly populationlevel smoking is one of many possible risk factors for ASD Results of our subgroup 
+and moderator analyses indicated that populationlevel tobacco consumption study location and study sample 
+size could only account for 14 of the total heterogeneity found in this analysis As noted in the introduction 
+there are several adverse outcomes such as low birth weight linked to both maternal smoking and to ASD 
+that not only suggest maternal smoking is a plausible environmental cause of ASD but also pose potential con
+founds for studying the direct association between ASD and maternal smoking Several observational studies 
+included in our metaanalysis adjusted for potential confounding factors either by matching controls to cases on 
+One significant result from our subgroup analyses was that maternal smoking was associated with elevated 
+ASD risk in studies with the lowest quartile of sample sizes   Interestingly 
+all six studies in the lowest quartile of sample sizes assessed maternal smoking exposure after birth subgroup 
+analyses showed that this method of maternal smoking assessment used in 922 studies was also associated with 
+an increased risk of ASD   Additionally all 422 studies that diagnosed 
+ASD by direct evaluation are represented in the lowest quartile of samples sizes The significance of this obser
+vation is unclear it may be that studies directly evaluating ASD had small sample sizes necessitated by limited 
+resources and that the significant effect of sample size in our subgroup analysis is due to sampling bias
+In summary our study included 22 observational studies and is the first to include one conducted in an Asian 
+population While our main metaanalysis is consistent with previous metaanalyses in finding no significant 
+association between maternal smoking and ASD in offspring our subgroup and moderator analyses with pop
+ulation smoking metrics suggest that a more nuanced interpretation of this null association is warranted In 
+future studies more consistent and systematic examination of nonmaternal sources of in utero or developmental 
+nicotine exposure such as smoking in the fathers household or general population may yield important results
+Methods
+Data Sources and Searches  We followed PRIMSAP guidelines for metaanalytic studies Literature 
+searches were conducted on PubMed EMBASE Web of Science and Cochrane Library to identify peerreviewed 
+Study Selection  Full texts of potentially relevant reports were examined for the following inclusion criteria 
+ a cohort or casecontrol design and  data reported in such a way that the authors could extract or calculate 
+the number of ASD cases with mothers who did and did not smoke during pregnancy and control subjects with 
+mothers who did and did not smoke during pregnancy Two authors  independently confirmed fulfill
+ment of inclusion criteria
+Data Extraction and Quality Assessment 
+Information was extracted from each study as a contingency 
+table using a binary maternal smoking variable and a binary ASD variable Any maternal smoke exposure during 
+pregnancy was considered positive for maternal smoking and any ASD in offspring regardless of subtype was 
+considered positive for ASD Two authors  independently extracted data and resolved any disagree
+ments by discussion Additionally the following data were extracted last name of the first author publication
+
+----------------FIN------------------

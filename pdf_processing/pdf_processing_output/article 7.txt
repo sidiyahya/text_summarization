@@ -1,0 +1,140 @@
+Autism spectrum disorder (ASD) is a neurodevelopmental disorder characterized by
+communication and interaction difficulties as well as repeated and stereotyped behaviors and
+interests . Approximately 66 million individuals worldwide have ASD, and it has been reported to
+begin early in life .
+Although the exact cause of ASD is unknown, genetic factors are key contributors. Further,
+various environmental factors are involved and are considered an important aspect of the increased
+prevalence of ASD . Rapid industrialization and the consequent environmental pollution have
+also increased the risk of exposure to toxic substances via various pathways. Since ASD occurs early in
+life, studies have reported that toxic exposure, such as mercury poisoning in the prenatal or childhood
+period, could cause ASD  Therefore, infant mercury poisoning caused by seafood consumption
+by the mother, pediatric vaccination, and prenatal use of antibiotics has been suggested to cause
+ASD . Moreover, studies have reported that pre-  and postnatal exposure to antibiotics and
+acetaminophen increases the ASD risk
+Although antibiotics are essential for treating some diseases, antibiotic exposure has been
+associated with various diseases. Antibiotic use can cause abnormal changes in the human microbiome.
+Studies have suggested that when the altered microbiome is passed onto the fetus, it increases the risk
+of colitis and ASD by impeding neurological development . Further, antibiotic exposure
+has been reported to be weakly associated with the risk for ASD ; however, this association
+cannot be clearly established given the difficulty of measuring fetal antibiotic exposure. Studies have
+also reported that postnatal antibiotic exposure is associated with ASD; specifically, postnatal use of
+acetaminophen and antibiotics, as well as ear infection, were reported to increase the risk for ASD .
+This indicates that despite continued studies on the association between ASD and antibiotics,
+a definitive conclusion is yet to be reached. Particularly, the lack of consensus on pre- and postnatal
+antibiotic exposure has hindered efforts toward determining this relationship. Therefore, we aimed
+to conduct two-side meta-analyses to clearly determine the relationship between ASD and antibiotic
+use as well as present foundational data for preventive and management strategies for lowering the
+ASD risk.
+Search Strategy and Selection Criteria
+This meta-analysis was performed in accordance with the PRISMA guidelines and was
+approved by the institutional review board of Gachon University .
+We searched PubMed, Embase, Web of Science, and Cochrane Library databases for all relevant
+studies written in English and published before February 2019. The search terms used were  andFor meta-analysis, we included studies that reported the association between ASD and
+pre- or postnatal antibiotic exposure in childhood and excluded studies that did not report the
+antibiotic exposure level as well as the ASD and control group. We included observational studies,
+including case-control, cross-sectional, and cohort studies and excluded commentary, editorial, and
+review articles.
+All authors independently screened and selected relevant data, and any disagreements were
+resolved by discussion. We extracted relevant data, including first author, publication year, study
+design, country, sample size, age of participants, and related outcomes. Moreover, to assess the
+association between ASD and pre- or postnatal antibiotic exposure in childhood, we extracted all
+measurement data including prevalence data of patients with ASD and controls group as well as the
+number and amount of pre- and postnatal antibiotic exposure. The risk estimates of ASD in antibiotic
+exposure and the standardized mean difference  of antibiotic exposure in ASD were analyzed
+via meta-analysis using the Comprehensive Meta-Analysis software version 3 . We assessed the heterogeneity using the Q statistic and I
+model was applied in all analyses to address heterogeneity. Subgroup analyses were performed
+based on group differences in prenatal and postnatal exposure. Publication bias was assessed using
+funnel plots and Egger’s intercept. indicated a significant difference. Furthermore, for
+quality assessment, we used the Newcastle Ottawa Scale to assess the methodological quality
+of the nine included studies . The NOS is a representative tool developed for meta-analysis
+of non-randomized comparative studies, including case-control, cross-sectional, and cohort studies.
+It comprises an adjustment item with the selection of study groups, comparability of the groups, and
+determination of either the exposure or outcome of interest to evaluate the quality of articles included
+in the meta-analyses.
+We initially identified 1877 studies , and after the elimination of duplicates using the
+Endnote reference database, 1459 studies remained. We excluded 1348 articles based on the titles and
+60 articles based on the abstract, and thus were left with 51 articles that were eligible for full-text
+screening. After close review, 42 publications were excluded because of lack of usable data and failure
+to meet the inclusion criteria. Finally, a total of nine articles were identified and included in the
+meta-analysis. Table 1 shows the characteristics of the nine selected studies, which were published
+between 2007 and 2019.  All studies were performed in the USA, Denmark, Italy, Lebanon, Canada, and Sweden. The age of the subjects
+ranged from birth to 18 years. The outcomes of the nine studies were only described as related content
+regarding ASD and antibiotic usage.
+We initially identified 1877 studies , and after the elimination of duplicates using the
+Endnote reference database, 1459 studies remained. We excluded 1348 articles based on the titles and
+60 articles based on the abstract, and thus were left with 51 articles that were eligible for full-text
+screening. After close review, 42 publications were excluded because of lack of usable data and failure
+to meet the inclusion criteria. Finally, a total of nine articles were identified and included in the
+meta-analysis. Table 1 shows the characteristics of the nine selected studies, which were published
+between 2007 and 2019. The outcomes of the nine studies were only described as related content
+regarding ASD and antibiotic usage. In addition, the quality scores ranged from 5 to 8.
+Meta-Analysis Result Relating the ASD Risk in Antibiotic Exposure
+To investigate the association between ASD and antibiotic exposure, the ASD risk was analyzed
+based on the antibiotic exposure and control group. As shown in Figure 2A, meta-analysis results
+indicated that early antibiotic exposure, including pre- and postnatal, significantly increased the
+ASD risk in children ) with moderate heterogeneity
+
+, the results of subgroup analyses showed that prenatal antibiotic
+exposure significantly increased the ASD risk with
+moderate heterogeneity Furthermore, as shown in Figure 2C, postnatal antibiotic
+exposure significantly increased the ASD risk in children. Moderate heterogeneity was identified across all studies; therefore,
+a random-effects model was performed. The funnel plots and Egger’s test  showed significant
+results in seven of the included studies; however, in subgroup analyses, the results of the Egger’ tests
+ were not significant, indicating no publication bias.
+Meta-Analysis Results Related to Antibiotic Exposure in ASD
+To assess the association between ASD and antibiotic exposure in children, we analyzed differences
+in antibiotic exposure between the ASD and control groups. Meta-analysis results showed significantly
+increased early antibiotic exposure, including pre- and postnatal, in children with ASD. Further, there was obvious heterogeneity in the included
+studies therefore, we applied a random-effects model to the analysis. The funnel plots and
+Egger’s test did not give significant results (p = 0.67), indicating no publication bias. In the subgroup
+analyses, prenatal antibiotic exposure was significantly increased in children with ASD  with moderate heterogeneity . However, as shown
+in Figure 3C, there was no significant difference in the postnatal antibiotic exposure between children
+with ASD and controls. there was significant heterogeneity across all studies; therefore, a random-effects model was
+performed. Furthermore, the funnel plots and Egger’s test performed for all studies did not show
+statistical significance , indicating no
+publication bias.
+This study analyzed the relationship between ASD and early antibiotic use in children using
+two-sided meta-analyses. Specifically, we analyzed the relationship between ASD and pre- and
+postnatal antibiotic exposure in children using a systematic method. Our results indicated that pre and postnatal antibiotic use increased the ASD risk. This is consistent with previous reports that pre-
+and postnatal antibiotic use causes ASD in children . In our study, both pre- and postnatal
+antibiotic use increased the ASD risk ; however, only prenatal, but not postnatal, antibiotic
+use was significantly elevated in children with ASD compared to controls . It is difficult
+to compare or discuss the risk levels of prenatal and postnatal antibiotic use because studies on the
+relationship between ASD risk and postnatal antibiotic use did not specify the prenatal antibiotic
+exposure . Further, studies on the relationship between ASD onset and prenatal antibiotic use
+did not specifically mention a follow-up on postnatal antibiotic exposure . However, the results
+of our bidirectional meta-analysis suggest that prenatal antibiotic exposure is a more potent risk
+factor for ASD. This is further indicated by a pre-birth cohort study that examined the association
+between pre- and postnatal smoking exposure and atopic eczema, and reported that only prenatal
+smoking exposure increased the risk of atopic eczema by 7.11 times compared to postnatal smoking
+exposure . Moreover, ASD, which is an early complex neurodevelopmental disorder, is known
+to develop before the age of three. In particular, the fetal period is a crucial period in brain
+development and exposure to harmful environmental factors during this period can substantially
+increase the risk of neurodevelopmental disorders . One study reported that prenatal opiate
+exposure affected brain development  Therefore, prenatal antibiotic exposure is believed to be an
+important risk factor for ASD onset . Indeed, early postnatal antibiotic exposure is known to
+increase ASD risk. However, in our study, the reduced influence of postnatal antibiotic exposure on
+increasing ASD risk could be attributed to the age range of our study population .
+Further studies comparing pre- and postnatal antibiotic use with adjustment for various confounders
+should be conducted to confirm our results.
+Although we systematically analyzed the relationship between ASD and early antibiotic exposure,
+this study has a few limitations. First, although we analyzed various data on antibiotic exposure,
+including the number and amount of exposure as well as diverse antibiotic mechanisms, we could not
+analyze according to antibiotic type due to insufficient data. Further, we did not consider the gestational
+age in prenatal exposure and used a wide age range for postnatal exposure. Second, although we
+used a random-effects model to address the high heterogeneity and indicated no publication bias,
+except for the total results relating to ASD in early exposure, we had a limited sample size. Third,
+postnatal antibiotic exposure remains controversial. Although the test results on publication bias
+showed low statistical significance, they cannot be considered conclusive on their own given the small
+sample size and their closeness to statistical significance. There has been ambiguity in distinguishing
+different periods in previous studies on the effects of pre- and postnatal antibiotic use. Further, small
+experimental and large investigative studies reported contradicting findings due to the difficulty of
+adjusting for various confounders, which were described as limitations. Thus, there is a need for large
+controlled experimental or cohort studies adjusting for potential confounders to clearly determine the
+impact of postnatal antibiotic exposure on ASD.
+Notwithstanding these limitations, this study remains significant since it used two-sided
+meta-analyses to systematically analyze the relationship between ASD and early antibiotic exposure
+and provides more evidence on the association between ASD risk and prenatal antibiotic exposure.
+Subsequent studies should further analyze the association of pre- and postnatal antibiotic exposure
+with ASD to contribute towards lowering the ASD risk and the prevention and management of ASD
+in children.

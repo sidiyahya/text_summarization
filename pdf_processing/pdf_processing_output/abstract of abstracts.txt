@@ -1,0 +1,146 @@
+The number of children diagnosed with autism spectrum disorder (ASD) has been
+increasing. Previous studies suggested potential association between pregnancy air pollution exposure
+and ASD. This systematic review and meta-analysis is intended to summarize the association between
+maternal exposure to outdoor air pollution and ASD in children by trimester based on recent studies.
+Methods: A systematic literature search in 3 databases (Medline, Embase, and Web of Science) was
+performed using subject headings related to ASD and air pollution since 2007. Eligible studies were
+screened and evaluated based on predetermined criteria. For meta-analyses, the studies were grouped by
+
+air pollutant and exposure time (prenatal period and trimesters). Within-group studies were stan-
+dardized by log odds ratio (OR) and then combined by three meta-analysis methods: frequentist fixed
+
+and random effects models, and Bayesian random effects model.
+
+Results: Initial search identified 1564 papers, of which 25 studies remained for final analysis after du-
+plicates and ineligible studies were removed. Of the 25 studies, 13, 14, 12, and 7 studies investigated ASD
+
+in children associated with PM2.5, PM10, NO2, and ozone, respectively. The frequentist and Bayesian
+
+random effects models resulted in different statistical significance. For prenatal period, frequentist meta-
+analysis returned significant pooled ORs with 95% confidence intervals, 1.06(1.01,1.11) for PM2.5 and
+
+1.02(1.01,1.04) for NO2, whereas Bayesian meta-analysis showed similar ORs with wider 95% posterior
+intervals, 1.06(1.00,1.13) for PM2.5 and 1.02(1.00,1.05) for NO2. Third trimester appeared to have higher
+pooled ORs for PM2.5, PM10, and ozone, but patterns in the time-varying associations over the trimester
+were inconsistent.
+Conclusions: For positive association between maternal exposure to ambient air pollution and ASD in
+children, there is some evidence for PM2.5, weak evidence for NO2 and little evidence for PM10 and ozone.
+However, patterns in associations over trimesters were inconsistent among studies and among air
+pollutants.
+Despite the widely-known effects of air pollution, pollutants exposure surrounding pregnancy and the
+risk for autism spectrum disorder (ASD) in newborns remains controversial. The purpose of our study
+was to carry out a systematic review and meta-analyses of the risk of ASD in newborns following air
+pollution exposure during the perinatal period (preconception to second year of life). The PubMed,
+Cochrane Library, Embase and ScienceDirect databases were searched for articles, published up to July
+2020, with the keywords “air pollution” and “autism”. Three models were used for each meta-analysis: a
+global model based on all risks listed in included articles, a pessimistic model based on less favorable
+data only, and an optimistic model based on the most favorable data only. 28 studies corresponding to a
+total of 758 997 newborns were included (47190 ASD and 703980 controls). Maternal exposure to all
+pollutants was associated with an increased risk of ASD in newborns by 3.9% using the global model and
+by 12.3% using the optimistic model, while the pessimistic model found no change. Each increase of 5 mg/
+m3 in particulate matter <2.5 mm (PM2.5) was associated with an increased risk of ASD in newborns,
+regardless of the model used (global þ7%, pessimistic þ5%, optimistic þ15%). This risk increased during
+preconception (global þ17%), during pregnancy (global þ5%, and optimistic þ16%), and during the
+postnatal period (global þ11% and optimistic þ16%). Evidence levels were poor for other pollutants
+(PM10, NOx, O3, metals, solvents, styrene, PAHs, pesticides). PM2.5 was associated with a greater risk
+than PM10 (coefficient 0.20, 95CI 0.02 to 0.42), NOx (0.29, 0.08 to 0.50) or solvents (0.24, 0.04 to 0.44).
+All models revealed that exposure to pollutants, notably PM2.5 during pregnancy, was associated with an
+increased risk of ASD in newborns. Pregnancy and postnatal periods seem to be the most at-risk periods.
+
+Background: Various techniques in assisted reproductive technology (ART) have been developed as solutions for
+specific infertility problems. It is important to gain consensual conclusions on the actual risks of
+neurodevelopmental disorders among children who are born from ART. This study aimed to quantify the relative
+risks of cerebral palsy, intellectual disability, autism spectrum disorder (ASD), and behavioral problems in children
+from different ART methods by using systematic review and meta-analysis. Healthcare providers could use the
+results of this study to suggest the suitable ART technique and plan optimum postnatal care.
+Methods: Pubmed, Google Scholar, and Scopus databases were used to search for studies up to January 2020. Of
+the 181 screened full manuscripts, 17 studies (9.39%) fulfilled the selection criteria. Based on the Newcastle-Ottawa
+scale ratings, 7 studies were excluded, resulting in 10 studies that were eventually included in the meta-analyses.
+Mantel-Haenszel risk ratio model was used in the meta-analysis, and the results are described using forest plot with
+95% confidence interval. Heterogeneity was assessed using the I
+2 value.
+
+Results: Pooled evaluation of 10 studies showed that the risk of cerebral palsy in children from assisted
+reproductive technology (ART) is higher than children from natural conceptions (risk ratio [RR] 1.82, [1.41, 2.34];
+P = 0.00001). Risk of intellectual disability (RR 1.46, [1.03, 2.08]; P = 0.03) and ASD (RR 1.49 [1.05, 2.11]; P = 0.03) are
+higher in intracytoplasmic sperm injection (ICSI) children compared to conventional in vitro fertilization (IVF)
+children. The differences in the risk of neurodevelopmental disorders in children born after frozen and fresh embryo
+transfers are not significant. Analysis on potential cofounder effects, including multiple birth, preterm birth, and low
+birth body weight highlight possibilities of significant correlation to the risks of neurodevelopmental disorders.
+(Continued on next page)
+
+Genetic and environmental factors have been recognized to play an important
+
+role in autism. The possibility that exposure to outdoor air pollution increases the risk of autism spec-
+trum disorder (ASD) has been an emerging area of research. Herein, we present a systematic review, and
+
+meta-analysis of published epidemiological studies that have investigated these associations.
+Methods: We undertook a comprehensive search strategy to identify studies that investigated outdoor
+
+air pollution and autism in children. Overall, seven cohorts and five case-control studies met our in-
+clusion criteria for the meta-analysis. We summarized the associations between exposure to air pollution
+
+and ASD based on the following critical exposure windows: (i) first, second and third trimester of
+pregnancy, (ii) entire pregnancy, and (iii) postnatal period. Random effects meta-analysis modeling was
+undertaken to derive pooled risk estimates for these exposures across the studies.
+Results: The meta-estimates for the change in ASD associated with a 10 μg/m3 increase in exposure in
+PM2.5 and 10 ppb increase in NO2 during pregnancy were 1.34 (95% CI:0.83, 2.17) and 1.05 (95% CI:0.99,
+1.11), respectively. Stronger associations were observed for exposures received after birth, but these
+estimates were unstable as they were based on only two studies. O3 exposure was weakly associated
+
+with ASD during the third trimester of pregnancy and during the entire pregnancy, however, these es-
+timates were also based on only two studies.
+
+Conclusion: Our meta-analysis support the hypothesis that exposure to ambient air pollution is asso-
+ciated with an increased risk of autism. Our findings should be interpreted cautiously due to relatively
+
+small number of studies, and several studies were unable to control for other key risk factors.
+
+Many studies have found associations between early life air pollution exposure and subsequent onset
+of autism spectrum disorder (ASD). However, characteristics that affect susceptibility remain unclear.
+Objective: This systematic review examined epidemiologic studies on the modifying roles of social, child, genetic
+and maternal characteristics in associations between prenatal and early postnatal air pollution exposure and
+ASD.
+Methods: A systematic literature search in PubMed and Embase was conducted. Studies that examined modifiers
+of the association between air pollution and ASD were included.
+
+Results: A total of 19 publications examined modifiers of the associations between early life air pollution ex-
+posures and ASD. In general, estimates of effects on risk of ASD in boys were larger than in girls (based on 11
+
+studies). Results from studies of effects of family education (2 studies) and neighborhood deprivation (2 studies)
+on air pollution-ASD associations were inconsistent. Limited data (1 study) suggest pregnant women with
+insufficient folic acid intake might be more susceptible to ambient particulate matter less than 2.5 μm (PM2.5)
+and 10 μm (PM10) in aerodynamic diameter, and to nitrogen dioxide (NO2). Children of mothers with gestational
+diabetes had increased risk of ozone-associated ASD (1 study). Two genetic studies reported that copy number
+variations may amplify the effect of ozone, and MET rs1858830 CC genotype may augment effects of PM and
+near-roadway pollutants on ASD.
+Conclusions: Child’s sex, maternal nutrition or diabetes, socioeconomic factors, and child risk genotypes were
+reported to modify the effect of early-life air pollutants on ASD risk in the epidemiologic literature. However, the
+sparsity of studies on comparable modifying hypotheses precludes conclusive findings. Further research is
+needed to identify susceptible populations and potential targets for preventive intervention.
+
+Autism spectrum disorder (ASD) is a developmental disorder that begins in early childhood
+and has been associated with several environmental and genetic factors. We aimed to conduct
+two-side meta-analyses to determine the association between ASD and pre- and postnatal antibiotic
+exposure in childhood. We searched PubMed, Embase, Web of Science, and Cochrane Library
+for articles published up to February 2019. We evaluated observational studies that assessed the
+association between ASD and antibiotic exposure. Of 1459 articles, nine studies were used in the
+meta-analysis. We found that early antibiotic exposure, including pre- and postnatal, significantly
+increased the ASD risk in children. Furthermore, early antibiotic exposure, including pre- and
+postnatal, was significantly increased in children with ASD. Specifically, prenatal antibiotic exposure
+was significantly increased in children with ASD; however, postnatal antibiotic exposure was not.
+Our results indicate an association between ASD and early antibiotic exposure; specifically, that
+prenatal antibiotic exposure is an important risk factor of ASD in children.
+
+We systematically reviewed evidence from observational studies on the associations between autism spectrum disorders
+
+(ASD) and early-life antibiotic exposure. Eleven articles were included in the review. Prenatal antibiotic exposure was associ-
+ated with a slightly increased risk of ASD in two cohort studies on overlapping populations and in one case–control study;
+
+in three other case–control studies, no signifcant association was found. One cohort study found a slightly reduced risk of
+ASD after postnatal antibiotic exposure, while two other cohort studies on overlapping populations and three case–control
+studies reported an increased risk. Meta-analysis of the eligible studies showed no signifcant associations. Current data are
+conficting and do not conclusively support the hypothesis that early-life antibiotic exposure is associated with subsequent
+ASD development.
+
+

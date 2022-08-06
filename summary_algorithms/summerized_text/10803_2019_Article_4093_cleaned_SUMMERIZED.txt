@@ -1,0 +1,133 @@
+SUMMARY SPACY 
+
+
+
+Hypothetically these observed 
+effects could be attributable to microbiota alterations trig
+gering a disturbed immune response and the release of 
+cytokines thus affecting the function of the central nerv
+ous system  Recently a number of 
+observational studies have assessed a possible association of 
+earlylife antibiotic exposure and subsequent development 
+of ASD Here we aimed to systematically document avail
+able evidence on the association between early life antibiotic 
+exposure and the prevalence of ASD later in in childhood
+Methods
+InclusionExclusion Criteria for the Review
+Cohort studies case–control studies and crosssectional 
+studies  were  eligible  for  inclusion  in  this  review  The 
+included  studies  needed  to  investigate  an  association 
+between pre andor postnatal antibiotic exposure and sub
+sequent diagnosis of ASD We included studies in which 
+women during any trimester of pregnancy or infants and
+or children underwent antibiotic treatment We focused on 
+earlylife antibiotic exposure that preceded a diagnosis of 
+ASD which is usually established after the second year of 
+life  Studies on antibiotic exposure in 
+breastfeeding mothers and subsequent risk of ASD in their 
+children were not included Since the hypothesized link 
+between ASD and antibiotic use is based on the aforemen
+tioned microbiomegutbrain axis mechanism only stud
+ies which reported data on systemic andor oral antibiotic 
+therapy were taken into an account Any antibiotic types 
+and doses as well as any treatment durations and indica
+tions were admissible as long as the therapy fulfilled the 
+aforementioned criteria Studies that reported data on anti
+biotic use collectively  
+or that did not report numerical data were excluded Studies 
+in which the data on antibiotic use was collected only for the 
+purpose of baseline characteristic of participants with no 
+analysis of the association between antibiotic use and ASD 
+were also excluded
+
+The studies involved respec
+tively 96736 children including 976 with ASD Atladot
+tir et al 2012 and 780547 children including 9352 with 
+autism  Population of the first study 
+was most likely contained within the population of the sec
+ond therefore we didn’t perform a metaanalysis The first 
+study reported a borderline significant increase in the risk 
+of ASD after use of any antibiotics anytime during preg
+nancy adjusted hazard ratio  12 95 confidence 
+interval  10–14 A stronger association of prenatal 
+antibiotic exposure with the risk of ASD was reported for 
+the use of sulfonamides anytime during pregnancy aHR 
+15 95 CI 10–22 and use of penicillins during the sec
+ond  and third  
+trimester Similar results were observed for infantile autism 
+ with 
+the strongest association reported for the use of macrolides 
+anytime during the pregnancy  
+Confounding factors controlled for in adjusted model were 
+as follows gender maternal age parity maternal smoking 
+during pregnancy paternal age parental psychiatric history 
+and parents’ educational status
+The second study reported a significant positive asso
+ciation between exposure to any antibiotic anytime during 
+pregnancy and subsequent risk of autism in the offspring 
+ The analysis was adjusted 
+only for sex and age Assessment of this association was not 
+a primary focus of the study and it was only reported as a 
+secondary analysis in the supplementary materials
+Case–Control Studies
+Four of the included case–control studies examined risk of 
+ASD after prenatal antibiotic exposure Among them two 
+clinicbased studies  
+were available for a metaanalysis They were conducted in 
+groups of children of 343  and 314 136 
+with ASD respectively None of those studies found sig
+nificant associations between antibiotic use and ASD with 
+pooled odds ratio from random effect model of 124 95 
+CI 053–292 tors used for the analysis
+However a significant association was no longer observed 
+in the betweenwithin sibling model aHR 105 95 CI 
+093–118 and aHR 105 95 CI 095–116 for penicillin 
+and broaderspectrum antibiotics respectively In another 
+study performed in 780547 children including 9352 with 
+autism  the risk of autism increased 
+after broadspectrum antibiotic exposure before the age of 
+5  Moreover risk of autism 
+was higher after exposure to broadspectrum and moder
+atespectrum antibiotics anytime during childhood aHR 
+151 95 CI 133–172 and aHR 122 95 CI 113–132 
+respectively Both of these studies controlled for a range 
+of potential confounders including different demographic 
+pregnancy and neonatal factors parental psychiatric history 
+and parity
+Since at least two studies of the same type reported the 
+aHR of ASD after antibiotic exposure a metaanalysis was 
+feasible However the two Danish studies were performed in 
+highly overlapping populations so pooling of their data was 
+not justifiable To perform a metaanalysis we used the data 
+from the 1 of the 2 Danish studies in which the exposure 
+and its timing were consistent with those in the Canadian 
+study  Pooling of the data did not yield 
+any significant association between antibiotic exposure and 
+subsequent diagnosis of ASD either in the standard model 
+ or in 
+the sibling model summary effect estimate 105 95 CI 
+096–114 both in random effects  and fixed 
+effects analysis
+Case–Control Studies
+Three case–control studies examined association between 
+ASD and childhood antibiotic exposure One internet sur
+veybased study performed in 1515 children 1001 with 
+ASD  which reported the data in 
+the form of logistic regression OR found a positive associa
+tion between the number of antibiotic courses taken during 
+the first 2 years of life and subsequent diagnosis of ASD in 
+all performed analyses including the final multifactor model 
+ The study controlled for 
+age of the child ethnicity maternal education and region
+Another study performed in a group of 214 children 73 
+with autism  reported crude ORs of 
+autism in children exposed postnatally to antibiotics com
+pared to unexposed unrelated controls OR 243 95 CI 
+09–652 and unexposed healthy siblings OR 203 95 
+CI 040–91 Additionally a multivariable modeling of data 
+was performed with use of the AutoCM artificial neural net
+work—a method that does not generate numerical results but 
+rather provides a map of associations of strength between all 
+variables in the data set According to the authors’ interpre
+
+----------------FIN------------------
